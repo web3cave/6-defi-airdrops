@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defi_airdrops",
       "articles": [
         {
+          "id": "https://twitter.com/defi_airdrops/status/1508467122338516993",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Re $vCOW can now be swapped for $COW https://cowswap.exchange/#/profile",
+          "link": "https://twitter.com/defi_airdrops/status/1508467122338516993",
+          "publishedOn": "2022-03-28T15:32:42.000Z",
+          "wordCount": 196,
+          "title": "Re $vCOW can now be swapped for $COW",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1508466331892465668",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Re token is now live and tradeable on @uniswap @BalancerLabs various DEX aggregators\nswapping $vCOW for $COW is possible via contract but no user interface yet https://www.coingecko.com/en/coins/cow-protocol",
+          "link": "https://twitter.com/defi_airdrops/status/1508466331892465668",
+          "publishedOn": "2022-03-28T15:29:34.000Z",
+          "wordCount": 196,
+          "title": "Re token is now live and tradeable on @uniswap @BalancerLabs various DEX aggregators swapping $vCOW for $COW is possible via contract but no user inte...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defi_airdrops/status/1508413763749388291",
           "author": "DeFi Airdrops 🦇🔊",
           "description": "Re btw $SAFE / @gnosisSafe is next\nkamikaz ΞTH: 1/ THREAD\n[ A DeFi Magic Trick and the Hidden Jewel of the $COW AirDrop: $GNO ]\nIn this thread, I explain why the optimal strategic play for the CoW Swap $COW airdrop unlock on March 28 is to look beyond the distractions to see the $GNO token hidden in plain sight.\n👇🧵",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-03-14T10:07:05.000Z",
           "wordCount": 196,
           "title": "Re zk-Sync doesn't have smart contracts yet but you can already do a ton of things via Argent - stake $ETH via @LidoFinance - invest in @iearnfinance ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1503311735607934976",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "With gas prices at 18 gwei it's time to be smart and get your @argentHQ L2 wallet.\nThe first transaction on @zksync is a bit more expensive for technical reasons (currently around $2) for all subsequent transactions you get the full L2 benefits.",
-          "link": "https://twitter.com/defi_airdrops/status/1503311735607934976",
-          "publishedOn": "2022-03-14T10:07:02.000Z",
-          "wordCount": 196,
-          "title": "With gas prices at 18 gwei it's time to be smart and get your @argentHQ L2 wallet. The first transaction on @zksync is a bit more expensive for techni...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1501886156476190721",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "Re Once the IRO is finished (March 11th) the property will have its own token which users will be able to LP on @xtokenterminal (Uniswap V3) for more $KNIGHT.\nThe idea being that this will be a highly liquid property token with utilities across DeFi.",
-          "link": "https://twitter.com/defi_airdrops/status/1501886156476190721",
-          "publishedOn": "2022-03-10T11:42:18.000Z",
-          "wordCount": 196,
-          "title": "Re Once the IRO is finished (March 11th) the property will have its own token which users will be able to LP on @xtokenterminal (Uniswap V3) for more ...",
           "imageUrl": null
         }
       ]

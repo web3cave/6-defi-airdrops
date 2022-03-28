@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-28T16:19:52.620Z</id>
+    <id>urn:2022-03-28T17:16:12.463Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-28T16:19:52.620Z</updated>
+    <updated>2022-03-28T17:16:12.463Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re $vCOW can now be swapped for $COW]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1508467122338516993</id>
+        <link href="https://twitter.com/defi_airdrops/status/1508467122338516993"/>
+        <updated>2022-03-28T15:32:42.000Z</updated>
+        <summary type="html"><![CDATA[Re $vCOW can now be swapped for $COW https://cowswap.exchange/#/profile]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re token is now live and tradeable on @uniswap @BalancerLabs various DEX aggregators swapping $vCOW for $COW is possible via contract but no user inte...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1508466331892465668</id>
+        <link href="https://twitter.com/defi_airdrops/status/1508466331892465668"/>
+        <updated>2022-03-28T15:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Re token is now live and tradeable on @uniswap @BalancerLabs various DEX aggregators
+swapping $vCOW for $COW is possible via contract but no user interface yet https://www.coingecko.com/en/coins/cow-protocol]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re btw $SAFE / @gnosisSafe is next]]></title>
         <id>https://twitter.com/defi_airdrops/status/1508413763749388291</id>
@@ -217,28 +238,6 @@ if a team markets their airdrop run :)]]></summary>
 - invest in @grofinance vaults
 - trade 20+ tokens via @ZigZagExchange 
 3 top projects wo/ a token: zk-Sync, Argent &Zigzag]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With gas prices at 18 gwei it's time to be smart and get your @argentHQ L2 wallet. The first transaction on @zksync is a bit more expensive for techni...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1503311735607934976</id>
-        <link href="https://twitter.com/defi_airdrops/status/1503311735607934976"/>
-        <updated>2022-03-14T10:07:02.000Z</updated>
-        <summary type="html"><![CDATA[With gas prices at 18 gwei it's time to be smart and get your @argentHQ L2 wallet.
-The first transaction on @zksync is a bit more expensive for technical reasons (currently around $2) for all subsequent transactions you get the full L2 benefits.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Once the IRO is finished (March 11th) the property will have its own token which users will be able to LP on @xtokenterminal (Uniswap V3) for more ...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1501886156476190721</id>
-        <link href="https://twitter.com/defi_airdrops/status/1501886156476190721"/>
-        <updated>2022-03-10T11:42:18.000Z</updated>
-        <summary type="html"><![CDATA[Re Once the IRO is finished (March 11th) the property will have its own token which users will be able to LP on @xtokenterminal (Uniswap V3) for more $KNIGHT.
-The idea being that this will be a highly liquid property token with utilities across DeFi.]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
