@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-29T17:16:09.394Z</id>
+    <id>urn:2022-03-29T18:16:57.884Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-29T17:16:09.394Z</updated>
+    <updated>2022-03-29T18:16:57.884Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re @lukemulks @argentHQ @steakwallet @rainbowdotme @zerion_io @DeBankDeFi @zapper_fi @NestedFi @brave but it already has a token in $BAT no?]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1508840416283668492</id>
-        <link href="https://twitter.com/defi_airdrops/status/1508840416283668492"/>
-        <updated>2022-03-29T16:16:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @lukemulks @argentHQ @steakwallet @rainbowdotme @zerion_io @DeBankDeFi @zapper_fi @NestedFi @brave but it already has a token in $BAT no?]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re For all of these active usage (swaps & staking) is key. Don't try to farm, projects are becoming increasingly sophisticated at filtering and blocki...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1508782492911910919</id>
@@ -241,6 +231,18 @@ Audits: https://help.ambire.com/hc/en-us/articles/4411180546834-Is-Ambire-Wall
         <summary type="html"><![CDATA[Re Tokens on @ethereum @0xPolygon @avalancheavax,  bsc and @FantomFDN currently qualify for the continuous airdrop.
 To avoid people gaming the airdrop only popular tokens are supported like interest bearing Yearn, Aave or staked $ETH tokens.
 sell full list: https://help.ambire.com/hc/en-us/articles/4412943620754-What-tokens-are-eligible-considered-for-the-WALLET-rewards-on-Ambire-Wallet-]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not the classic retroactive airdrop but @AmbireWallet is dropping 7.5% of its $WALLET supply over 1 yr to users for simply holding tokens in their wal...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1504100077488517126</id>
+        <link href="https://twitter.com/defi_airdrops/status/1504100077488517126"/>
+        <updated>2022-03-16T14:19:37.000Z</updated>
+        <summary type="html"><![CDATA[Not the classic retroactive airdrop but @AmbireWallet is dropping 7.5% of its $WALLET supply over 1 yr to users for simply holding tokens in their wallet.
+So e.g if you hold $USDC in your Ambire wallet you get $WALLET dropped everyday.
+Rn at $50m tvl the apy amounts to 16%]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>

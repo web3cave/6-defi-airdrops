@@ -6,16 +6,6 @@
       "siteUrl": "https://twitter.com/defi_airdrops",
       "articles": [
         {
-          "id": "https://twitter.com/defi_airdrops/status/1508840416283668492",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "Re @lukemulks @argentHQ @steakwallet @rainbowdotme @zerion_io @DeBankDeFi @zapper_fi @NestedFi @brave but it already has a token in $BAT no?",
-          "link": "https://twitter.com/defi_airdrops/status/1508840416283668492",
-          "publishedOn": "2022-03-29T16:16:02.000Z",
-          "wordCount": 196,
-          "title": "Re @lukemulks @argentHQ @steakwallet @rainbowdotme @zerion_io @DeBankDeFi @zapper_fi @NestedFi @brave but it already has a token in $BAT no?",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/defi_airdrops/status/1508782492911910919",
           "author": "DeFi Airdrops 🦇🔊",
           "description": "Re For all of these active usage (swaps & staking) is key.\nDon't try to farm, projects are becoming increasingly sophisticated at filtering and blocking farmers.",
@@ -203,6 +193,16 @@
           "publishedOn": "2022-03-16T14:19:38.000Z",
           "wordCount": 196,
           "title": "Re Tokens on @ethereum @0xPolygon @avalancheavax, bsc and @FantomFDN currently qualify for the continuous airdrop. To avoid people gaming the airdrop ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1504100077488517126",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Not the classic retroactive airdrop but @AmbireWallet is dropping 7.5% of its $WALLET supply over 1 yr to users for simply holding tokens in their wallet.\nSo e.g if you hold $USDC in your Ambire wallet you get $WALLET dropped everyday.\nRn at $50m tvl the apy amounts to 16%",
+          "link": "https://twitter.com/defi_airdrops/status/1504100077488517126",
+          "publishedOn": "2022-03-16T14:19:37.000Z",
+          "wordCount": 196,
+          "title": "Not the classic retroactive airdrop but @AmbireWallet is dropping 7.5% of its $WALLET supply over 1 yr to users for simply holding tokens in their wal...",
           "imageUrl": null
         }
       ]
