@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-01T08:18:36.694Z</id>
+    <id>urn:2022-04-01T09:13:35.848Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-01T08:18:36.694Z</updated>
+    <updated>2022-04-01T09:13:35.848Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Retroactive $ELFI airdrop of 10% of the supply to liquidity providers & traders. In a first for airdrops, 2.5% of the supply goes to Ethereum Core dev...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1509815291706023936</id>
+        <link href="https://twitter.com/defi_airdrops/status/1509815291706023936"/>
+        <updated>2022-04-01T08:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Retroactive $ELFI airdrop of 10% of the supply to liquidity providers & traders.
+In a first for airdrops, 2.5% of the supply goes to Ethereum Core developers as everything is built on their shoulders ❤️ 👏
+Element Finance: 1/ We’re happy to announce the launch of the Element DAO & the distribution of ELFI.
+The contract address for ELFI is: 
+0x5c6D51ecBA4D8E4F20373e3ce96a62342B125D6d
+Claiming will go live at Ethereum block number 14496292, or approximately 5 pm ET.
+ https://mirror.xyz/0x3fcAf7DDf64E6e109B1e2A5CC17875D4a5993F39/bctuLRkf7oBL4mMJ9lPf0y0blFjBDslTUfUL0CEk1gc]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re from their discord 👀]]></title>
         <id>https://twitter.com/defi_airdrops/status/1509093622268010501</id>
@@ -229,18 +245,6 @@ How much will it be worth? 😳]]></summary>
         <updated>2022-03-17T14:27:49.000Z</updated>
         <summary type="html"><![CDATA[$APE airdrop to BoredApe holders worth $80k at current prices 🥶
 @yugalabs $PUNK next?]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ElmarElefant @monkeyontheloo_ @AmbireWallet he asks a legit question in many cases it's hard for wallet projects to know which addresses are using...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1504107512982867987</id>
-        <link href="https://twitter.com/defi_airdrops/status/1504107512982867987"/>
-        <updated>2022-03-16T14:49:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @ElmarElefant @monkeyontheloo_ @AmbireWallet he asks a legit question 
-in many cases it's hard for wallet projects to know which addresses are using their software
-i guess @AmbireWallet can reply how they can identify Ambire addresses :)]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
