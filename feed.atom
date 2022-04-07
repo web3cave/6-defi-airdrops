@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-07T11:12:43.028Z</id>
+    <id>urn:2022-04-07T12:26:09.684Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-07T11:12:43.028Z</updated>
+    <updated>2022-04-07T12:26:09.684Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re winner is @TrueHossein]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1512035631597338628</id>
+        <link href="https://twitter.com/defi_airdrops/status/1512035631597338628"/>
+        <updated>2022-04-07T11:52:41.000Z</updated>
+        <summary type="html"><![CDATA[Re winner is @TrueHossein]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Another option is to stake yourself at home using a @DAppNode or @AvadoCloud device which both make the process super easy.]]></title>
         <id>https://twitter.com/defi_airdrops/status/1511659601430818819</id>
@@ -238,16 +248,6 @@ StakeWise: Liquid staking for the Gnosis Beacon Chain is now available on Stak
 Head to our app to stake GNO & mGNO and earn up to 18% APR while securing the GBC network 💰
 Start staking:
  https://app.stakewise.io]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re $vCOW can now be swapped for $COW]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1508467122338516993</id>
-        <link href="https://twitter.com/defi_airdrops/status/1508467122338516993"/>
-        <updated>2022-03-28T15:32:42.000Z</updated>
-        <summary type="html"><![CDATA[Re $vCOW can now be swapped for $COW https://cowswap.exchange/#/profile]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
