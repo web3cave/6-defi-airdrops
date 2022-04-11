@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-11T11:12:27.938Z</id>
+    <id>urn:2022-04-11T12:25:46.621Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-11T11:12:27.939Z</updated>
+    <updated>2022-04-11T12:25:46.621Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Here's a comprehensive how to tutorial with all the info:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1513466825375461379</id>
+        <link href="https://twitter.com/defi_airdrops/status/1513466825375461379"/>
+        <updated>2022-04-11T10:39:44.000Z</updated>
+        <summary type="html"><![CDATA[Re Here's a comprehensive how to tutorial with all the info:
+cryptotesters 🧪: New tutorial for our Layer-2 course 📹
+Learn how to earn 16-24% yield on $sUSD or $sETH using @PolynomialFi on @optimismPBC ⚡️
+1. Bridge into Optimism via @HopProtocol 
+2. Buy synths ( $sETH, $sUSD) on @1inch 
+3. Deposit into @PolynomialFi 
+Lean back 🍹]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check out @PolynomialFi structured product vaults on @optimismPBC generating yield by selling call/put options. Its built on top of @lyrafinance & @sy...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1513466480892989440</id>
+        <link href="https://twitter.com/defi_airdrops/status/1513466480892989440"/>
+        <updated>2022-04-11T10:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Check out @PolynomialFi structured product vaults on @optimismPBC generating yield by selling call/put options.
+Its built on top of @lyrafinance & @synthetix_io so you need to deposit $sETH or $sUSD to join a vault.
+Still early days but might be worth it in a few months 😜]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re winner is @TrueHossein]]></title>
         <id>https://twitter.com/defi_airdrops/status/1512035631597338628</id>
@@ -223,31 +251,6 @@ Portfolio tracking:
 - @zapper_fi 
 Social trading:
 - @NestedFi]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @hushy18]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1508748892715761666</id>
-        <link href="https://twitter.com/defi_airdrops/status/1508748892715761666"/>
-        <updated>2022-03-29T10:12:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @hushy18 http://omni.xdaichain.com/bridge]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re btw for the $SAFE airdrop you will be eligible to lock $mGNO so you will be able to earn 18% apr on $GNO while receiving a portion of the $SAFE air...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1508724738125877254</id>
-        <link href="https://twitter.com/defi_airdrops/status/1508724738125877254"/>
-        <updated>2022-03-29T08:36:22.000Z</updated>
-        <summary type="html"><![CDATA[Re btw for the $SAFE airdrop you will be eligible to lock $mGNO 
-so you will be able to earn 18% apr on $GNO while receiving a portion of the $SAFE airdrop
-StakeWise: Liquid staking for the Gnosis Beacon Chain is now available on StakeWise 🌊
-Head to our app to stake GNO & mGNO and earn up to 18% APR while securing the GBC network 💰
-Start staking:
- https://app.stakewise.io]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
