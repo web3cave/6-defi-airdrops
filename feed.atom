@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-14T09:14:25.713Z</id>
+    <id>urn:2022-04-14T10:15:56.093Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-14T09:14:25.713Z</updated>
+    <updated>2022-04-14T10:15:56.093Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re forgot @Zip_swap @AaveAave @Uniswap]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1514508015784931330</id>
+        <link href="https://twitter.com/defi_airdrops/status/1514508015784931330"/>
+        <updated>2022-04-14T07:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Re forgot @Zip_swap @AaveAave @Uniswap]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Fan_Hsing @optimismPBC @HopProtocol @lyrafinance @kwenta_io @PolynomialFi @perpprotocol here you go]]></title>
         <id>https://twitter.com/defi_airdrops/status/1514358854250807306</id>
@@ -239,19 +249,6 @@ Claiming will go live at Ethereum block number 14496292, or approximately 5 pm E
         <updated>2022-03-30T09:02:10.000Z</updated>
         <summary type="html"><![CDATA[Last reminder to bridge funds to @optimismPBC to use & LP @PikaProtocol 
 LP'ing $USDC to provide perp liquidity consistently yields around 20% apr]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re some wallets like @AmbireWallet already have a token and started liquidity mining programs to fast track user acquisition]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1509045851095773184</id>
-        <link href="https://twitter.com/defi_airdrops/status/1509045851095773184"/>
-        <updated>2022-03-30T05:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Re some wallets like @AmbireWallet already have a token and started liquidity mining programs to fast track user acquisition
-DeFi Airdrops 🦇🔊: Not the classic retroactive airdrop but @AmbireWallet is dropping 7.5% of its $WALLET supply over 1 yr to users for simply holding tokens in their wallet.
-So e.g if you hold $USDC in your Ambire wallet you get $WALLET dropped everyday.
-Rn at $50m tvl the apy amounts to 16%]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
