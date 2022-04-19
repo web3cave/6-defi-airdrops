@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-19T16:21:19.680Z</id>
+    <id>urn:2022-04-19T17:22:00.158Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-19T16:21:19.680Z</updated>
+    <updated>2022-04-19T17:22:00.158Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Batz_5]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1516454362738008065</id>
+        <link href="https://twitter.com/defi_airdrops/status/1516454362738008065"/>
+        <updated>2022-04-19T16:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @Batz_5
+DeFi Airdrops 🦇🔊: Rumours that a L2 is launching a token imminently.
+Is it @optimismPBC ?
+When in doubt go bridge into Optimism now and support the best projects 👇
+- LP in @HopProtocol 
+- LP in @lyrafinance 
+- Stake $SNX
+- Trade @kwenta_io 
+- Deposit in @PolynomialFi
+ https://twitter.com/optimismPBC/status/1514282278859456526]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Optimism has learned to walk, and it's nearly time to run.." 🧐]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1516452216038694916</id>
+        <link href="https://twitter.com/defi_airdrops/status/1516452216038694916"/>
+        <updated>2022-04-19T16:22:37.000Z</updated>
+        <summary type="html"><![CDATA["Optimism has learned to walk, and it's nearly time to run.." 🧐
+
+DeFi Airdrops 🦇🔊: Rumours that a L2 is launching a token imminently.
+Is it @optimismPBC ?
+When in doubt go bridge into Optimism now and support the best projects 👇
+- LP in @HopProtocol 
+- LP in @lyrafinance 
+- Stake $SNX
+- Trade @kwenta_io 
+- Deposit in @PolynomialFi
+ https://twitter.com/optimismPBC/status/1514282278859456526]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re forgot @Zip_swap @AaveAave @Uniswap]]></title>
         <id>https://twitter.com/defi_airdrops/status/1514508015784931330</id>
@@ -228,27 +267,6 @@ The contract address for ELFI is:
 0x5c6D51ecBA4D8E4F20373e3ce96a62342B125D6d
 Claiming will go live at Ethereum block number 14496292, or approximately 5 pm ET.
  https://mirror.xyz/0x3fcAf7DDf64E6e109B1e2A5CC17875D4a5993F39/bctuLRkf7oBL4mMJ9lPf0y0blFjBDslTUfUL0CEk1gc]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re from their discord 👀]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1509093622268010501</id>
-        <link href="https://twitter.com/defi_airdrops/status/1509093622268010501"/>
-        <updated>2022-03-30T09:02:11.000Z</updated>
-        <summary type="html"><![CDATA[Re from their discord 👀]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last reminder to bridge funds to @optimismPBC to use & LP @PikaProtocol LP'ing $USDC to provide perp liquidity consistently yields around 20% apr]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1509093616270069761</id>
-        <link href="https://twitter.com/defi_airdrops/status/1509093616270069761"/>
-        <updated>2022-03-30T09:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Last reminder to bridge funds to @optimismPBC to use & LP @PikaProtocol 
-LP'ing $USDC to provide perp liquidity consistently yields around 20% apr]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
