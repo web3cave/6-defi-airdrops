@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T11:14:11.081Z</id>
+    <id>urn:2022-05-03T12:31:09.200Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-03T11:14:11.081Z</updated>
+    <updated>2022-05-03T12:31:09.200Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Basveshwar14 @zksync @argentHQ Stake $ETH If you don’t have any $ETH buy some via @RampNetwork inside @argentHQ there’s a buy button.]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1521420433781886976</id>
+        <link href="https://twitter.com/defi_airdrops/status/1521420433781886976"/>
+        <updated>2022-05-03T09:24:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @Basveshwar14 @zksync @argentHQ Stake $ETH
+If you don’t have any $ETH buy some via @RampNetwork inside @argentHQ there’s a buy button.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @attilafx_attila @zksync Use Argent it’s the wasiest way to use that network. Harder via Metamask.]]></title>
         <id>https://twitter.com/defi_airdrops/status/1521417830549315586</id>
@@ -235,20 +246,6 @@ Bankless 🏴: Optimism ???
 - 11am PST
 - 2pm EST
  https://youtu.be/bKVIfJIhS1o]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re If you want to check out other nft aggregators & pro tools in hope of future airdrop: - @MetahoodXYZ (nft land aggregator & marketplace) - @geniexy...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1518611987302957059</id>
-        <link href="https://twitter.com/defi_airdrops/status/1518611987302957059"/>
-        <updated>2022-04-25T15:24:46.000Z</updated>
-        <summary type="html"><![CDATA[Re If you want to check out other nft aggregators & pro tools in hope of future airdrop:
-- @MetahoodXYZ (nft land aggregator & marketplace)
-- @geniexyz (general nft aggregator)
-- @blur_io (pro tool launching soon)
-- @WeMetaTweets ( nft land aggregator & marketplace)]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
