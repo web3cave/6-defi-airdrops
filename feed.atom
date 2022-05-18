@@ -1,10 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-18T20:16:11.324Z</id>
+    <id>urn:2022-05-18T21:14:05.885Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-18T20:16:11.324Z</updated>
+    <updated>2022-05-18T21:14:05.885Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Also looking forward to see proposals of @HopProtocol @Uniswap @AaveAave @aelinprotocol @thalesmarket]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1527032958770610177</id>
+        <link href="https://twitter.com/defi_airdrops/status/1527032958770610177"/>
+        <updated>2022-05-18T21:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Re Also looking forward to see proposals of @HopProtocol @Uniswap @AaveAave @aelinprotocol @thalesmarket]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PikaProtocol another perpetual exchange will distribute: - 120,000 for traders (30% retroactive, 70% future) - Liquidity providers (30% retroactiv...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1527032956564520961</id>
+        <link href="https://twitter.com/defi_airdrops/status/1527032956564520961"/>
+        <updated>2022-05-18T21:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @PikaProtocol another perpetual exchange will distribute:
+- 120,000 for traders (30% retroactive, 70% future)
+- Liquidity providers (30% retroactive, 70% future)]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PolynomialFi offering yield producing option strategies will distribute $OP as follows: -180,000 retroactively to vault depositors - 450,000 for c...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1527032950512050178</id>
+        <link href="https://twitter.com/defi_airdrops/status/1527032950512050178"/>
+        <updated>2022-05-18T21:06:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @PolynomialFi offering yield producing option strategies will distribute $OP as follows:
+-180,000 retroactively to vault depositors
+- 450,000 for continuous liquidity mining on the vaults
+- 72,000 for @lyrafinance liquidity providers(their vaults depend on deep Lyra liquidity)]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @synthetix_io: 9m $OP this is not final yet but it looks like the majority will go to future $SNX stakers during a 6month period 3m $OP towards liq...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1527032945562865667</id>
+        <link href="https://twitter.com/defi_airdrops/status/1527032945562865667"/>
+        <updated>2022-05-18T21:06:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @synthetix_io: 9m $OP
+this is not final yet but it looks like the majority will go to future $SNX stakers during a 6month period
+3m $OP towards liquidity incentives on $SNX/USD
+$SNX staking will get even more juicy soon 👀]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @perpprotocol 3m $0P has outlined a plan for a pool in which users can lend $USDC, $ETH etc. to market maker entities and receive $OP in return + l...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1527032940470878208</id>
+        <link href="https://twitter.com/defi_airdrops/status/1527032940470878208"/>
+        <updated>2022-05-18T21:06:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @perpprotocol 3m $0P has outlined a plan for a pool in which users can lend $USDC, $ETH etc. to market maker entities and receive $OP in return + lending yield
+this would deepen perp liquidity on their exchange
+fyi: it's not live yet]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @kwenta_io: 900k $OP Kwenta is a UI built on top of @synthetix_io allowing you to trade synths (spot & perps) with deep liquidity they will incenti...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1527032935722917890</id>
+        <link href="https://twitter.com/defi_airdrops/status/1527032935722917890"/>
+        <updated>2022-05-18T21:06:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @kwenta_io: 900k $OP
+Kwenta is a UI built on top of @synthetix_io allowing you to trade synths (spot & perps) with deep liquidity 
+they will incentivise heavy traders from competing platforms like @GMX_IO and @dYdX 
+very smart 🧠]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @lyrafinance: 3m $OP (9m final allocation) - Builders: 1m $OP - Liquidity Providers: 1.5m $OP - Traders: 0.5m $OP providing liquidity is extra juic...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1527032930740191234</id>
+        <link href="https://twitter.com/defi_airdrops/status/1527032930740191234"/>
+        <updated>2022-05-18T21:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @lyrafinance: 3m $OP (9m final allocation)
+- Builders: 1m $OP
+- Liquidity Providers: 1.5m $OP
+- Traders: 0.5m $OP
+providing liquidity is extra juicy as you also earn $LYRA on top
+10% will be retroactive so if you start LP'ing or trading now you can already earn 🤩]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$OP season is in full swing, transactions are increasing as people prepare to get their share of 36m $OP distributed to Optimism projects A few projec...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1527032925652385794</id>
+        <link href="https://twitter.com/defi_airdrops/status/1527032925652385794"/>
+        <updated>2022-05-18T21:06:35.000Z</updated>
+        <summary type="html"><![CDATA[$OP season is in full swing, transactions are increasing as people prepare to get their share of 36m $OP distributed to Optimism projects
+A few projects have already announced how they're going to allocate their share of $OP and here's how you can profit👇]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re check it out]]></title>
         <id>https://twitter.com/defi_airdrops/status/1522288676746711041</id>
@@ -161,112 +260,6 @@ Copying or creating a portfolio takes 1 click]]></summary>
         <link href="https://twitter.com/defi_airdrops/status/1521882787451752448"/>
         <updated>2022-05-04T16:01:46.000Z</updated>
         <summary type="html"><![CDATA[Re @landolak3s hmm i think better to stake]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hop is decentralizing its bridge protocol in the coming weeks 👀 Details to follow this week! Exciting 😬 L2 szn rly is upon us huh]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1521541630242828298</id>
-        <link href="https://twitter.com/defi_airdrops/status/1521541630242828298"/>
-        <updated>2022-05-03T17:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Hop is decentralizing its bridge protocol in the coming weeks 👀 
-Details to follow this week!
-Exciting 😬 L2 szn rly is upon us huh
-
-HopProtocol: A Community Led Bridge
- https://hop.mirror.xyz/Qn_O1-U2Vn6-6gNxC0A3CSFRkORSlIAIz-QCf8X4avM]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Basveshwar14 @zksync @argentHQ Stake $ETH If you don’t have any $ETH buy some via @RampNetwork inside @argentHQ there’s a buy button.]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1521420433781886976</id>
-        <link href="https://twitter.com/defi_airdrops/status/1521420433781886976"/>
-        <updated>2022-05-03T09:24:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @Basveshwar14 @zksync @argentHQ Stake $ETH
-If you don’t have any $ETH buy some via @RampNetwork inside @argentHQ there’s a buy button.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @attilafx_attila @zksync Use Argent it’s the wasiest way to use that network. Harder via Metamask.]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1521417830549315586</id>
-        <link href="https://twitter.com/defi_airdrops/status/1521417830549315586"/>
-        <updated>2022-05-03T09:14:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @attilafx_attila @zksync Use Argent it’s the wasiest way to use that network.
-Harder via Metamask.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re To be clear @zksync is a Layer-2 solution built on Ethereum where txs fees are much cheaper and Argent is a mobile crypto wallet built on this netw...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1521417115705696256</id>
-        <link href="https://twitter.com/defi_airdrops/status/1521417115705696256"/>
-        <updated>2022-05-03T09:11:21.000Z</updated>
-        <summary type="html"><![CDATA[Re To be clear @zksync is a Layer-2 solution built on Ethereum where txs fees are much cheaper and Argent is a mobile crypto wallet built on this network to offer cheap tx fees to users.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zk-sync FAQ leak👀 Easiest way to play this one is to download @argentHQ and simply stake $ETH. They have three strategies: - vanilla $ETH staking v...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1521416711718719488</id>
-        <link href="https://twitter.com/defi_airdrops/status/1521416711718719488"/>
-        <updated>2022-05-03T09:09:45.000Z</updated>
-        <summary type="html"><![CDATA[zk-sync FAQ leak👀
-Easiest way to play this one is to download @argentHQ and simply stake $ETH.
-They have three strategies:
-- vanilla $ETH staking via Lido
-- yield farming with $stETH via @iearnfinance 
-- leveraged $ETH staking via @indexcoop]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re if you haven't contributed don't worry there'll be another allocaiton going to $GNO stakers]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1521162348865757187</id>
-        <link href="https://twitter.com/defi_airdrops/status/1521162348865757187"/>
-        <updated>2022-05-02T16:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Re if you haven't contributed don't worry
-there'll be another allocaiton going to $GNO stakers
-DeFi Airdrops 🦇🔊: Alright then as promised.
-@gnosisSafe is raising a round atm. rumours say it's raising $100m at a $1.25b valuation.. 
-$SAFE is spun out of @gnosisdao which is also behind @gnosischain.
-seems like they will airdrop to people who stake $GNO to increase the chain's PoS security]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gnosis Safe allocating 5% of upcoming $SAFE supply to past contributors ("Safe Guardians") You can submit an application if you think you have contrib...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1521161990986735617</id>
-        <link href="https://twitter.com/defi_airdrops/status/1521161990986735617"/>
-        <updated>2022-05-02T16:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Gnosis Safe allocating 5% of upcoming $SAFE supply to past contributors ("Safe Guardians")
-You can submit an application if you think you have contributed:
-- by merging a PR
-- creating educational content
-- developing a tool
-you'll need to document it😜
-Gnosis Safe ( 🦸‍♀️🔰_🔰🦸): 📢 After a successful vote on @gnosisdao approving the spinning out of SafeDAO and launch of SAFE token, our first order of action is to empower those who have contributed!
-Today, we launch Safe Guardians Program vol.1 🔰 to allocate tokens to ecosystem contributors.
-Thread:]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @eking0x @FancurveHQ yes 🙂 @PREMINT_NFT is used by most nft based projects]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1520087809457016833</id>
-        <link href="https://twitter.com/defi_airdrops/status/1520087809457016833"/>
-        <updated>2022-04-29T17:09:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @eking0x @FancurveHQ yes 🙂
-@PREMINT_NFT is used by most nft based projects]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
