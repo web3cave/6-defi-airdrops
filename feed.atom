@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-30T16:21:31.238Z</id>
+    <id>urn:2022-05-30T17:21:05.140Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-30T16:21:31.239Z</updated>
+    <updated>2022-05-30T17:21:05.140Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -42,7 +42,8 @@ These SB NFTs will be used by Web3 games to create tailored experiences based on
         <id>https://twitter.com/defi_airdrops/status/1528374379347726342</id>
         <link href="https://twitter.com/defi_airdrops/status/1528374379347726342"/>
         <updated>2022-05-22T13:57:02.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/cryptotesters/status/1528372868689584128?s=20&t=54F3bW8EGsxI3brbmFE2OQ]]></summary>
+        <summary type="html"><![CDATA[Re 
+cryptotesters 🧪: Public mint will be tomorrow 4PM CET🧪]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -193,7 +194,9 @@ A few projects have already announced how they're going to allocate their share 
         <id>https://twitter.com/defi_airdrops/status/1522288676746711041</id>
         <link href="https://twitter.com/defi_airdrops/status/1522288676746711041"/>
         <updated>2022-05-05T18:54:37.000Z</updated>
-        <summary type="html"><![CDATA[Re check it out https://twitter.com/HopProtocol/status/1522284556661014529?s=20&t=ihBwJW6c22CLV48qr_YoZQ]]></summary>
+        <summary type="html"><![CDATA[Re check it out
+HopProtocol: Over the next two weeks, we are accepting reports of Sybil addresses that have *not yet been uncovered*.
+The airdrop will take place once the two week period has ended and reports have been examined.]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -216,6 +219,24 @@ This means if lots of bots are identified your $HOP airdrop balance could increa
         <link href="https://twitter.com/defi_airdrops/status/1522288673659707392"/>
         <updated>2022-05-05T18:54:37.000Z</updated>
         <summary type="html"><![CDATA[Re You can check if you’re eligible here: http://app.hop.exchange/#/airdrop]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$HOP airdrop 🚨 Hop is dropping 8% of the token supply to: - Bridge Users - Liquidity Providers - Active & Distinguished Community members - @auther...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1522288671579324418</id>
+        <link href="https://twitter.com/defi_airdrops/status/1522288671579324418"/>
+        <updated>2022-05-05T18:54:36.000Z</updated>
+        <summary type="html"><![CDATA[$HOP airdrop 🚨
+
+Hop is dropping 8% of the token supply to:
+
+- Bridge Users
+- Liquidity Providers
+- Active &  Distinguished Community members
+- @authereum users (wallet that the team was building before)
+I guess Hop is serious about being a community led bridge 😳]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
