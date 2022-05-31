@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-31T18:18:49.252Z</id>
+    <id>urn:2022-05-31T19:12:28.174Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-31T18:18:49.252Z</updated>
+    <updated>2022-05-31T19:12:28.174Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[$OP claim is open again RPC endpoints are struggling with the heavy load so don't panic if things take a bit longer to load. It's often better to wait...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1531698591571628032</id>
+        <link href="https://twitter.com/defi_airdrops/status/1531698591571628032"/>
+        <updated>2022-05-31T18:06:16.000Z</updated>
+        <summary type="html"><![CDATA[$OP claim is open again
+RPC endpoints are struggling with the heavy load so don't panic if things take a bit longer to load.
+It's often better to wait a bit anyway 😜 https://app.optimism.io/airdrop/check]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @kgmaec10 yeah it was also no danger in "connecting a wallet"]]></title>
         <id>https://twitter.com/defi_airdrops/status/1531660641924169729</id>
@@ -33,6 +45,7 @@ let's be patient 🧘]]></summary>
         <id>https://twitter.com/defi_airdrops/status/1531647118846349313</id>
         <link href="https://twitter.com/defi_airdrops/status/1531647118846349313"/>
         <updated>2022-05-31T14:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Optimism (✨🔴_🔴✨): sup nerds]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -115,7 +128,8 @@ These SB NFTs will be used by Web3 games to create tailored experiences based on
         <id>https://twitter.com/defi_airdrops/status/1528374379347726342</id>
         <link href="https://twitter.com/defi_airdrops/status/1528374379347726342"/>
         <updated>2022-05-22T13:57:02.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/cryptotesters/status/1528372868689584128?s=20&t=54F3bW8EGsxI3brbmFE2OQ]]></summary>
+        <summary type="html"><![CDATA[Re 
+cryptotesters 🧪: Public mint will be tomorrow 4PM CET🧪]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
