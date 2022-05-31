@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-31T10:17:56.604Z</id>
+    <id>urn:2022-05-31T11:13:22.872Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-31T10:17:56.604Z</updated>
+    <updated>2022-05-31T11:13:22.872Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -83,7 +83,8 @@ These SB NFTs will be used by Web3 games to create tailored experiences based on
         <id>https://twitter.com/defi_airdrops/status/1528374379347726342</id>
         <link href="https://twitter.com/defi_airdrops/status/1528374379347726342"/>
         <updated>2022-05-22T13:57:02.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/cryptotesters/status/1528372868689584128?s=20&t=54F3bW8EGsxI3brbmFE2OQ]]></summary>
+        <summary type="html"><![CDATA[Re 
+cryptotesters 🧪: Public mint will be tomorrow 4PM CET🧪]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -214,6 +215,17 @@ very smart 🧠]]></summary>
 - Traders: 0.5m $OP
 providing liquidity is extra juicy as you also earn $LYRA on top
 10% will be retroactive so if you start LP'ing or trading now you can already earn 🤩]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$OP season is in full swing, transactions are increasing as people prepare to get their share of 36m $OP distributed to Optimism projects A few projec...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1527032925652385794</id>
+        <link href="https://twitter.com/defi_airdrops/status/1527032925652385794"/>
+        <updated>2022-05-18T21:06:35.000Z</updated>
+        <summary type="html"><![CDATA[$OP season is in full swing, transactions are increasing as people prepare to get their share of 36m $OP distributed to Optimism projects
+A few projects have already announced how they're going to allocate their share of $OP and here's how you can profit👇]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
