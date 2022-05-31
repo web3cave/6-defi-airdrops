@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-31T22:15:24.769Z</id>
+    <id>urn:2022-05-31T23:16:04.657Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-31T22:15:24.769Z</updated>
+    <updated>2022-05-31T23:16:04.657Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re let’s celebrate teams that put care into distributing tokens to users instead of VC’s.. which other L1 Blockchain network airdropped you tokens a...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1531752665998405635</id>
+        <link href="https://twitter.com/defi_airdrops/status/1531752665998405635"/>
+        <updated>2022-05-31T21:41:08.000Z</updated>
+        <summary type="html"><![CDATA[Re let’s celebrate teams that put care into distributing tokens to users instead of VC’s..
+which other L1 Blockchain network airdropped you tokens anon?]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re oh and stay $OP-timistic abt this one 😇]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1531751296537092099</id>
+        <link href="https://twitter.com/defi_airdrops/status/1531751296537092099"/>
+        <updated>2022-05-31T21:35:42.000Z</updated>
+        <summary type="html"><![CDATA[Re oh and stay $OP-timistic abt this one 😇]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A few things about airdrops : 1) no one owes you anything 2) let teams work in peace, they will launch tokens when the time is ripe 3) if you try to g...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1531751041175257090</id>
+        <link href="https://twitter.com/defi_airdrops/status/1531751041175257090"/>
+        <updated>2022-05-31T21:34:41.000Z</updated>
+        <summary type="html"><![CDATA[A few things about airdrops :
+1) no one owes you anything
+2) let teams work in peace, they will launch tokens when the time is ripe
+3) if you try to game an airdrop you deserve to be removed from distribution
+4) if the price doesn’t reach your moon target its not teams fault]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[$OP claim is open again RPC endpoints are struggling with the heavy load so don't panic if things take a bit longer to load. It's often better to wait...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1531698591571628032</id>
@@ -182,44 +217,6 @@ The future of hiring..]]></summary>
         <link href="https://twitter.com/defi_airdrops/status/1527032958770610177"/>
         <updated>2022-05-18T21:06:42.000Z</updated>
         <summary type="html"><![CDATA[Re Also looking forward to see proposals of @HopProtocol @Uniswap @AaveAave @aelinprotocol @thalesmarket]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PikaProtocol another perpetual exchange will distribute: - 120,000 for traders (30% retroactive, 70% future) - Liquidity providers (30% retroactiv...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1527032956564520961</id>
-        <link href="https://twitter.com/defi_airdrops/status/1527032956564520961"/>
-        <updated>2022-05-18T21:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @PikaProtocol another perpetual exchange will distribute:
-- 120,000 for traders (30% retroactive, 70% future)
-- Liquidity providers (30% retroactive, 70% future)]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PolynomialFi offering yield producing option strategies will distribute $OP as follows: -180,000 retroactively to vault depositors - 450,000 for c...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1527032950512050178</id>
-        <link href="https://twitter.com/defi_airdrops/status/1527032950512050178"/>
-        <updated>2022-05-18T21:06:40.000Z</updated>
-        <summary type="html"><![CDATA[Re @PolynomialFi offering yield producing option strategies will distribute $OP as follows:
--180,000 retroactively to vault depositors
-- 450,000 for continuous liquidity mining on the vaults
-- 72,000 for @lyrafinance liquidity providers(their vaults depend on deep Lyra liquidity)]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @synthetix_io: 9m $OP this is not final yet but it looks like the majority will go to future $SNX stakers during a 6month period 3m $OP towards liq...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1527032945562865667</id>
-        <link href="https://twitter.com/defi_airdrops/status/1527032945562865667"/>
-        <updated>2022-05-18T21:06:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @synthetix_io: 9m $OP
-this is not final yet but it looks like the majority will go to future $SNX stakers during a 6month period
-3m $OP towards liquidity incentives on $SNX/USD
-$SNX staking will get even more juicy soon 👀]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
