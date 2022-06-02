@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-02T09:15:35.631Z</id>
+    <id>urn:2022-06-02T10:18:05.625Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-02T09:15:35.631Z</updated>
+    <updated>2022-06-02T10:18:05.625Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -139,6 +139,7 @@ let's be patient 🧘]]></summary>
         <id>https://twitter.com/defi_airdrops/status/1531647118846349313</id>
         <link href="https://twitter.com/defi_airdrops/status/1531647118846349313"/>
         <updated>2022-05-31T14:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Optimism (✨🔴_🔴✨): sup nerds]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -212,6 +213,17 @@ Airdrop season of quality tokens is about to resume.]]></summary>
         <summary type="html"><![CDATA[Soulbound NFTs are the latest talk in town
 @Dequest_io is creating an SBT-focused GameFi reputation protocol that allows u to build out your profile and showcase your achievements & skills.
 These SB NFTs will be used by Web3 games to create tailored experiences based on your XP]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1528374379347726342</id>
+        <link href="https://twitter.com/defi_airdrops/status/1528374379347726342"/>
+        <updated>2022-05-22T13:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+cryptotesters 🧪: Public mint will be tomorrow 4PM CET🧪]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
