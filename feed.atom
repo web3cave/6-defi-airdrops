@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-08T10:15:55.015Z</id>
+    <id>urn:2022-06-08T11:11:43.430Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-08T10:15:55.015Z</updated>
+    <updated>2022-06-08T11:11:43.431Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -79,7 +79,10 @@ One of the lending pools is from @zigzag which could also show gratitude to lend
 there are few things that signal that you are a good citizen of Web3 (-> 🪂) as much as supporting the projects being sued by trolls 
 let's all pooltogether 🤝
 ✅ mint a @LensProtocol username
-✅ potentially get included in airdrops]]></summary>
+✅ potentially get included in airdrops
+olimpio ⚡️: Lens is allowing "PoolNFT" holders to mint lens usernames (snapshot was taken at block 14880593, it already passed so you can’t at the moment)
+But they hinted that when the NFTs reach to 769 ETH goal (516 ETH so far) they will take another snapshot
+👇]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -220,6 +223,17 @@ which other L1 Blockchain network airdropped you tokens anon?]]></summary>
         <summary type="html"><![CDATA[$OP claim is open again
 RPC endpoints are struggling with the heavy load so don't panic if things take a bit longer to load.
 It's often better to wait a bit anyway 😜 https://app.optimism.io/airdrop/check]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @kgmaec10 yeah it was also no danger in "connecting a wallet"]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1531660641924169729</id>
+        <link href="https://twitter.com/defi_airdrops/status/1531660641924169729"/>
+        <updated>2022-05-31T15:35:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @kgmaec10 yeah it was 
+also no danger in "connecting a wallet"]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
