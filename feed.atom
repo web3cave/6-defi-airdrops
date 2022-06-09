@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-09T22:15:31.596Z</id>
+    <id>urn:2022-06-09T23:13:58.535Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-09T22:15:31.596Z</updated>
+    <updated>2022-06-09T23:13:58.535Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Link:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1534997363873439753</id>
+        <link href="https://twitter.com/defi_airdrops/status/1534997363873439753"/>
+        <updated>2022-06-09T20:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Re Link: https://app.hop.exchange/#/airdrop/preview]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 $HOP airdrop ready to claim 🚨 This will be interesting to watch🍿]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1534997212195090432</id>
+        <link href="https://twitter.com/defi_airdrops/status/1534997212195090432"/>
+        <updated>2022-06-09T20:33:48.000Z</updated>
+        <summary type="html"><![CDATA[🚨 $HOP airdrop ready to claim 🚨
+This will be interesting to watch🍿
+HopProtocol: Drop it like it’s HOP.
+You can now claim your tokens ladies and gents 🔥]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ladies and gents .... $HOP airdrop happening tomorrow 🚨]]></title>
         <id>https://twitter.com/defi_airdrops/status/1534648238082490368</id>
@@ -210,32 +233,6 @@ which other L1 Blockchain network airdropped you tokens anon?]]></summary>
         <link href="https://twitter.com/defi_airdrops/status/1531751296537092099"/>
         <updated>2022-05-31T21:35:42.000Z</updated>
         <summary type="html"><![CDATA[Re oh and stay $OP-timistic abt this one 😇]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A few things about airdrops : 1) no one owes you anything 2) let teams work in peace, they will launch tokens when the time is ripe 3) if you try to g...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1531751041175257090</id>
-        <link href="https://twitter.com/defi_airdrops/status/1531751041175257090"/>
-        <updated>2022-05-31T21:34:41.000Z</updated>
-        <summary type="html"><![CDATA[A few things about airdrops :
-1) no one owes you anything
-2) let teams work in peace, they will launch tokens when the time is ripe
-3) if you try to game an airdrop you deserve to be removed from distribution
-4) if the price doesn’t reach your moon target its not teams fault]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$OP claim is open again RPC endpoints are struggling with the heavy load so don't panic if things take a bit longer to load. It's often better to wait...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1531698591571628032</id>
-        <link href="https://twitter.com/defi_airdrops/status/1531698591571628032"/>
-        <updated>2022-05-31T18:06:16.000Z</updated>
-        <summary type="html"><![CDATA[$OP claim is open again
-RPC endpoints are struggling with the heavy load so don't panic if things take a bit longer to load.
-It's often better to wait a bit anyway 😜 https://app.optimism.io/airdrop/check]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
