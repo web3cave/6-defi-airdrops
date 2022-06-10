@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-10T18:19:07.319Z</id>
+    <id>urn:2022-06-10T19:12:12.057Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-10T18:19:07.319Z</updated>
+    <updated>2022-06-10T19:12:12.057Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,7 +21,9 @@
         <link href="https://twitter.com/defi_airdrops/status/1534997212195090432"/>
         <updated>2022-06-09T20:33:48.000Z</updated>
         <summary type="html"><![CDATA[🚨 $HOP airdrop ready to claim 🚨
-This will be interesting to watch🍿]]></summary>
+This will be interesting to watch🍿
+HopProtocol: Drop it like it’s HOP.
+You can now claim your tokens ladies and gents 🔥]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -31,7 +33,10 @@ This will be interesting to watch🍿]]></summary>
         <id>https://twitter.com/defi_airdrops/status/1534648238082490368</id>
         <link href="https://twitter.com/defi_airdrops/status/1534648238082490368"/>
         <updated>2022-06-08T21:27:07.000Z</updated>
-        <summary type="html"><![CDATA[Ladies and gents .... $HOP airdrop happening tomorrow 🚨 https://twitter.com/HopProtocol/status/1534647126503849985?s=20&t=ZgEyfDSoxxUJan5p6x39Yg]]></summary>
+        <summary type="html"><![CDATA[Ladies and gents .... $HOP airdrop happening tomorrow 🚨
+HopProtocol: The wait is (almost) over: tomorrow you’ll be able to claim your $HOP tokens.
+An official announcement will be made when the claim site is live tomorrow. 
+Details👇]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -110,7 +115,10 @@ One of the lending pools is from @zigzag which could also show gratitude to lend
 there are few things that signal that you are a good citizen of Web3 (-> 🪂) as much as supporting the projects being sued by trolls 
 let's all pooltogether 🤝
 ✅ mint a @LensProtocol username
-✅ potentially get included in airdrops]]></summary>
+✅ potentially get included in airdrops
+olimpio ⚡️: Lens is allowing "PoolNFT" holders to mint lens usernames (snapshot was taken at block 14880593, it already passed so you can’t at the moment)
+But they hinted that when the NFTs reach to 769 ETH goal (516 ETH so far) they will take another snapshot
+👇]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -215,6 +223,16 @@ Velodrome is a DEX on @optimismPBC (fork of Solidly) with stable and volatile po
         <updated>2022-05-31T21:41:08.000Z</updated>
         <summary type="html"><![CDATA[Re let’s celebrate teams that put care into distributing tokens to users instead of VC’s..
 which other L1 Blockchain network airdropped you tokens anon?]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re oh and stay $OP-timistic abt this one 😇]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1531751296537092099</id>
+        <link href="https://twitter.com/defi_airdrops/status/1531751296537092099"/>
+        <updated>2022-05-31T21:35:42.000Z</updated>
+        <summary type="html"><![CDATA[Re oh and stay $OP-timistic abt this one 😇]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
