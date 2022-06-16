@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-16T11:11:44.634Z</id>
+    <id>urn:2022-06-16T12:28:52.403Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-16T11:11:44.634Z</updated>
+    <updated>2022-06-16T12:28:52.403Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re correction: the token is actually tradeable on-chain (in addition to coinbase and bybit)]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1537382963633082368</id>
+        <link href="https://twitter.com/defi_airdrops/status/1537382963633082368"/>
+        <updated>2022-06-16T10:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Re correction:
+the token is actually tradeable on-chain (in addition to coinbase and bybit) https://etherscan.io/token/0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Prometeus90 not on-chain though only on centralized exchanges]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1537372406695661568</id>
+        <link href="https://twitter.com/defi_airdrops/status/1537372406695661568"/>
+        <updated>2022-06-16T09:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @Prometeus90 not on-chain though
+only on centralized exchanges]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Full eligibility here:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1537371901777129473</id>
+        <link href="https://twitter.com/defi_airdrops/status/1537371901777129473"/>
+        <updated>2022-06-16T09:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Re Full eligibility here: https://docs.forta.network/en/latest/airdrop/]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Token is claimable but not tradeable on-chain yet (will be shortly) Claim:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1537371897549168641</id>
+        <link href="https://twitter.com/defi_airdrops/status/1537371897549168641"/>
+        <updated>2022-06-16T09:49:58.000Z</updated>
+        <summary type="html"><![CDATA[Re Token is claimable but not tradeable on-chain yet (will be shortly)
+Claim: https://airdrop.forta.network/]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 AIRDROP ALERT 🚨 @FortaNetwork, a real-time security monitoring network for Web3, has just dropped 4% of $FORT supply. The airdrop is mostly ta...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1537371894780944385</id>
+        <link href="https://twitter.com/defi_airdrops/status/1537371894780944385"/>
+        <updated>2022-06-16T09:49:57.000Z</updated>
+        <summary type="html"><![CDATA[🚨 AIRDROP ALERT 🚨
+@FortaNetwork, a real-time security monitoring network for Web3, has just dropped 4% of $FORT supply.
+The airdrop is mostly target at devs:
+- Gnosis Safe signers
+- Subgraph developers
+- Web3 coders (you've deployed popular smart contracts)
+& more 👇]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @xnatasxswe nope first of all its testnet so everything is free second of all all beta users will receive a free NFT piece and third there'll be a ...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1536726832632025088</id>
@@ -172,65 +231,6 @@ Docs: https://docs.atlendis.io/atlendis-v1/]]></summary>
         <summary type="html"><![CDATA[🚨 AIRDROP STRATGEY 🚨 
 Deposit $USDC into one of the lending pools of newly launched @AtlendisLabs on @0xPolygon in hope for an airdrop in the future.
 One of the lending pools is from @zigzag which could also show gratitude to lenders one day 😏]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re context:]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1532641168302948352</id>
-        <link href="https://twitter.com/defi_airdrops/status/1532641168302948352"/>
-        <updated>2022-06-03T08:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Re context: https://www.wsj.com/articles/crypto-savings-lawsuit-puts-principles-of-defi-to-the-test-11642069806]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re mint:]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1532641166495297536</id>
-        <link href="https://twitter.com/defi_airdrops/status/1532641166495297536"/>
-        <updated>2022-06-03T08:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Re mint: https://mint.pooltogether.com/#mint]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[our old friend @OlimpioCrypto is right there are few things that signal that you are a good citizen of Web3 (-> 🪂) as much as supporting the projec...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1532641164427419649</id>
-        <link href="https://twitter.com/defi_airdrops/status/1532641164427419649"/>
-        <updated>2022-06-03T08:31:43.000Z</updated>
-        <summary type="html"><![CDATA[our old friend @OlimpioCrypto is right
-there are few things that signal that you are a good citizen of Web3 (-> 🪂) as much as supporting the projects being sued by trolls 
-let's all pooltogether 🤝
-✅ mint a @LensProtocol username
-✅ potentially get included in airdrops
-olimpio ⚡️: Lens is allowing "PoolNFT" holders to mint lens usernames (snapshot was taken at block 14880593, it already passed so you can’t at the moment)
-But they hinted that when the NFTs reach to 769 ETH goal (516 ETH so far) they will take another snapshot
-👇]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re more info:]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1532324474279829505</id>
-        <link href="https://twitter.com/defi_airdrops/status/1532324474279829505"/>
-        <updated>2022-06-02T11:33:18.000Z</updated>
-        <summary type="html"><![CDATA[Re more info: https://sweateconomy.com/]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re doesn't look like it's built on unsustainable economics where you have to buy NFT shoes to start mining coins you can just start earning asap when ...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1532324472346357762</id>
-        <link href="https://twitter.com/defi_airdrops/status/1532324472346357762"/>
-        <updated>2022-06-02T11:33:18.000Z</updated>
-        <summary type="html"><![CDATA[Re doesn't look like it's built on unsustainable economics where you have to buy NFT shoes to start mining coins
-you can just start earning asap when you download the app
-5 $SWEAT ref link: https://sweatco.in/i/defiairdrops]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
