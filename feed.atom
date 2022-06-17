@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-16T23:14:53.916Z</id>
+    <id>urn:2022-06-17T01:11:09.059Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-16T23:14:53.916Z</updated>
+    <updated>2022-06-17T01:11:09.059Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -170,7 +170,9 @@ Join the beta!]]></summary>
         <link href="https://twitter.com/defi_airdrops/status/1534997212195090432"/>
         <updated>2022-06-09T20:33:48.000Z</updated>
         <summary type="html"><![CDATA[🚨 $HOP airdrop ready to claim 🚨
-This will be interesting to watch🍿]]></summary>
+This will be interesting to watch🍿
+HopProtocol: Drop it like it’s HOP.
+You can now claim your tokens ladies and gents 🔥]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -180,7 +182,10 @@ This will be interesting to watch🍿]]></summary>
         <id>https://twitter.com/defi_airdrops/status/1534648238082490368</id>
         <link href="https://twitter.com/defi_airdrops/status/1534648238082490368"/>
         <updated>2022-06-08T21:27:07.000Z</updated>
-        <summary type="html"><![CDATA[Ladies and gents .... $HOP airdrop happening tomorrow 🚨 https://twitter.com/HopProtocol/status/1534647126503849985?s=20&t=ZgEyfDSoxxUJan5p6x39Yg]]></summary>
+        <summary type="html"><![CDATA[Ladies and gents .... $HOP airdrop happening tomorrow 🚨
+HopProtocol: The wait is (almost) over: tomorrow you’ll be able to claim your $HOP tokens.
+An official announcement will be made when the claim site is live tomorrow. 
+Details👇]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -214,6 +219,18 @@ If your funds are not used they are placed in @AaveAave in the interim.]]></summ
         <summary type="html"><![CDATA[Re Careful this is uncollateralized lending!
 The borrowers are vetted by @AtlendisLabs but risks remain.
 Docs: https://docs.atlendis.io/atlendis-v1/]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 AIRDROP STRATGEY 🚨 Deposit $USDC into one of the lending pools of newly launched @AtlendisLabs on @0xPolygon in hope for an airdrop in the fut...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1534255502162542593</id>
+        <link href="https://twitter.com/defi_airdrops/status/1534255502162542593"/>
+        <updated>2022-06-07T19:26:31.000Z</updated>
+        <summary type="html"><![CDATA[🚨 AIRDROP STRATGEY 🚨 
+Deposit $USDC into one of the lending pools of newly launched @AtlendisLabs on @0xPolygon in hope for an airdrop in the future.
+One of the lending pools is from @zigzag which could also show gratitude to lenders one day 😏]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
