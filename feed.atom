@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T18:16:53.116Z</id>
+    <id>urn:2022-06-18T19:11:55.310Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-18T18:16:53.116Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-18T19:11:55.310Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Re correction: the token is actually tradeable on-chain (in addition to coinbase and bybit)]]></title>
