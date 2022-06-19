@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-19T14:12:10.780Z</id>
+    <id>urn:2022-06-19T15:13:35.305Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-19T14:12:10.780Z</updated>
+    <updated>2022-06-19T15:13:35.305Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[It's a date $ZIG 👀]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1538499412430831617</id>
+        <link href="https://twitter.com/defi_airdrops/status/1538499412430831617"/>
+        <updated>2022-06-19T12:30:18.000Z</updated>
+        <summary type="html"><![CDATA[It's a date $ZIG 👀 https://github.com/ZigZagExchange/token/blob/master/ZigZagToken.sol]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re correction: the token is actually tradeable on-chain (in addition to coinbase and bybit)]]></title>
         <id>https://twitter.com/defi_airdrops/status/1537382963633082368</id>
@@ -219,18 +229,6 @@ If your funds are not used they are placed in @AaveAave in the interim.]]></summ
         <summary type="html"><![CDATA[Re Careful this is uncollateralized lending!
 The borrowers are vetted by @AtlendisLabs but risks remain.
 Docs: https://docs.atlendis.io/atlendis-v1/]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 AIRDROP STRATGEY 🚨 Deposit $USDC into one of the lending pools of newly launched @AtlendisLabs on @0xPolygon in hope for an airdrop in the fut...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1534255502162542593</id>
-        <link href="https://twitter.com/defi_airdrops/status/1534255502162542593"/>
-        <updated>2022-06-07T19:26:31.000Z</updated>
-        <summary type="html"><![CDATA[🚨 AIRDROP STRATGEY 🚨 
-Deposit $USDC into one of the lending pools of newly launched @AtlendisLabs on @0xPolygon in hope for an airdrop in the future.
-One of the lending pools is from @zigzag which could also show gratitude to lenders one day 😏]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>

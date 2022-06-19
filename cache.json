@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/defi_airdrops",
       "articles": [
         {
+          "id": "https://twitter.com/defi_airdrops/status/1538499412430831617",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "It's a date $ZIG 👀 https://github.com/ZigZagExchange/token/blob/master/ZigZagToken.sol",
+          "link": "https://twitter.com/defi_airdrops/status/1538499412430831617",
+          "publishedOn": "2022-06-19T12:30:18.000Z",
+          "wordCount": 352,
+          "title": "It's a date $ZIG 👀",
+          "imageUrl": "http://pbs.twimg.com/profile_images/1528352528869609474/SJD2tSJP_normal.jpg"
+        },
+        {
           "id": "https://twitter.com/defi_airdrops/status/1537382963633082368",
           "author": "DeFi Airdrops 🦇🔊",
           "description": "Re correction:\nthe token is actually tradeable on-chain (in addition to coinbase and bybit) https://etherscan.io/token/0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-06-07T19:26:32.000Z",
           "wordCount": 352,
           "title": "Re Careful this is uncollateralized lending! The borrowers are vetted by @AtlendisLabs but risks remain. Docs:",
-          "imageUrl": "http://pbs.twimg.com/profile_images/1528352528869609474/SJD2tSJP_normal.jpg"
-        },
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1534255502162542593",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "🚨 AIRDROP STRATGEY 🚨 \nDeposit $USDC into one of the lending pools of newly launched @AtlendisLabs on @0xPolygon in hope for an airdrop in the future.\nOne of the lending pools is from @zigzag which could also show gratitude to lenders one day 😏",
-          "link": "https://twitter.com/defi_airdrops/status/1534255502162542593",
-          "publishedOn": "2022-06-07T19:26:31.000Z",
-          "wordCount": 352,
-          "title": "🚨 AIRDROP STRATGEY 🚨 Deposit $USDC into one of the lending pools of newly launched @AtlendisLabs on @0xPolygon in hope for an airdrop in the fut...",
           "imageUrl": "http://pbs.twimg.com/profile_images/1528352528869609474/SJD2tSJP_normal.jpg"
         }
       ]
