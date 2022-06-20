@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-20T08:20:31.810Z</id>
+    <id>urn:2022-06-20T09:14:46.069Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-20T08:20:31.810Z</updated>
+    <updated>2022-06-20T09:14:46.069Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -180,9 +180,7 @@ Join the beta!]]></summary>
         <link href="https://twitter.com/defi_airdrops/status/1534997212195090432"/>
         <updated>2022-06-09T20:33:48.000Z</updated>
         <summary type="html"><![CDATA[🚨 $HOP airdrop ready to claim 🚨
-This will be interesting to watch🍿
-HopProtocol: Drop it like it’s HOP.
-You can now claim your tokens ladies and gents 🔥]]></summary>
+This will be interesting to watch🍿]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -192,10 +190,7 @@ You can now claim your tokens ladies and gents 🔥]]></summary>
         <id>https://twitter.com/defi_airdrops/status/1534648238082490368</id>
         <link href="https://twitter.com/defi_airdrops/status/1534648238082490368"/>
         <updated>2022-06-08T21:27:07.000Z</updated>
-        <summary type="html"><![CDATA[Ladies and gents .... $HOP airdrop happening tomorrow 🚨
-HopProtocol: The wait is (almost) over: tomorrow you’ll be able to claim your $HOP tokens.
-An official announcement will be made when the claim site is live tomorrow. 
-Details👇]]></summary>
+        <summary type="html"><![CDATA[Ladies and gents .... $HOP airdrop happening tomorrow 🚨 https://twitter.com/HopProtocol/status/1534647126503849985?s=20&t=ZgEyfDSoxxUJan5p6x39Yg]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -217,18 +212,6 @@ Details👇]]></summary>
         <updated>2022-06-07T19:26:33.000Z</updated>
         <summary type="html"><![CDATA[Re You need to specify an interest rate at which you're willing to lend and hope that the borrower will take your offer.
 If your funds are not used they are placed in @AaveAave in the interim.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Careful this is uncollateralized lending! The borrowers are vetted by @AtlendisLabs but risks remain. Docs:]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1534255505832550400</id>
-        <link href="https://twitter.com/defi_airdrops/status/1534255505832550400"/>
-        <updated>2022-06-07T19:26:32.000Z</updated>
-        <summary type="html"><![CDATA[Re Careful this is uncollateralized lending!
-The borrowers are vetted by @AtlendisLabs but risks remain.
-Docs: https://docs.atlendis.io/atlendis-v1/]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
