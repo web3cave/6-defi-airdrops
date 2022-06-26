@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-26T16:18:20.350Z</id>
+    <id>urn:2022-06-26T17:13:58.125Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-26T16:18:20.350Z</updated>
+    <updated>2022-06-26T17:13:58.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -12,7 +12,9 @@
         <updated>2022-06-21T18:29:45.000Z</updated>
         <summary type="html"><![CDATA[AIRDROP ALERT 🚨
 @geniexyz the NFT aggregator got acquired by @Uniswap
-Users who used Genie more than once before April 15th or hold a Genie NFT will receive a $USDC airdrop.🪂 https://twitter.com/Uniswap/status/1539306970653806592?s=20&t=SQcNXteyo2TYBVajnb7UPw]]></summary>
+Users who used Genie more than once before April 15th or hold a Genie NFT will receive a $USDC airdrop.🪂
+Uniswap Labs 🦄: 4/ One more thing…
+To welcome the Genie community to the Uniswap universe, we’ll be airdropping USDC later this summer to anyone who used Genie more than once before April 15 or holds a GENIE:GEM NFT 🧞‍♂️🦄]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -66,7 +68,13 @@ Our gut tells us the Bonus NFT could be used as multiplier during the $ARBI aird
         <updated>2022-06-20T16:19:30.000Z</updated>
         <summary type="html"><![CDATA[Re Token confirmed but not an airdrop at first.
 IDO for $USDC on the 24th of June at 3PM UTC on Zigzag itself.
-Community will be able to vote on airdrop criteria after. https://twitter.com/ZigZagExchange/status/1538914642277281793?s=20&t=y4OxBXJbOmBApUToCVV8gg]]></summary>
+Community will be able to vote on airdrop criteria after.
+ZigZag Exchange: The anticipation is finally over..
+Introducing: ZigZag's token!
+This thread will go into detail about:
+- Our community-driven airdrop procedure
+- Launching our token as fairly as possible and the formation of ZigZag's DAO
+- Round 1 of our public sale: the first IDO on @zksync!]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
@@ -214,6 +222,18 @@ and third there'll be a free to play version]]></summary>
         <summary type="html"><![CDATA[Re They call the game Immortal because it's Chess with some twists.
 Players can select to play with up to 4 NFT pieces that have special quests.
 E.g "Queen must capture at least 3 pieces" earns you extra points (in future tokens) if you do manage to capture 3 pieces..]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 Vampire attack on @chesscom 🚨 @TheImmortalGame is launching a Play & Earn Chess game on @Immutable (Ethereum Layer-2). Join the beta!]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1536689633341366274</id>
+        <link href="https://twitter.com/defi_airdrops/status/1536689633341366274"/>
+        <updated>2022-06-14T12:38:53.000Z</updated>
+        <summary type="html"><![CDATA[🚨 Vampire attack on @chesscom 🚨
+@TheImmortalGame is launching a Play & Earn Chess game on @Immutable (Ethereum Layer-2).
+Join the beta!]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
