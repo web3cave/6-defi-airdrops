@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-06T15:17:16.729Z</id>
+    <id>urn:2022-07-06T16:26:37.395Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-06T15:17:16.729Z</updated>
+    <updated>2022-07-06T16:26:37.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @imanpjnir @bookmakerxyz @azuroprotocol @gnosischain @PikaProtocol it’s @azuroprotocol you moron and they didnt pay me and pika protocol is a soli...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1544717167937069063</id>
+        <link href="https://twitter.com/defi_airdrops/status/1544717167937069063"/>
+        <updated>2022-07-06T16:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @imanpjnir @bookmakerxyz @azuroprotocol @gnosischain @PikaProtocol it’s @azuroprotocol you moron and they didnt pay me
+and pika protocol is a solid product that didnt pay us either and they might still drop a token]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @ZeroXdonald @bookmakerxyz @azuroprotocol @gnosischain and obviously where we think there's potential for a token in this case no need to look far]]></title>
         <id>https://twitter.com/defi_airdrops/status/1544390137911574528</id>
@@ -206,16 +217,6 @@ The airdrop is mostly target at devs:
         <summary type="html"><![CDATA[Re @xnatasxswe nope first of all its testnet so everything is free
 second of all all beta users will receive a free NFT piece
 and third there'll be a free to play version]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CallMeTuking @chesscom @TheImmortalGame @Immutable No not for the beta and you receive a piece if you're part of the beta]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1536693062512033792</id>
-        <link href="https://twitter.com/defi_airdrops/status/1536693062512033792"/>
-        <updated>2022-06-14T12:52:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @CallMeTuking @chesscom @TheImmortalGame @Immutable No not for the beta and you receive a piece if you're part of the beta]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
