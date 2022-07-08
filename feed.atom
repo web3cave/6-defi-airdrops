@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T18:18:11.768Z</id>
+    <id>urn:2022-07-08T19:12:24.800Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-08T18:18:11.768Z</updated>
+    <updated>2022-07-08T19:12:24.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re No pressure on this one, the app seems to only work intermittently right now but make sure you do in in the next couple of weeks! Here's a recap on...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1545454719166021632</id>
+        <link href="https://twitter.com/defi_airdrops/status/1545454719166021632"/>
+        <updated>2022-07-08T17:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Re No pressure on this one, the app seems to only work intermittently right now but make sure you do in in the next couple of weeks!
+Here's a recap on Aztec:
+Aztec: Aztec Connect is live on mainnet!
+Private DeFi comes to Ethereum for the first time ever, enabled by Aztec's private zkRollup:]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Link 👇]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1545454717802790913</id>
+        <link href="https://twitter.com/defi_airdrops/status/1545454717802790913"/>
+        <updated>2022-07-08T17:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Re Link 👇 https://zk.money/earn]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aztec Connect the first privacy preserving zk-Rollup is live on Ethereum and you might want to give it a spin. Any L1 app will be able to add private ...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1545454715558846465</id>
+        <link href="https://twitter.com/defi_airdrops/status/1545454715558846465"/>
+        <updated>2022-07-08T17:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Aztec Connect the first privacy preserving zk-Rollup is live on Ethereum and you might want to give it a spin.
+Any L1 app will be able to add private transactions but to kick things off the @aztecnetwork team launched its own dapp where you can earn yield on Lido & Element.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @imanpjnir @bookmakerxyz @azuroprotocol @gnosischain @PikaProtocol it’s @azuroprotocol you moron and they didnt pay me and pika protocol is a soli...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1544717167937069063</id>
@@ -200,44 +234,6 @@ only on centralized exchanges]]></summary>
         <updated>2022-06-16T09:49:58.000Z</updated>
         <summary type="html"><![CDATA[Re Token is claimable but not tradeable on-chain yet (will be shortly)
 Claim: https://airdrop.forta.network/]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 AIRDROP ALERT 🚨 @FortaNetwork, a real-time security monitoring network for Web3, has just dropped 4% of $FORT supply. The airdrop is mostly ta...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1537371894780944385</id>
-        <link href="https://twitter.com/defi_airdrops/status/1537371894780944385"/>
-        <updated>2022-06-16T09:49:57.000Z</updated>
-        <summary type="html"><![CDATA[🚨 AIRDROP ALERT 🚨
-@FortaNetwork, a real-time security monitoring network for Web3, has just dropped 4% of $FORT supply.
-The airdrop is mostly target at devs:
-- Gnosis Safe signers
-- Subgraph developers
-- Web3 coders (you've deployed popular smart contracts)
-& more 👇]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @xnatasxswe nope first of all its testnet so everything is free second of all all beta users will receive a free NFT piece and third there'll be a ...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1536726832632025088</id>
-        <link href="https://twitter.com/defi_airdrops/status/1536726832632025088"/>
-        <updated>2022-06-14T15:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @xnatasxswe nope first of all its testnet so everything is free
-second of all all beta users will receive a free NFT piece
-and third there'll be a free to play version]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CallMeTuking @chesscom @TheImmortalGame @Immutable No not for the beta and you receive a piece if you're part of the beta]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1536693062512033792</id>
-        <link href="https://twitter.com/defi_airdrops/status/1536693062512033792"/>
-        <updated>2022-06-14T12:52:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @CallMeTuking @chesscom @TheImmortalGame @Immutable No not for the beta and you receive a piece if you're part of the beta]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
