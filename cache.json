@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/defi_airdrops",
       "articles": [
         {
+          "id": "https://twitter.com/defi_airdrops/status/1547238301379223554",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Re 10% — strategic reserve to fund ecosystem activities\n2% — Donations (universities, NGOs)\n8.1% Unallocated — this is the part that could be used for strategic user acquisition",
+          "link": "https://twitter.com/defi_airdrops/status/1547238301379223554",
+          "publishedOn": "2022-07-13T15:15:32.000Z",
+          "wordCount": 352,
+          "title": "Re 10% — strategic reserve to fund ecosystem activities 2% — Donations (universities, NGOs) 8.1% Unallocated — this is the part that could be used ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1547237236298715136",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Re 50.1% of the 10b token supply will go to a Foundation:\n9% — Community Provisions: to StarkEx L2 users (dYdX, Immutable X, Deversifi etc). \n9% — Community Rebates: to cover onboarding from ETH to StarkNet 💡\n12% — Grants for research/work on Starknet",
+          "link": "https://twitter.com/defi_airdrops/status/1547237236298715136",
+          "publishedOn": "2022-07-13T15:11:18.000Z",
+          "wordCount": 352,
+          "title": "Re 50.1% of the 10b token supply will go to a Foundation: 9% — Community Provisions: to StarkEx L2 users (dYdX, Immutable X, Deversifi etc). 9% — Co...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1547235292163330049",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Re More info: https://medium.com/starkware/part-1-starknet-sovereignty-a-decentralization-proposal-bca3e98a01ef",
+          "link": "https://twitter.com/defi_airdrops/status/1547235292163330049",
+          "publishedOn": "2022-07-13T15:03:34.000Z",
+          "wordCount": 352,
+          "title": "Re More info:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1547235289642442755",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Starknet confirms $STARK token - but no airdrop for end users (yet)\nToken will be used for staking, governance and fees",
+          "link": "https://twitter.com/defi_airdrops/status/1547235289642442755",
+          "publishedOn": "2022-07-13T15:03:33.000Z",
+          "wordCount": 352,
+          "title": "Starknet confirms $STARK token - but no airdrop for end users (yet) Token will be used for staking, governance and fees",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defi_airdrops/status/1545454719166021632",
           "author": "DeFi Airdrops 🦇🔊",
           "description": "Re No pressure on this one, the app seems to only work intermittently right now but make sure you do in in the next couple of weeks!\nHere's a recap on Aztec: https://twitter.com/aztecnetwork/status/1545046832597700611?s=20&t=WYeYACK8C3GutHyFP85SGA",
@@ -153,46 +193,6 @@
           "publishedOn": "2022-06-20T16:19:30.000Z",
           "wordCount": 352,
           "title": "Re Token confirmed but not an airdrop at first. IDO for $USDC on the 24th of June at 3PM UTC on Zigzag itself. Community will be able to vote on airdr...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1538499412430831617",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "It's a date $ZIG 👀 https://github.com/ZigZagExchange/token/blob/master/ZigZagToken.sol",
-          "link": "https://twitter.com/defi_airdrops/status/1538499412430831617",
-          "publishedOn": "2022-06-19T12:30:18.000Z",
-          "wordCount": 352,
-          "title": "It's a date $ZIG 👀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1537382963633082368",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "Re correction:\nthe token is actually tradeable on-chain (in addition to coinbase and bybit) https://etherscan.io/token/0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29",
-          "link": "https://twitter.com/defi_airdrops/status/1537382963633082368",
-          "publishedOn": "2022-06-16T10:33:56.000Z",
-          "wordCount": 352,
-          "title": "Re correction: the token is actually tradeable on-chain (in addition to coinbase and bybit)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1537372406695661568",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "Re @Prometeus90 not on-chain though\nonly on centralized exchanges",
-          "link": "https://twitter.com/defi_airdrops/status/1537372406695661568",
-          "publishedOn": "2022-06-16T09:51:59.000Z",
-          "wordCount": 352,
-          "title": "Re @Prometeus90 not on-chain though only on centralized exchanges",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1537371901777129473",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "Re Full eligibility here: https://docs.forta.network/en/latest/airdrop/",
-          "link": "https://twitter.com/defi_airdrops/status/1537371901777129473",
-          "publishedOn": "2022-06-16T09:49:59.000Z",
-          "wordCount": 352,
-          "title": "Re Full eligibility here:",
           "imageUrl": null
         }
       ]
