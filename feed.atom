@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-18T23:14:21.964Z</id>
+    <id>urn:2022-07-19T01:29:10.225Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-18T23:14:21.964Z</updated>
+    <updated>2022-07-19T01:29:10.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @xmargintrading gave Wintermute a positive AA rating based on their on-chain and CEX holdings]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1549196792323088385</id>
+        <link href="https://twitter.com/defi_airdrops/status/1549196792323088385"/>
+        <updated>2022-07-19T00:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @xmargintrading gave Wintermute a positive AA rating based on their on-chain and CEX holdings]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New @AtlendisLabs pool might be worth depositing into. It's uncollaterized lending to DAO's and institutional investors (not without risks 🚨!!). In...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1549196790330695682</id>
+        <link href="https://twitter.com/defi_airdrops/status/1549196790330695682"/>
+        <updated>2022-07-19T00:57:52.000Z</updated>
+        <summary type="html"><![CDATA[New @AtlendisLabs pool might be worth depositing into.
+It's uncollaterized lending to DAO's and institutional investors (not without risks 🚨!!).
+In this case the loan is to @wintermute_t a big market maker in crypto with a 2month maturity.
+APY is around 8% + airdrop potential
+Atlendis Labs: 👀 Juicy 16.3% APY on the @wintermute_t pool. What are we waiting for? Let's dive in 🫧]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 10% — strategic reserve to fund ecosystem activities 2% — Donations (universities, NGOs) 8.1% Unallocated — this is the part that could be used ...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1547238301379223554</id>
@@ -209,34 +233,6 @@ To welcome the Genie community to the Uniswap universe, we’ll be airdropping U
         <summary type="html"><![CDATA[Arbitrum Odyssey starting in 1 hour! 🔵 
 During Bridge week users who bridge $ETH using the bridge that ends up with the most number wallets bridging, receive a special Bonus NFT 🌟
 Our gut tells us the Bonus NFT could be used as multiplier during the $ARBI airdrop 👀]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Token confirmed but not an airdrop at first. IDO for $USDC on the 24th of June at 3PM UTC on Zigzag itself. Community will be able to vote on airdr...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1538919481589878785</id>
-        <link href="https://twitter.com/defi_airdrops/status/1538919481589878785"/>
-        <updated>2022-06-20T16:19:30.000Z</updated>
-        <summary type="html"><![CDATA[Re Token confirmed but not an airdrop at first.
-IDO for $USDC on the 24th of June at 3PM UTC on Zigzag itself.
-Community will be able to vote on airdrop criteria after.
-ZigZag Exchange: The anticipation is finally over..
-Introducing: ZigZag's token!
-This thread will go into detail about:
-- Our community-driven airdrop procedure
-- Launching our token as fairly as possible and the formation of ZigZag's DAO
-- Round 1 of our public sale: the first IDO on @zksync!]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's a date $ZIG 👀]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1538499412430831617</id>
-        <link href="https://twitter.com/defi_airdrops/status/1538499412430831617"/>
-        <updated>2022-06-19T12:30:18.000Z</updated>
-        <summary type="html"><![CDATA[It's a date $ZIG 👀 https://github.com/ZigZagExchange/token/blob/master/ZigZagToken.sol]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
