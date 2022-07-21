@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T06:19:23.668Z</id>
+    <id>urn:2022-07-21T07:13:27.827Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-21T06:19:23.668Z</updated>
+    <updated>2022-07-21T07:13:27.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -213,20 +213,6 @@ As per their roadmap, you'll soon be able to provide liquidity on the sportsbook
         <summary type="html"><![CDATA[AIRDROP RUMOUR 🚨
 Check out @bookmakerxyz built on @azuroprotocol to do sportsbetting on @gnosischain.
 UX is top-notch and a significant improvement from legacy prediction markets.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIRDROP ALERT 🚨 @geniexyz the NFT aggregator got acquired by @Uniswap Users who used Genie more than once before April 15th or hold a Genie NFT wil...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1539314648037699586</id>
-        <link href="https://twitter.com/defi_airdrops/status/1539314648037699586"/>
-        <updated>2022-06-21T18:29:45.000Z</updated>
-        <summary type="html"><![CDATA[AIRDROP ALERT 🚨
-@geniexyz the NFT aggregator got acquired by @Uniswap
-Users who used Genie more than once before April 15th or hold a Genie NFT will receive a $USDC airdrop.🪂
-Uniswap Labs 🦄: 4/ One more thing…
-To welcome the Genie community to the Uniswap universe, we’ll be airdropping USDC later this summer to anyone who used Genie more than once before April 15 or holds a GENIE:GEM NFT 🧞‍♂️🦄]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
