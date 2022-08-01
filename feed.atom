@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-01T14:15:37.675Z</id>
+    <id>urn:2022-08-01T15:18:56.046Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-01T14:15:37.675Z</updated>
+    <updated>2022-08-01T15:18:56.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -233,6 +233,17 @@ and pika protocol is a solid product that didnt pay us either and they might sti
 DeFi Airdrops 🦇🔊: @ZeroXdonald @bookmakerxyz @azuroprotocol @gnosischain Nope you can ask the team
 cc/ @azuroprotocol 
 We tweet about products we come across we find innovative and cool to use]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ZeroXdonald @bookmakerxyz @azuroprotocol @gnosischain and obviously where we think there's potential for a token in this case no need to look far]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1544390137911574528</id>
+        <link href="https://twitter.com/defi_airdrops/status/1544390137911574528"/>
+        <updated>2022-07-05T18:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @ZeroXdonald @bookmakerxyz @azuroprotocol @gnosischain and obviously where we think there's potential for a token
+in this case no need to look far]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
