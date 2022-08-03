@@ -1,53 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T13:37:24.623Z</id>
+    <id>urn:2022-08-03T14:13:19.738Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T13:37:24.623Z</updated>
+    <updated>2022-08-03T14:13:19.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re @DexPilot in 1 day]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1554804284239273985</id>
-        <link href="https://twitter.com/defi_airdrops/status/1554804284239273985"/>
-        <updated>2022-08-03T12:20:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @DexPilot in 1 day]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re bridge to @optimismFND with @HopProtocol]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1554788001489756160</id>
-        <link href="https://twitter.com/defi_airdrops/status/1554788001489756160"/>
-        <updated>2022-08-03T11:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Re bridge to @optimismFND with @HopProtocol https://app.hop.exchange/]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Link:]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1554787696043868162</id>
-        <link href="https://twitter.com/defi_airdrops/status/1554787696043868162"/>
-        <updated>2022-08-03T11:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Re Link: https://www.lyra.finance/]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lyra Finance now starting to distribute some of their 3m $OP airdrop to: - LP's in their $ETH option vaults (takes deposits in $sUSD) - users who stak...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1554787692524834820</id>
-        <link href="https://twitter.com/defi_airdrops/status/1554787692524834820"/>
-        <updated>2022-08-03T11:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Lyra Finance now starting to distribute some of their 3m $OP airdrop to:
-- LP's in their $ETH option vaults (takes deposits in $sUSD)
-- users who stake $LYRA for a share of protocol fees
-30% organic apr from option premiums + 84% APY in $OP 🤑]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re Forgot to add: Snapshot for this week is tomorrow 28th of June at midnight UTC 🕰]]></title>
         <id>https://twitter.com/defi_airdrops/status/1552334720129810438</id>
@@ -228,6 +185,54 @@ Atlendis Labs: 👀 Juicy 16.3% APY on the @wintermute_t pool. What are we wai
         <updated>2022-07-13T15:03:33.000Z</updated>
         <summary type="html"><![CDATA[Starknet confirms $STARK token - but no airdrop for end users (yet)
 Token will be used for staking, governance and fees]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re No pressure on this one, the app seems to only work intermittently right now but make sure you do in in the next couple of weeks! Here's a recap on...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1545454719166021632</id>
+        <link href="https://twitter.com/defi_airdrops/status/1545454719166021632"/>
+        <updated>2022-07-08T17:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Re No pressure on this one, the app seems to only work intermittently right now but make sure you do in in the next couple of weeks!
+Here's a recap on Aztec:
+Aztec: Aztec Connect is live on mainnet!
+Private DeFi comes to Ethereum for the first time ever, enabled by Aztec's private zkRollup:]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Link 👇]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1545454717802790913</id>
+        <link href="https://twitter.com/defi_airdrops/status/1545454717802790913"/>
+        <updated>2022-07-08T17:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Re Link 👇 https://zk.money/earn]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aztec Connect the first privacy preserving zk-Rollup is live on Ethereum and you might want to give it a spin. Any L1 app will be able to add private ...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1545454715558846465</id>
+        <link href="https://twitter.com/defi_airdrops/status/1545454715558846465"/>
+        <updated>2022-07-08T17:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Aztec Connect the first privacy preserving zk-Rollup is live on Ethereum and you might want to give it a spin.
+Any L1 app will be able to add private transactions but to kick things off the @aztecnetwork team launched its own dapp where you can earn yield on Lido & Element.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @imanpjnir @bookmakerxyz @azuroprotocol @gnosischain @PikaProtocol it’s @azuroprotocol you moron and they didnt pay me and pika protocol is a soli...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1544717167937069063</id>
+        <link href="https://twitter.com/defi_airdrops/status/1544717167937069063"/>
+        <updated>2022-07-06T16:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @imanpjnir @bookmakerxyz @azuroprotocol @gnosischain @PikaProtocol it’s @azuroprotocol you moron and they didnt pay me
+and pika protocol is a solid product that didnt pay us either and they might still drop a token
+DeFi Airdrops 🦇🔊: @ZeroXdonald @bookmakerxyz @azuroprotocol @gnosischain Nope you can ask the team
+cc/ @azuroprotocol 
+We tweet about products we come across we find innovative and cool to use]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
