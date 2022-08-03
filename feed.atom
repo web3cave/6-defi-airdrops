@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T18:18:55.758Z</id>
+    <id>urn:2022-08-03T19:12:13.900Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T18:18:55.758Z</updated>
+    <updated>2022-08-03T19:12:13.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -228,6 +228,19 @@ Atlendis Labs: 👀 Juicy 16.3% APY on the @wintermute_t pool. What are we wai
         <updated>2022-07-13T15:03:33.000Z</updated>
         <summary type="html"><![CDATA[Starknet confirms $STARK token - but no airdrop for end users (yet)
 Token will be used for staking, governance and fees]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re No pressure on this one, the app seems to only work intermittently right now but make sure you do in in the next couple of weeks! Here's a recap on...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1545454719166021632</id>
+        <link href="https://twitter.com/defi_airdrops/status/1545454719166021632"/>
+        <updated>2022-07-08T17:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Re No pressure on this one, the app seems to only work intermittently right now but make sure you do in in the next couple of weeks!
+Here's a recap on Aztec:
+Aztec: Aztec Connect is live on mainnet!
+Private DeFi comes to Ethereum for the first time ever, enabled by Aztec's private zkRollup:]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
