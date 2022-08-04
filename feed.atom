@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-04T11:12:38.188Z</id>
+    <id>urn:2022-08-04T12:29:45.109Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-04T11:12:38.188Z</updated>
+    <updated>2022-08-04T12:29:45.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @PhiMarHal @AaveAave @optimismFND Wouldn't be too concerned Aave clearly received the rewards so they should be able to distribute them at some poi...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1555168269929222144</id>
+        <link href="https://twitter.com/defi_airdrops/status/1555168269929222144"/>
+        <updated>2022-08-04T12:26:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @PhiMarHal @AaveAave @optimismFND Wouldn't be too concerned Aave clearly received the rewards so they should be able to distribute them at some point]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Hop into @optimismFND with @HopProtocol]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1555167871940034561</id>
+        <link href="https://twitter.com/defi_airdrops/status/1555167871940034561"/>
+        <updated>2022-08-04T12:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Re Hop into @optimismFND with @HopProtocol https://app.hop.exchange/#/send?token=ETH&sourceNetwork=ethereum&destNetwork=optimism]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Link:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1555165408860282886</id>
+        <link href="https://twitter.com/defi_airdrops/status/1555165408860282886"/>
+        <updated>2022-08-04T12:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Re Link: https://app.aave.com/?marketName=proto_optimism_v3]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[And now @AaveAave has started distributing their allocation of $OP incentives 👀 On @optimismFND]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1555165406721179651</id>
+        <link href="https://twitter.com/defi_airdrops/status/1555165406721179651"/>
+        <updated>2022-08-04T12:15:01.000Z</updated>
+        <summary type="html"><![CDATA[And now @AaveAave has started distributing their allocation of $OP incentives 👀
+On @optimismFND]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @DexPilot in 1 day]]></title>
         <id>https://twitter.com/defi_airdrops/status/1554804284239273985</id>
@@ -194,53 +235,6 @@ Atlendis Labs: 👀 Juicy 16.3% APY on the @wintermute_t pool. What are we wai
         <summary type="html"><![CDATA[Re 10% — strategic reserve to fund ecosystem activities
 2% — Donations (universities, NGOs)
 8.1% Unallocated — this is the part that could be used for strategic user acquisition]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 50.1% of the 10b token supply will go to a Foundation: 9% — Community Provisions: to StarkEx L2 users (dYdX, Immutable X, Deversifi etc). 9% — Co...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1547237236298715136</id>
-        <link href="https://twitter.com/defi_airdrops/status/1547237236298715136"/>
-        <updated>2022-07-13T15:11:18.000Z</updated>
-        <summary type="html"><![CDATA[Re 50.1% of the 10b token supply will go to a Foundation:
-9% — Community Provisions: to StarkEx L2 users (dYdX, Immutable X, Deversifi etc). 
-9% — Community Rebates: to cover onboarding from ETH to StarkNet 💡
-12% — Grants for research/work on Starknet]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re More info:]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1547235292163330049</id>
-        <link href="https://twitter.com/defi_airdrops/status/1547235292163330049"/>
-        <updated>2022-07-13T15:03:34.000Z</updated>
-        <summary type="html"><![CDATA[Re More info: https://medium.com/starkware/part-1-starknet-sovereignty-a-decentralization-proposal-bca3e98a01ef]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starknet confirms $STARK token - but no airdrop for end users (yet) Token will be used for staking, governance and fees]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1547235289642442755</id>
-        <link href="https://twitter.com/defi_airdrops/status/1547235289642442755"/>
-        <updated>2022-07-13T15:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Starknet confirms $STARK token - but no airdrop for end users (yet)
-Token will be used for staking, governance and fees]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re No pressure on this one, the app seems to only work intermittently right now but make sure you do in in the next couple of weeks! Here's a recap on...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1545454719166021632</id>
-        <link href="https://twitter.com/defi_airdrops/status/1545454719166021632"/>
-        <updated>2022-07-08T17:08:12.000Z</updated>
-        <summary type="html"><![CDATA[Re No pressure on this one, the app seems to only work intermittently right now but make sure you do in in the next couple of weeks!
-Here's a recap on Aztec:
-Aztec: Aztec Connect is live on mainnet!
-Private DeFi comes to Ethereum for the first time ever, enabled by Aztec's private zkRollup:]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
