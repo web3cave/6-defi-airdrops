@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-11T10:16:26.954Z</id>
+    <id>urn:2022-08-11T11:13:19.261Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-11T10:16:26.954Z</updated>
+    <updated>2022-08-11T11:13:19.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -224,6 +224,22 @@ That means we're giving away over 325,000 $OP to new and existing $veVELO locker
         <link href="https://twitter.com/defi_airdrops/status/1551869418698952705"/>
         <updated>2022-07-26T09:57:56.000Z</updated>
         <summary type="html"><![CDATA[Re Link: https://www.ens.vision/market?tab=top]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was only time until we got a specialized marketplace for ENS domains. On @ensvision you can filter for .eth domains from: - specific languages - 999 c...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1551869416165593088</id>
+        <link href="https://twitter.com/defi_airdrops/status/1551869416165593088"/>
+        <updated>2022-07-26T09:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Was only time until we got a specialized marketplace for ENS domains.
+On @ensvision you can filter for .eth domains from:
+- specific languages
+- 999 club
+- 10k club
+- 3, 5, 5 letter domain etc.
+If you're looking for a 🔥🔥.eth might be worth buying it there..]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
