@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-17T11:12:38.993Z</id>
+    <id>urn:2022-08-17T12:31:46.948Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-17T11:12:38.993Z</updated>
+    <updated>2022-08-17T12:31:46.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Some people framing ETH POW as an airdrop. It's not. Our advise to you: don't touch ETH POW or you'll get rekt.]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1559876953003507712</id>
+        <link href="https://twitter.com/defi_airdrops/status/1559876953003507712"/>
+        <updated>2022-08-17T12:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Some people framing ETH POW as an airdrop. It's not.
+Our advise to you: don't touch ETH POW or you'll get rekt.
+Robert Leshner: The Ethereum merge (switch to proof of stake from proof of work) is a few weeks out. For most folks in the Ethereum community, this is maybe the most meaningful event of the past five years.
+Some advice for beginners (and experts):]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re If you're new to @optimismFND 1) bridge assets with: 2) swap them into $sETH or $sUSD in Polynomials integrated swap tab.]]></title>
         <id>https://twitter.com/defi_airdrops/status/1557382623110074369</id>
@@ -224,22 +237,6 @@ That means we're giving away over 325,000 $OP to new and existing $veVELO locker
         <link href="https://twitter.com/defi_airdrops/status/1551869418698952705"/>
         <updated>2022-07-26T09:57:56.000Z</updated>
         <summary type="html"><![CDATA[Re Link: https://www.ens.vision/market?tab=top]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Was only time until we got a specialized marketplace for ENS domains. On @ensvision you can filter for .eth domains from: - specific languages - 999 c...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1551869416165593088</id>
-        <link href="https://twitter.com/defi_airdrops/status/1551869416165593088"/>
-        <updated>2022-07-26T09:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Was only time until we got a specialized marketplace for ENS domains.
-On @ensvision you can filter for .eth domains from:
-- specific languages
-- 999 club
-- 10k club
-- 3, 5, 5 letter domain etc.
-If you're looking for a 🔥🔥.eth might be worth buying it there..]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
