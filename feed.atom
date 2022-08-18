@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-18T22:15:31.795Z</id>
+    <id>urn:2022-08-18T23:15:33.171Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-18T22:15:31.795Z</updated>
+    <updated>2022-08-18T23:15:33.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -222,17 +222,6 @@ Velodrome (🚴,🚴): Velodrome is an AMM designed as the central trading and
 It is the next evolution of the @solidlyexchange model introduced by Andew Cronje. 
 Launching on May 31st with 10+ partners, it will kick start #OPSummer.
 Need a 101?👇🧵]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re At current prices and lock rates it translates to receiving a $0.30 kickback in $OP for every $1 invested. Once you have your locked $veVELO NFT yo...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1552334360585568257</id>
-        <link href="https://twitter.com/defi_airdrops/status/1552334360585568257"/>
-        <updated>2022-07-27T16:45:27.000Z</updated>
-        <summary type="html"><![CDATA[Re At current prices and lock rates it translates to receiving a $0.30 kickback in $OP for every $1 invested.
-Once you have your locked $veVELO NFT you can vote on which pool should receive $VELO emissions & receive 100% of the trading fees and bribes collected through this pool.]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
