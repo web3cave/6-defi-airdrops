@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-26T04:15:53.888Z</id>
+    <id>urn:2022-08-26T05:56:32.641Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-26T04:15:53.888Z</updated>
+    <updated>2022-08-26T05:56:32.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -207,31 +207,6 @@ On @optimismFND]]></summary>
 - LP's in their $ETH option vaults (takes deposits in $sUSD)
 - users who stake $LYRA for a share of protocol fees
 30% organic apr from option premiums + 84% APY in $OP 🤑]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Forgot to add: Snapshot for this week is tomorrow 28th of June at midnight UTC 🕰]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1552334720129810438</id>
-        <link href="https://twitter.com/defi_airdrops/status/1552334720129810438"/>
-        <updated>2022-07-27T16:46:52.000Z</updated>
-        <summary type="html"><![CDATA[Re Forgot to add:
-Snapshot for this week is tomorrow 28th of June at midnight UTC 🕰]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re More on Velodrome 👇]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1552334362070454274</id>
-        <link href="https://twitter.com/defi_airdrops/status/1552334362070454274"/>
-        <updated>2022-07-27T16:45:27.000Z</updated>
-        <summary type="html"><![CDATA[Re More on Velodrome 👇
-Velodrome (🚴,🚴): Velodrome is an AMM designed as the central trading and liquidity marketplace on @optimismPBC.
-It is the next evolution of the @solidlyexchange model introduced by Andew Cronje. 
-Launching on May 31st with 10+ partners, it will kick start #OPSummer.
-Need a 101?👇🧵]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
