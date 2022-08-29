@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-29T19:12:20.936Z</id>
+    <id>urn:2022-08-29T20:16:23.963Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-29T19:12:20.936Z</updated>
+    <updated>2022-08-29T20:16:23.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re edit:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1564308918976774146</id>
+        <link href="https://twitter.com/defi_airdrops/status/1564308918976774146"/>
+        <updated>2022-08-29T17:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Re edit:
+Fawoz ☂️: @defi_airdrops @PikaProtocol 4 months to claim*]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re full announcement:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1564304783749652487</id>
+        <link href="https://twitter.com/defi_airdrops/status/1564304783749652487"/>
+        <updated>2022-08-29T17:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Re full announcement: https://pikaprotocol.medium.com/op-token-distribution-for-pika-bb8a0fb6075e]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Trading rewards are proportional to fees paid in $ up to a ceiling of $1000 USDC. If you missed it there's still a chance to qualify for future inc...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1564304671027634176</id>
+        <link href="https://twitter.com/defi_airdrops/status/1564304671027634176"/>
+        <updated>2022-08-29T17:31:11.000Z</updated>
+        <summary type="html"><![CDATA[Re Trading rewards are proportional to fees paid in $ up to a ceiling of $1000 USDC.
+If you missed it there's still a chance to qualify for future incentives by trading or providing liquidity.
+Over 500k $OP still for grabs 💸]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pika Protocol just announced its criteria for the $OP airdrop. If you were a liquidity provider or trader on @PikaProtocol you might have a surprise w...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1564304668716662792</id>
+        <link href="https://twitter.com/defi_airdrops/status/1564304668716662792"/>
+        <updated>2022-08-29T17:31:11.000Z</updated>
+        <summary type="html"><![CDATA[Pika Protocol just announced its criteria for the $OP airdrop.
+If you were a liquidity provider or trader on @PikaProtocol you might have a surprise waiting for you.
+You have 4 days to claim so be quick: https://pikaprotocol.com/#/reward]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re if the google sheet doesn't work here's a CSV]]></title>
         <id>https://twitter.com/defi_airdrops/status/1560411870665871361</id>
@@ -184,29 +229,6 @@ On @optimismFND]]></summary>
         <link href="https://twitter.com/defi_airdrops/status/1554788001489756160"/>
         <updated>2022-08-03T11:15:20.000Z</updated>
         <summary type="html"><![CDATA[Re bridge to @optimismFND with @HopProtocol https://app.hop.exchange/]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Link:]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1554787696043868162</id>
-        <link href="https://twitter.com/defi_airdrops/status/1554787696043868162"/>
-        <updated>2022-08-03T11:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Re Link: https://www.lyra.finance/]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lyra Finance now starting to distribute some of their 3m $OP airdrop to: - LP's in their $ETH option vaults (takes deposits in $sUSD) - users who stak...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1554787692524834820</id>
-        <link href="https://twitter.com/defi_airdrops/status/1554787692524834820"/>
-        <updated>2022-08-03T11:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Lyra Finance now starting to distribute some of their 3m $OP airdrop to:
-- LP's in their $ETH option vaults (takes deposits in $sUSD)
-- users who stake $LYRA for a share of protocol fees
-30% organic apr from option premiums + 84% APY in $OP 🤑]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
