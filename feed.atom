@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-30T12:32:21.646Z</id>
+    <id>urn:2022-08-30T13:39:24.062Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-30T12:32:21.646Z</updated>
+    <updated>2022-08-30T13:39:24.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -219,6 +219,16 @@ On @optimismFND]]></summary>
         <link href="https://twitter.com/defi_airdrops/status/1554804284239273985"/>
         <updated>2022-08-03T12:20:02.000Z</updated>
         <summary type="html"><![CDATA[Re @DexPilot in 1 day]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re bridge to @optimismFND with @HopProtocol]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1554788001489756160</id>
+        <link href="https://twitter.com/defi_airdrops/status/1554788001489756160"/>
+        <updated>2022-08-03T11:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Re bridge to @optimismFND with @HopProtocol https://app.hop.exchange/]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
