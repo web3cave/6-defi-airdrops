@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T11:13:22.248Z</id>
+    <id>urn:2022-09-01T12:29:31.965Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-01T11:13:22.248Z</updated>
+    <updated>2022-09-01T12:29:31.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Claim here:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1565290212141547520</id>
+        <link href="https://twitter.com/defi_airdrops/status/1565290212141547520"/>
+        <updated>2022-09-01T10:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Re Claim here: https://qx.app/launchpad/optimists]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you've ever bought an NFT on @qx_app (formerly Quixotic), @optimismFND's largest NFT marketplace, you are eligible for this OG NFT. $QX soon?]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1565290210224635904</id>
+        <link href="https://twitter.com/defi_airdrops/status/1565290210224635904"/>
+        <updated>2022-09-01T10:47:22.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever bought an NFT on @qx_app (formerly Quixotic), @optimismFND's largest NFT marketplace, you are eligible for this OG NFT.
+$QX soon?
+Quix (formerly Quixotic) 🔴✨: And now for today's next update 🔴_🔴
+Introducing: OP OG NFTs - a (non-fungible) token of our appreciation to members of the OP NFT community.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re edit:]]></title>
         <id>https://twitter.com/defi_airdrops/status/1564308918976774146</id>
@@ -209,16 +232,6 @@ Every 14 days:
         <updated>2022-08-04T12:15:01.000Z</updated>
         <summary type="html"><![CDATA[And now @AaveAave has started distributing their allocation of $OP incentives 👀
 On @optimismFND]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DexPilot in 1 day]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1554804284239273985</id>
-        <link href="https://twitter.com/defi_airdrops/status/1554804284239273985"/>
-        <updated>2022-08-03T12:20:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @DexPilot in 1 day]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
