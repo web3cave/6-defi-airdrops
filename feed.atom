@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T12:29:31.965Z</id>
+    <id>urn:2022-09-01T13:34:30.818Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-01T12:29:31.965Z</updated>
+    <updated>2022-09-01T13:34:30.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @777_Earth2 @arbitrum no still only ethereum]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1565331960285007872</id>
+        <link href="https://twitter.com/defi_airdrops/status/1565331960285007872"/>
+        <updated>2022-09-01T13:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @777_Earth2 @arbitrum no still only ethereum]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gnosis Safe made some changes to the $SAFE distribution after feedback from the community. Even more users are now eligible 👇]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1565330877055348736</id>
+        <link href="https://twitter.com/defi_airdrops/status/1565330877055348736"/>
+        <updated>2022-09-01T13:28:58.000Z</updated>
+        <summary type="html"><![CDATA[Gnosis Safe made some changes to the $SAFE distribution after feedback from the community.
+Even more users are now eligible 👇
+Safe | Gnosis Safe: Update: After gathering feedback from the community, we have made some improvements to the SAFE user distribution!
+ https://forum.gnosis-safe.io/t/new-proposal-reworked-safe-distribution-for-users/594]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Claim here:]]></title>
         <id>https://twitter.com/defi_airdrops/status/1565290212141547520</id>
@@ -211,27 +234,6 @@ Every 14 days:
         <link href="https://twitter.com/defi_airdrops/status/1555167871940034561"/>
         <updated>2022-08-04T12:24:48.000Z</updated>
         <summary type="html"><![CDATA[Re Hop into @optimismFND with @HopProtocol https://app.hop.exchange/#/send?token=ETH&sourceNetwork=ethereum&destNetwork=optimism]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Link:]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1555165408860282886</id>
-        <link href="https://twitter.com/defi_airdrops/status/1555165408860282886"/>
-        <updated>2022-08-04T12:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Re Link: https://app.aave.com/?marketName=proto_optimism_v3]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[And now @AaveAave has started distributing their allocation of $OP incentives 👀 On @optimismFND]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1555165406721179651</id>
-        <link href="https://twitter.com/defi_airdrops/status/1555165406721179651"/>
-        <updated>2022-08-04T12:15:01.000Z</updated>
-        <summary type="html"><![CDATA[And now @AaveAave has started distributing their allocation of $OP incentives 👀
-On @optimismFND]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
