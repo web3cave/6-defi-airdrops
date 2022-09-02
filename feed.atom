@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-02T01:40:07.786Z</id>
+    <id>urn:2022-09-02T04:12:44.588Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-02T01:40:07.786Z</updated>
+    <updated>2022-09-02T04:12:44.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -224,6 +224,16 @@ Every 14 days:
         <link href="https://twitter.com/defi_airdrops/status/1555168269929222144"/>
         <updated>2022-08-04T12:26:23.000Z</updated>
         <summary type="html"><![CDATA[Re @PhiMarHal @AaveAave @optimismFND Wouldn't be too concerned Aave clearly received the rewards so they should be able to distribute them at some point]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Hop into @optimismFND with @HopProtocol]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1555167871940034561</id>
+        <link href="https://twitter.com/defi_airdrops/status/1555167871940034561"/>
+        <updated>2022-08-04T12:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Re Hop into @optimismFND with @HopProtocol https://app.hop.exchange/#/send?token=ETH&sourceNetwork=ethereum&destNetwork=optimism]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
