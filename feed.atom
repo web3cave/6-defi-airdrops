@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-03T10:16:22.101Z</id>
+    <id>urn:2022-09-03T11:12:23.505Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-03T10:16:22.101Z</updated>
+    <updated>2022-09-03T11:12:23.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -179,41 +179,6 @@ Polynomial Protocol: 🎉 Today, we’re excited to launch the next generation
 💚 Built on top of @lyrafinance and @synthetix_io
 👉
  https://earn.polynomial.fi]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Another product by Thales is @OvertimeMarkets. Sport bets where you can earn $OP tokens for losing trades during next 4 weeks 😋]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1555321748630937601</id>
-        <link href="https://twitter.com/defi_airdrops/status/1555321748630937601"/>
-        <updated>2022-08-04T22:36:16.000Z</updated>
-        <summary type="html"><![CDATA[Re Another product by Thales is @OvertimeMarkets.
-Sport bets where you can earn $OP tokens for losing trades during next 4 weeks 😋 https://overtimemarkets.xyz/#/markets]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Link:]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1555317923316654081</id>
-        <link href="https://twitter.com/defi_airdrops/status/1555317923316654081"/>
-        <updated>2022-08-04T22:21:03.000Z</updated>
-        <summary type="html"><![CDATA[Re Link: https://thalesmarket.io/markets]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another way to get your hands on some $OP tokens is to trade binary options on @thalesmarket. Make simple directional bets by buying $UP or $DOWN toke...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1555317920573579264</id>
-        <link href="https://twitter.com/defi_airdrops/status/1555317920573579264"/>
-        <updated>2022-08-04T22:21:03.000Z</updated>
-        <summary type="html"><![CDATA[Another way to get your hands on some $OP tokens is to trade binary options on @thalesmarket.
-Make simple directional bets by buying $UP or $DOWN tokens.
-Every 14 days:
-- 11,000 OP + 20,000 THALES split between UP buyers
-- 11,000 OP + 20,000 THALES split between DOWN buyers]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
