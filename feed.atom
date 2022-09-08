@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-07T23:18:30.434Z</id>
+    <id>urn:2022-09-08T01:44:16.102Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-07T23:18:30.434Z</updated>
+    <updated>2022-09-08T01:44:16.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[It's safe to say that $SAFE airdrop is not far out anymore 👀]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1567681368993443843</id>
+        <link href="https://twitter.com/defi_airdrops/status/1567681368993443843"/>
+        <updated>2022-09-08T01:08:59.000Z</updated>
+        <summary type="html"><![CDATA[It's safe to say that $SAFE airdrop is not far out anymore 👀]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @777_Earth2 @arbitrum no still only ethereum]]></title>
         <id>https://twitter.com/defi_airdrops/status/1565331960285007872</id>
