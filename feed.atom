@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-08T11:14:02.684Z</id>
+    <id>urn:2022-09-08T12:31:56.723Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-08T11:14:02.684Z</updated>
+    <updated>2022-09-08T12:31:56.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -211,24 +211,6 @@ Some advice for beginners (and experts):]]></summary>
         <summary type="html"><![CDATA[Re which they'll start distributing to vault users.
 Before you deposit make sure you understand the strategies involved and what market views you implicitly express by depositing.
 E.g Covered Call vault does well in bear, crab market or slow grind up but loses $ETH in sudden jump]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polynomial just launched V2 of their option vaults on @optimismFND. You can deposit: - $sETH into the Covered Call vault selling $ETH call options - o...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1557381680633094148</id>
-        <link href="https://twitter.com/defi_airdrops/status/1557381680633094148"/>
-        <updated>2022-08-10T15:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Polynomial just launched V2 of their option vaults on @optimismFND.
-You can deposit: 
-- $sETH into the Covered Call vault selling $ETH call options 
-- or $sUSD into their Put Selling vault selling $ETH put options
-They also have 450,000 $OP tokens..
-Polynomial Protocol: 🎉 Today, we’re excited to launch the next generation of Earn Vaults on @optimismFND 
-💚 Built on top of @lyrafinance and @synthetix_io
-👉
- https://earn.polynomial.fi]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
