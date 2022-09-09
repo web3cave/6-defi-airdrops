@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-09T01:50:24.996Z</id>
+    <id>urn:2022-09-09T04:04:20.824Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-09T01:50:24.996Z</updated>
+    <updated>2022-09-09T04:04:20.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -187,30 +187,6 @@ Check if you’re eligible here: https://docs.google.com/spreadsheets/d/1kr3OT
 Our advise to you: don't touch ETH POW or you'll get rekt.
 Robert Leshner: The Ethereum merge (switch to proof of stake from proof of work) is a few weeks out. For most folks in the Ethereum community, this is maybe the most meaningful event of the past five years.
 Some advice for beginners (and experts):]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re If you're new to @optimismFND 1) bridge assets with: 2) swap them into $sETH or $sUSD in Polynomials integrated swap tab.]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1557382623110074369</id>
-        <link href="https://twitter.com/defi_airdrops/status/1557382623110074369"/>
-        <updated>2022-08-10T15:05:26.000Z</updated>
-        <summary type="html"><![CDATA[Re If you're new to @optimismFND 
-1) bridge assets with:
-2) swap them into $sETH or $sUSD in Polynomials integrated swap tab. https://app.hop.exchange]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re which they'll start distributing to vault users. Before you deposit make sure you understand the strategies involved and what market views you impl...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1557381682667331586</id>
-        <link href="https://twitter.com/defi_airdrops/status/1557381682667331586"/>
-        <updated>2022-08-10T15:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Re which they'll start distributing to vault users.
-Before you deposit make sure you understand the strategies involved and what market views you implicitly express by depositing.
-E.g Covered Call vault does well in bear, crab market or slow grind up but loses $ETH in sudden jump]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
