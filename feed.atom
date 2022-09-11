@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-11T15:16:24.741Z</id>
+    <id>urn:2022-09-11T16:21:12.487Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-11T15:16:24.741Z</updated>
+    <updated>2022-09-11T16:21:12.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -217,6 +217,18 @@ You have 4 days to claim so be quick: https://pikaprotocol.com/#/reward]]></su
         <link href="https://twitter.com/defi_airdrops/status/1560287720366395393"/>
         <updated>2022-08-18T15:29:15.000Z</updated>
         <summary type="html"><![CDATA[Re Half of the airdrop will be unlocked, half vesting over 4 years.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨🚨@gnosisSafe just announced its $SAFE airdrop. 50M tokes (5% of supply) will be dropped to Gnosis Safe users before Feb 2022. Check if you’re ...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1560287539835068417</id>
+        <link href="https://twitter.com/defi_airdrops/status/1560287539835068417"/>
+        <updated>2022-08-18T15:28:32.000Z</updated>
+        <summary type="html"><![CDATA[🚨🚨@gnosisSafe just announced its $SAFE airdrop.
+50M tokes (5% of supply) will be dropped to Gnosis Safe users before Feb 2022.
+Check if you’re eligible here: https://docs.google.com/spreadsheets/d/1kr3OTv44ZW52wJcTTM2axR9jfxT6fiuImWu4xxP9l8U/htmlview?sle=true&pru=AAABgtWeA8k*41kILG0ktA9K-GwZwyl14Q#gid=369644051]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
