@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-12T11:14:22.356Z</id>
+    <id>urn:2022-09-12T12:35:34.750Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-12T11:14:22.356Z</updated>
+    <updated>2022-09-12T12:35:34.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @KaminoCrypto @gitcoin @zksync @argentHQ patience is a virtue 😜]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1569284496855564290</id>
+        <link href="https://twitter.com/defi_airdrops/status/1569284496855564290"/>
+        <updated>2022-09-12T11:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @KaminoCrypto @gitcoin @zksync @argentHQ patience is a virtue 😜]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Join our telegram here:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1569284373861769217</id>
+        <link href="https://twitter.com/defi_airdrops/status/1569284373861769217"/>
+        <updated>2022-09-12T11:18:45.000Z</updated>
+        <summary type="html"><![CDATA[Re Join our telegram here: https://t.me/+Stjobn_4QE1h2xCm]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re And here's the link to Argent wallet.]]></title>
         <id>https://twitter.com/defi_airdrops/status/1569282825635123201</id>
@@ -207,26 +227,6 @@ Will be eligible 👇
         <link href="https://twitter.com/defi_airdrops/status/1567735923915505664"/>
         <updated>2022-09-08T04:45:46.000Z</updated>
         <summary type="html"><![CDATA[Re @LifemaxerG let's just say we have good sources 👀]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's safe to say that $SAFE airdrop is not far out anymore 👀]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1567681368993443843</id>
-        <link href="https://twitter.com/defi_airdrops/status/1567681368993443843"/>
-        <updated>2022-09-08T01:08:59.000Z</updated>
-        <summary type="html"><![CDATA[It's safe to say that $SAFE airdrop is not far out anymore 👀]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @777_Earth2 @arbitrum no still only ethereum]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1565331960285007872</id>
-        <link href="https://twitter.com/defi_airdrops/status/1565331960285007872"/>
-        <updated>2022-09-01T13:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @777_Earth2 @arbitrum no still only ethereum]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
