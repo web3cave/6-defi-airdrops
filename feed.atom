@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-14T11:14:18.388Z</id>
+    <id>urn:2022-09-14T12:33:27.615Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-14T11:14:18.388Z</updated>
+    <updated>2022-09-14T12:33:27.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -217,16 +217,6 @@ Will be eligible 👇
         <link href="https://twitter.com/defi_airdrops/status/1567736073920593920"/>
         <updated>2022-09-08T04:46:21.000Z</updated>
         <summary type="html"><![CDATA[Re @ruinedsGG @AndyAltcoins LMFAO]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @LifemaxerG let's just say we have good sources 👀]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1567735923915505664</id>
-        <link href="https://twitter.com/defi_airdrops/status/1567735923915505664"/>
-        <updated>2022-09-08T04:45:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @LifemaxerG let's just say we have good sources 👀]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
