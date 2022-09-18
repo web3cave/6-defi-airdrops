@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-18T22:15:45.269Z</id>
+    <id>urn:2022-09-18T23:16:42.898Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-18T22:15:45.269Z</updated>
+    <updated>2022-09-18T23:16:42.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -223,18 +223,6 @@ bridges the gap between web2 and web3 and facilitates easier accessibility of ap
         <updated>2022-09-12T11:12:33.000Z</updated>
         <summary type="html"><![CDATA[Re Next up @zachxbt putting up a one-man fight against all the scammers & grifters we want to get rid off in the web3 space.
 They recently expressed feeling burnt out, running a day job outside of crypto and receiving no income from the investigative work. https://gitcoin.co/grants/5039/zachxbt-crypto-scam-research-on-twitter]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Similar vibe and just as great is @CryptoFeesInfo Everyone knows it everyones loves it 😍 Both of these sites don't charge any money and live off...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1569282812720852994</id>
-        <link href="https://twitter.com/defi_airdrops/status/1569282812720852994"/>
-        <updated>2022-09-12T11:12:33.000Z</updated>
-        <summary type="html"><![CDATA[Re Similar vibe and just as great is @CryptoFeesInfo 
-Everyone knows it everyones loves it 😍
-Both of these sites don't charge any money and live off donations. Pay it back if you can 🙂 https://cryptofees.info/]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
