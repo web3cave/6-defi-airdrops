@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-19T09:20:37.262Z</id>
+    <id>urn:2022-09-19T10:19:18.726Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-19T09:20:37.262Z</updated>
+    <updated>2022-09-19T10:19:18.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The @gnosisSafe airdrop will $SAFE us 😭🙏]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1571768240749293569</id>
+        <link href="https://twitter.com/defi_airdrops/status/1571768240749293569"/>
+        <updated>2022-09-19T07:48:45.000Z</updated>
+        <summary type="html"><![CDATA[The @gnosisSafe airdrop will $SAFE us 😭🙏]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Enjoyed this alpha? Join the telegram channel here:]]></title>
         <id>https://twitter.com/defi_airdrops/status/1570658456008552454</id>
@@ -212,29 +222,6 @@ Groups like @coincenter have done a really good job defending the crypto industr
         <updated>2022-09-12T11:12:34.000Z</updated>
         <summary type="html"><![CDATA[Re @eth_limo is a privacy-preserving & ENS enabled IPFS gateway
 bridges the gap between web2 and web3 and facilitates easier accessibility of application hosted on IPFS (decentralized hosting) https://gitcoin.co/grants/4760/ethlimo-your-privacy-focused-ens-gateway]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Next up @zachxbt putting up a one-man fight against all the scammers & grifters we want to get rid off in the web3 space. They recently expressed f...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1569282814532800516</id>
-        <link href="https://twitter.com/defi_airdrops/status/1569282814532800516"/>
-        <updated>2022-09-12T11:12:33.000Z</updated>
-        <summary type="html"><![CDATA[Re Next up @zachxbt putting up a one-man fight against all the scammers & grifters we want to get rid off in the web3 space.
-They recently expressed feeling burnt out, running a day job outside of crypto and receiving no income from the investigative work. https://gitcoin.co/grants/5039/zachxbt-crypto-scam-research-on-twitter]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Similar vibe and just as great is @CryptoFeesInfo Everyone knows it everyones loves it 😍 Both of these sites don't charge any money and live off...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1569282812720852994</id>
-        <link href="https://twitter.com/defi_airdrops/status/1569282812720852994"/>
-        <updated>2022-09-12T11:12:33.000Z</updated>
-        <summary type="html"><![CDATA[Re Similar vibe and just as great is @CryptoFeesInfo 
-Everyone knows it everyones loves it 😍
-Both of these sites don't charge any money and live off donations. Pay it back if you can 🙂 https://cryptofees.info/]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
