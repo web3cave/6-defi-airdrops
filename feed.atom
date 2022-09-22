@@ -1,8 +1,229 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-22T20:18:05.989Z</id>
+    <id>urn:2022-09-22T21:15:43.785Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-22T20:18:05.989Z</updated>
+    <updated>2022-09-22T21:15:43.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The @gnosisSafe airdrop will $SAFE us 😭🙏]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1571768240749293569</id>
+        <link href="https://twitter.com/defi_airdrops/status/1571768240749293569"/>
+        <updated>2022-09-19T07:48:45.000Z</updated>
+        <summary type="html"><![CDATA[The @gnosisSafe airdrop will $SAFE us 😭🙏]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Enjoyed this alpha? Join the telegram channel here:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1570658456008552454</id>
+        <link href="https://twitter.com/defi_airdrops/status/1570658456008552454"/>
+        <updated>2022-09-16T06:18:51.000Z</updated>
+        <summary type="html"><![CDATA[Re Enjoyed this alpha?
+Join the telegram channel here: https://t.me/+Stjobn_4QE1h2xCm]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re There's currently 3 badges on @Sismo_eth and developers can build any privacy respecting badges they like using their zk-Proof technology. So expec...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1570658454385364992</id>
+        <link href="https://twitter.com/defi_airdrops/status/1570658454385364992"/>
+        <updated>2022-09-16T06:18:51.000Z</updated>
+        <summary type="html"><![CDATA[Re There's currently 3 badges on @Sismo_eth and developers can build any privacy respecting badges they like using their zk-Proof technology.
+So expect more to come but in the meantime you can do these 3 here: https://alpha.sismo.io/]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Step 4: Mint the Proof-of-Humanity badge to the "destination" wallet. This NFT badge proves you're a human and a project could require its users to...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1570658451260583936</id>
+        <link href="https://twitter.com/defi_airdrops/status/1570658451260583936"/>
+        <updated>2022-09-16T06:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Re Step 4: Mint the Proof-of-Humanity badge to the "destination" wallet.
+This NFT badge proves you're a human and a project could require its users to have such a badge in order to be eligible for an airdrop.
+There's no way to trace a badge back to its "source" account.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Step 3: Select a "destination" wallet. This is the wallet which you actually use, with your assets and transaction data but which you don't want to...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1570658446974029826</id>
+        <link href="https://twitter.com/defi_airdrops/status/1570658446974029826"/>
+        <updated>2022-09-16T06:18:49.000Z</updated>
+        <summary type="html"><![CDATA[Re Step 3: Select a "destination" wallet.
+This is the wallet which you actually use, with your assets and transaction data but which you don't want to dox.
+Switch wallet and then sign a new message with it to prove you own that wallet as well.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Step 2: Go to Sign a message to prove you have ownership over this wallet containing the proof-of-humanity profile.]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1570658443832459264</id>
+        <link href="https://twitter.com/defi_airdrops/status/1570658443832459264"/>
+        <updated>2022-09-16T06:18:49.000Z</updated>
+        <summary type="html"><![CDATA[Re Step 2: Go to 
+Sign a message to prove you have ownership over this wallet containing the proof-of-humanity profile. https://alpha.sismo.io/proof-of-humanity]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Step 1: Create a @proofofhumanity profile with a fresh wallet ( requires uploading a video, in which you show a sign & speak) Once you tie your PoH...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1570658438686056450</id>
+        <link href="https://twitter.com/defi_airdrops/status/1570658438686056450"/>
+        <updated>2022-09-16T06:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Re Step 1: Create a @proofofhumanity profile with a fresh wallet ( requires uploading a video, in which you show a sign & speak)
+Once you tie your PoH profile to that wallet, the wallet is doxxed.
+But you don't care, you're never going to use it. https://www.proofofhumanity.id/]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Not unlikely that future big airdrops will require such a "uniqueness" check to avoid the same people "farming" an airdrop with multiple addresses ...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1570658437134192641</id>
+        <link href="https://twitter.com/defi_airdrops/status/1570658437134192641"/>
+        <updated>2022-09-16T06:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Re Not unlikely that future big airdrops will require such a "uniqueness" check to avoid the same people "farming" an airdrop with multiple addresses (e.g deposit $10 in a vault with 100 addresses).
+So how to prove uniqueness?]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re For example, prove you have > 100 $ETH in your wallet w/o disclosing the wallet address. Prove you own a @cryptopunksnfts without showing which pun...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1570658435431301120</id>
+        <link href="https://twitter.com/defi_airdrops/status/1570658435431301120"/>
+        <updated>2022-09-16T06:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Re For example, prove you have > 100 $ETH in your wallet w/o disclosing the wallet address.
+Prove you own a @cryptopunksnfts without showing which punk.
+Prove you are a unique human who did a @proofofhumanity check without disclosing your name + video.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Enter @Sismo_eth which is building an attestation protocol using zk-Proofs allowing anyone to prove facts about themselves without going into the s...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1570658433329954816</id>
+        <link href="https://twitter.com/defi_airdrops/status/1570658433329954816"/>
+        <updated>2022-09-16T06:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Re Enter @Sismo_eth which is building an attestation protocol using zk-Proofs allowing anyone to prove facts about themselves without going into the specifics.
+Sismo 🎭: The long awaited Proof of Humanity ZK Badge is now available on Sismo 💜
+Transfer your @proofofhumanity from your doxxed address to an address of your choice, in total privacy!
+👉 
+A new primitive for web3 to fight Sybil!
+🎭
+ https://alpha.sismo.io/proof-of-humanity]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many argue that identity is the next important building block in Web3. Fact is airdrops in today's state are so heavily gamed, they're almost broken. ...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1570658431207632897</id>
+        <link href="https://twitter.com/defi_airdrops/status/1570658431207632897"/>
+        <updated>2022-09-16T06:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Many argue that identity is the next important building block in Web3.
+Fact is airdrops in today's state are so heavily gamed, they're almost broken.
+What if you could prove your uniqueness to a Dapp without actually disclosing your ID data?
+Sismo 🎭: We open-sourced the Sismo protocol and its first ZK Attester.
+Sismo is a modular Attestations Protocol.
+It hosts diverse attestations focused on privacy and decentralization.
+Anyone is welcome to build with us.
+Sismo 101: Attestations as Web3 Cookies!
+(Links end of 🧵)]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @KaminoCrypto @gitcoin @zksync @argentHQ patience is a virtue 😜]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1569284496855564290</id>
+        <link href="https://twitter.com/defi_airdrops/status/1569284496855564290"/>
+        <updated>2022-09-12T11:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @KaminoCrypto @gitcoin @zksync @argentHQ patience is a virtue 😜]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Join our telegram here:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1569284373861769217</id>
+        <link href="https://twitter.com/defi_airdrops/status/1569284373861769217"/>
+        <updated>2022-09-12T11:18:45.000Z</updated>
+        <summary type="html"><![CDATA[Re Join our telegram here: https://t.me/+Stjobn_4QE1h2xCm]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re And here's the link to Argent wallet.]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1569282825635123201</id>
+        <link href="https://twitter.com/defi_airdrops/status/1569282825635123201"/>
+        <updated>2022-09-12T11:12:36.000Z</updated>
+        <summary type="html"><![CDATA[Re And here's the link to Argent wallet. https://www.argent.xyz/]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Make sure to sign-up for Gitcoin passport to receive a higher donation matching score. Gitcoin does this to protect against sybil attacks.]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1569282823831580673</id>
+        <link href="https://twitter.com/defi_airdrops/status/1569282823831580673"/>
+        <updated>2022-09-12T11:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Re Make sure to sign-up for Gitcoin passport to receive a higher donation matching score.
+Gitcoin does this to protect against sybil attacks. https://passport.gitcoin.co/]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Also we encourage you to look out for indie developers that build awesome stuff which the space needs. Randomly picked one called @NiceNodeApp whic...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1569282822061555712</id>
+        <link href="https://twitter.com/defi_airdrops/status/1569282822061555712"/>
+        <updated>2022-09-12T11:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Re Also we encourage you to look out for indie developers that build awesome stuff which the space needs.
+Randomly picked one called @NiceNodeApp which provides an app to set-up, manage and control a staking validator node with ease. https://gitcoin.co/grants/5959/nicenode-run-a-node-just-press-start]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EuCInitiative does the same for Europe 🇪🇺 which is also gonna be an important battleground in the years ahead.]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1569282820291575812</id>
+        <link href="https://twitter.com/defi_airdrops/status/1569282820291575812"/>
+        <updated>2022-09-12T11:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @EuCInitiative does the same for Europe 🇪🇺 which is also gonna be an important battleground in the years ahead. https://gitcoin.co/grants/1693/euci-european-crypto-initiative-educating-policy-]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Next - lobbying With crypto maturing there'll be more eyes on it & regulations are coming. Groups like @coincenter have done a really good job defe...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1569282818462851079</id>
+        <link href="https://twitter.com/defi_airdrops/status/1569282818462851079"/>
+        <updated>2022-09-12T11:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Re Next - lobbying
+With crypto maturing there'll be more eyes on it & regulations are coming.
+Groups like @coincenter have done a really good job defending the crypto industry in DC 🇺🇸 https://gitcoin.co/grants/1668/coin-center-is-educating-policy-makers-about-publ]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @eth_limo is a privacy-preserving & ENS enabled IPFS gateway bridges the gap between web2 and web3 and facilitates easier accessibility of applicat...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1569282816629960704</id>
+        <link href="https://twitter.com/defi_airdrops/status/1569282816629960704"/>
+        <updated>2022-09-12T11:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @eth_limo is a privacy-preserving & ENS enabled IPFS gateway
+bridges the gap between web2 and web3 and facilitates easier accessibility of application hosted on IPFS (decentralized hosting) https://gitcoin.co/grants/4760/ethlimo-your-privacy-focused-ens-gateway]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
 </feed>
