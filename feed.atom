@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-27T22:17:38.988Z</id>
+    <id>urn:2022-09-27T23:20:32.837Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-27T22:17:38.988Z</updated>
+    <updated>2022-09-27T23:20:32.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -48,7 +48,7 @@
         <summary type="html"><![CDATA[Re Conic is supposed to go live in 2-3 weeks.
 LP's in their Omnipool will be able to stake on Convex and receive $CVX, $CRV and $CNC.
 The idea is that by LP'ing in multiple pools you get exposure to higher yield pools while diversifying risk.
-napCramer 0x: $CNC will get a gauge
+napgener 0x: $CNC will get a gauge
  https://vote.convexfinance.com/#/proposal/bafkreicc7kpauob25e7xepaoc7zhtxp7ymth2ovnjctjoprw6xngzqr4by]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
