@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-27T09:26:20.426Z</id>
+    <id>urn:2022-09-27T10:20:23.519Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-27T09:26:20.426Z</updated>
+    <updated>2022-09-27T10:20:23.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Join our private telegram channel for more airdrop alpha:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1574687841711722496</id>
+        <link href="https://twitter.com/defi_airdrops/status/1574687841711722496"/>
+        <updated>2022-09-27T09:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Re Join our private telegram channel for more airdrop alpha: https://t.me/+Stjobn_4QE1h2xCm]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re You needed at least 3 $vlCVX to be eligible for the airdrop.]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1574687839778140161</id>
+        <link href="https://twitter.com/defi_airdrops/status/1574687839778140161"/>
+        <updated>2022-09-27T09:10:11.000Z</updated>
+        <summary type="html"><![CDATA[Re You needed at least 3 $vlCVX to be eligible for the airdrop. https://github.com/ConicFinance/token-distribution]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re To claim the airdrop go to: >> go to "terminal" >> type "help" >> type "connect" >> type "airdrop"]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1574687834480738306</id>
+        <link href="https://twitter.com/defi_airdrops/status/1574687834480738306"/>
+        <updated>2022-09-27T09:10:10.000Z</updated>
+        <summary type="html"><![CDATA[Re To claim the airdrop go to:
+
+>> go to "terminal"
+>> type "help"
+>> type "connect"
+>> type "airdrop" https://conic.finance/]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Conic is supposed to go live in 2-3 weeks. LP's in their Omnipool will be able to stake on Convex and receive $CVX, $CRV and $CNC. The idea is that...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1574687829481132037</id>
+        <link href="https://twitter.com/defi_airdrops/status/1574687829481132037"/>
+        <updated>2022-09-27T09:10:09.000Z</updated>
+        <summary type="html"><![CDATA[Re Conic is supposed to go live in 2-3 weeks.
+LP's in their Omnipool will be able to stake on Convex and receive $CVX, $CRV and $CNC.
+The idea is that by LP'ing in multiple pools you get exposure to higher yield pools while diversifying risk.
+napCramer 0x: $CNC will get a gauge
+ https://vote.convexfinance.com/#/proposal/bafkreicc7kpauob25e7xepaoc7zhtxp7ymth2ovnjctjoprw6xngzqr4by]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 @ConicFinance airdropped 10% of $CNC supply to $CVX holders. Conic is building an Omni pool on top of @curvefinance giving LP's exposure to multi...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1574687827388137472</id>
+        <link href="https://twitter.com/defi_airdrops/status/1574687827388137472"/>
+        <updated>2022-09-27T09:10:08.000Z</updated>
+        <summary type="html"><![CDATA[🚨 @ConicFinance airdropped 10% of $CNC supply to $CVX holders.
+Conic is building an Omni pool on top of @curvefinance giving LP's exposure to multiple Curve pools through a single LP token.
+About 5-6 days left to claim, min. amount currently worth around $1000.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The @gnosisSafe airdrop will $SAFE us 😭🙏]]></title>
         <id>https://twitter.com/defi_airdrops/status/1571768240749293569</id>
@@ -178,61 +239,6 @@ Sismo 101: Attestations as Web3 Cookies!
         <updated>2022-09-12T11:12:35.000Z</updated>
         <summary type="html"><![CDATA[Re Make sure to sign-up for Gitcoin passport to receive a higher donation matching score.
 Gitcoin does this to protect against sybil attacks. https://passport.gitcoin.co/]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Also we encourage you to look out for indie developers that build awesome stuff which the space needs. Randomly picked one called @NiceNodeApp whic...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1569282822061555712</id>
-        <link href="https://twitter.com/defi_airdrops/status/1569282822061555712"/>
-        <updated>2022-09-12T11:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Re Also we encourage you to look out for indie developers that build awesome stuff which the space needs.
-Randomly picked one called @NiceNodeApp which provides an app to set-up, manage and control a staking validator node with ease. https://gitcoin.co/grants/5959/nicenode-run-a-node-just-press-start]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @EuCInitiative does the same for Europe 🇪🇺 which is also gonna be an important battleground in the years ahead.]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1569282820291575812</id>
-        <link href="https://twitter.com/defi_airdrops/status/1569282820291575812"/>
-        <updated>2022-09-12T11:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @EuCInitiative does the same for Europe 🇪🇺 which is also gonna be an important battleground in the years ahead. https://gitcoin.co/grants/1693/euci-european-crypto-initiative-educating-policy-]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Next - lobbying With crypto maturing there'll be more eyes on it & regulations are coming. Groups like @coincenter have done a really good job defe...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1569282818462851079</id>
-        <link href="https://twitter.com/defi_airdrops/status/1569282818462851079"/>
-        <updated>2022-09-12T11:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Re Next - lobbying
-With crypto maturing there'll be more eyes on it & regulations are coming.
-Groups like @coincenter have done a really good job defending the crypto industry in DC 🇺🇸 https://gitcoin.co/grants/1668/coin-center-is-educating-policy-makers-about-publ]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @eth_limo is a privacy-preserving & ENS enabled IPFS gateway bridges the gap between web2 and web3 and facilitates easier accessibility of applicat...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1569282816629960704</id>
-        <link href="https://twitter.com/defi_airdrops/status/1569282816629960704"/>
-        <updated>2022-09-12T11:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @eth_limo is a privacy-preserving & ENS enabled IPFS gateway
-bridges the gap between web2 and web3 and facilitates easier accessibility of application hosted on IPFS (decentralized hosting) https://gitcoin.co/grants/4760/ethlimo-your-privacy-focused-ens-gateway]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Next up @zachxbt putting up a one-man fight against all the scammers & grifters we want to get rid off in the web3 space. They recently expressed f...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1569282814532800516</id>
-        <link href="https://twitter.com/defi_airdrops/status/1569282814532800516"/>
-        <updated>2022-09-12T11:12:33.000Z</updated>
-        <summary type="html"><![CDATA[Re Next up @zachxbt putting up a one-man fight against all the scammers & grifters we want to get rid off in the web3 space.
-They recently expressed feeling burnt out, running a day job outside of crypto and receiving no income from the investigative work. https://gitcoin.co/grants/5039/zachxbt-crypto-scam-research-on-twitter]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
