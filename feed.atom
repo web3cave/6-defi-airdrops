@@ -1,10 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-28T10:20:08.703Z</id>
+    <id>urn:2022-09-28T11:15:31.081Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-28T10:20:08.703Z</updated>
+    <updated>2022-09-28T11:15:31.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[$SAFE will be non-transferable at first meaning it can not be traded. Moreover, 50% of the airdrop is vesting over 4yrs, the other half is claimable i...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1575055073360498689</id>
+        <link href="https://twitter.com/defi_airdrops/status/1575055073360498689"/>
+        <updated>2022-09-28T09:29:27.000Z</updated>
+        <summary type="html"><![CDATA[$SAFE will be non-transferable at first meaning it can not be traded.
+Moreover, 50% of the airdrop is vesting over 4yrs, the other half is claimable immediately.
+Will be interesting to see whether this will align the community more long-term with @safe.
+DeFi Airdrops 🦇🔊: $SAFE token is here!!!
+Start the claim process by going into your Gnosis Safe and opening the $SAFE claim app.
+The rest is easy 🫡
+ https://twitter.com/safe/status/1575047966183653376]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Important info, the $SAFE token is initially NON-TRANSFERABLE meaning it can not be traded! This functionality can be unlocked by the DAO in the fu...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1575053846715371520</id>
+        <link href="https://twitter.com/defi_airdrops/status/1575053846715371520"/>
+        <updated>2022-09-28T09:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Re Important info, the $SAFE token is initially NON-TRANSFERABLE meaning it can not be traded!
+This functionality can be unlocked by the DAO in the future though.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re And don't forget to delegate your voting power to one of the 68 delegates or to yourself. SafeDAO is building one of the most important protocols i...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1575051837794754560</id>
+        <link href="https://twitter.com/defi_airdrops/status/1575051837794754560"/>
+        <updated>2022-09-28T09:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Re And don't forget to delegate your voting power to one of the 68 delegates or to yourself.
+SafeDAO is building one of the most important protocols in the space, securing close to $40b and home to dozens of companies building on top of it!
+Join our TG: https://t.me/+Stjobn_4QE1h2xCm]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 1 billion $SAFE tokens in total. 50m $SAFE tokens airdropped to over 55k wallets. Token address (verify yourself) 👇]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1575050719886917632</id>
+        <link href="https://twitter.com/defi_airdrops/status/1575050719886917632"/>
+        <updated>2022-09-28T09:12:09.000Z</updated>
+        <summary type="html"><![CDATA[Re 1 billion $SAFE tokens in total.
+50m $SAFE tokens airdropped to over 55k wallets.
+Token address (verify yourself) 👇 https://etherscan.io/token/0x5afe3855358e112b5647b952709e6165e1c1eeee]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re The list of things the $SAFE token will initially govern 👇]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1575048905409974272</id>
+        <link href="https://twitter.com/defi_airdrops/status/1575048905409974272"/>
+        <updated>2022-09-28T09:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Re The list of things the $SAFE token will initially govern 👇]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$SAFE token is here!!! Start the claim process by going into your Gnosis Safe and opening the $SAFE claim app. The rest is easy 🫡]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1575048349073702913</id>
+        <link href="https://twitter.com/defi_airdrops/status/1575048349073702913"/>
+        <updated>2022-09-28T09:02:44.000Z</updated>
+        <summary type="html"><![CDATA[$SAFE token is here!!!
+Start the claim process by going into your Gnosis Safe and opening the $SAFE claim app.
+The rest is easy 🫡
+
+Safe | Gnosis Safe: 🚀 SafeDAO and Safe Token are here! ⬇️]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Join our private telegram channel for more airdrop alpha:]]></title>
         <id>https://twitter.com/defi_airdrops/status/1574687841711722496</id>
@@ -164,81 +239,6 @@ So how to prove uniqueness?]]></summary>
         <summary type="html"><![CDATA[Re For example, prove you have > 100 $ETH in your wallet w/o disclosing the wallet address.
 Prove you own a @cryptopunksnfts without showing which punk.
 Prove you are a unique human who did a @proofofhumanity check without disclosing your name + video.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Enter @Sismo_eth which is building an attestation protocol using zk-Proofs allowing anyone to prove facts about themselves without going into the s...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1570658433329954816</id>
-        <link href="https://twitter.com/defi_airdrops/status/1570658433329954816"/>
-        <updated>2022-09-16T06:18:46.000Z</updated>
-        <summary type="html"><![CDATA[Re Enter @Sismo_eth which is building an attestation protocol using zk-Proofs allowing anyone to prove facts about themselves without going into the specifics.
-Sismo 🎭: The long awaited Proof of Humanity ZK Badge is now available on Sismo 💜
-Transfer your @proofofhumanity from your doxxed address to an address of your choice, in total privacy!
-👉 
-A new primitive for web3 to fight Sybil!
-🎭
- https://alpha.sismo.io/proof-of-humanity]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many argue that identity is the next important building block in Web3. Fact is airdrops in today's state are so heavily gamed, they're almost broken. ...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1570658431207632897</id>
-        <link href="https://twitter.com/defi_airdrops/status/1570658431207632897"/>
-        <updated>2022-09-16T06:18:46.000Z</updated>
-        <summary type="html"><![CDATA[Many argue that identity is the next important building block in Web3.
-Fact is airdrops in today's state are so heavily gamed, they're almost broken.
-What if you could prove your uniqueness to a Dapp without actually disclosing your ID data?
-Sismo 🎭: We open-sourced the Sismo protocol and its first ZK Attester.
-Sismo is a modular Attestations Protocol.
-It hosts diverse attestations focused on privacy and decentralization.
-Anyone is welcome to build with us.
-Sismo 101: Attestations as Web3 Cookies!
-(Links end of 🧵)]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @KaminoCrypto @gitcoin @zksync @argentHQ patience is a virtue 😜]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1569284496855564290</id>
-        <link href="https://twitter.com/defi_airdrops/status/1569284496855564290"/>
-        <updated>2022-09-12T11:19:14.000Z</updated>
-        <summary type="html"><![CDATA[Re @KaminoCrypto @gitcoin @zksync @argentHQ patience is a virtue 😜]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Join our telegram here:]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1569284373861769217</id>
-        <link href="https://twitter.com/defi_airdrops/status/1569284373861769217"/>
-        <updated>2022-09-12T11:18:45.000Z</updated>
-        <summary type="html"><![CDATA[Re Join our telegram here: https://t.me/+Stjobn_4QE1h2xCm]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re And here's the link to Argent wallet.]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1569282825635123201</id>
-        <link href="https://twitter.com/defi_airdrops/status/1569282825635123201"/>
-        <updated>2022-09-12T11:12:36.000Z</updated>
-        <summary type="html"><![CDATA[Re And here's the link to Argent wallet. https://www.argent.xyz/]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Make sure to sign-up for Gitcoin passport to receive a higher donation matching score. Gitcoin does this to protect against sybil attacks.]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1569282823831580673</id>
-        <link href="https://twitter.com/defi_airdrops/status/1569282823831580673"/>
-        <updated>2022-09-12T11:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Re Make sure to sign-up for Gitcoin passport to receive a higher donation matching score.
-Gitcoin does this to protect against sybil attacks. https://passport.gitcoin.co/]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
