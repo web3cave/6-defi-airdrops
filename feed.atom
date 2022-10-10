@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-10T01:48:41.417Z</id>
+    <id>urn:2022-10-10T04:13:18.584Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-10T01:48:41.417Z</updated>
+    <updated>2022-10-10T04:13:18.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re These badges allow you to prove facts about yourself without disclosing specific details that would allow someone to track the information back to ...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1579310373899239424</id>
+        <link href="https://twitter.com/defi_airdrops/status/1579310373899239424"/>
+        <updated>2022-10-10T03:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Re These badges allow you to prove facts about yourself without disclosing specific details that would allow someone to track the information back to you or your source wallet.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re The POAP badge includes physical events like ETHberlin & ETHcc (more events will be added)]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1579309616802181120</id>
+        <link href="https://twitter.com/defi_airdrops/status/1579309616802181120"/>
+        <updated>2022-10-10T03:15:29.000Z</updated>
+        <summary type="html"><![CDATA[Re The POAP badge includes physical events like ETHberlin & ETHcc (more events will be added)
+Sismo 🎭: New ZK Badge with @poapxyz 💜
+You joined main Ethereum conferences and collected POAPs? Mint your Proof of Attendance ZK Badge!
+👉 
+Adding a privacy layer to POAPs, this badge is one more sybil resistance tool as all attendees are proven humans
+🎭
+ https://app.sismo.io/proof-of-attendance]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re What for? Imagine you donated to @gitcoin from a private wallet but want to prove on your public main account that you donated Or you've rotated wa...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1579309615187394561</id>
+        <link href="https://twitter.com/defi_airdrops/status/1579309615187394561"/>
+        <updated>2022-10-10T03:15:29.000Z</updated>
+        <summary type="html"><![CDATA[Re What for?
+Imagine you donated to @gitcoin from a private wallet but want to prove on your public main account that you donated
+Or you've rotated wallets for opsec reasons & want to import some "history" from your old wallet such as this @gitcoin donation proof into your new one]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Sismo privacy-respecting identity badges to mint 🚨 Who is eligible? 👇 1) Gitcoin round 15 donors 2) Holders of specific physical-event POAPs]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1579309612461068288</id>
+        <link href="https://twitter.com/defi_airdrops/status/1579309612461068288"/>
+        <updated>2022-10-10T03:15:28.000Z</updated>
+        <summary type="html"><![CDATA[New Sismo privacy-respecting identity badges to mint 🚨
+Who is eligible? 👇
+1) Gitcoin round 15 donors
+2) Holders of specific physical-event POAPs
+
+Sismo 🎭: New ZK Badge 💜
+You donated to @gitcoin GR15 from a private wallet?  Mint the GR15 Gitcoin Contributor ZK Badge to your public ENS wallet and signal your support to Ethereum!
+👉 
+Build a ZK Badge for your community in 15 min: 
+🎭
+ https://alpha.sismo.io/gr15 https://www.notion.so/BUILD-ON-SISMO-d4cddf7d61e340c0a61062edb1fed8dd]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Join our telegram channel for more airdrop news]]></title>
         <id>https://twitter.com/defi_airdrops/status/1577507148594282496</id>
@@ -193,52 +251,6 @@ About 5-6 days left to claim, min. amount currently worth around $1000.]]></summ
         <updated>2022-09-16T06:18:51.000Z</updated>
         <summary type="html"><![CDATA[Re Enjoyed this alpha?
 Join the telegram channel here: https://t.me/+Stjobn_4QE1h2xCm]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re There's currently 3 badges on @Sismo_eth and developers can build any privacy respecting badges they like using their zk-Proof technology. So expec...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1570658454385364992</id>
-        <link href="https://twitter.com/defi_airdrops/status/1570658454385364992"/>
-        <updated>2022-09-16T06:18:51.000Z</updated>
-        <summary type="html"><![CDATA[Re There's currently 3 badges on @Sismo_eth and developers can build any privacy respecting badges they like using their zk-Proof technology.
-So expect more to come but in the meantime you can do these 3 here: https://alpha.sismo.io/]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Step 4: Mint the Proof-of-Humanity badge to the "destination" wallet. This NFT badge proves you're a human and a project could require its users to...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1570658451260583936</id>
-        <link href="https://twitter.com/defi_airdrops/status/1570658451260583936"/>
-        <updated>2022-09-16T06:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Re Step 4: Mint the Proof-of-Humanity badge to the "destination" wallet.
-This NFT badge proves you're a human and a project could require its users to have such a badge in order to be eligible for an airdrop.
-There's no way to trace a badge back to its "source" account.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Step 3: Select a "destination" wallet. This is the wallet which you actually use, with your assets and transaction data but which you don't want to...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1570658446974029826</id>
-        <link href="https://twitter.com/defi_airdrops/status/1570658446974029826"/>
-        <updated>2022-09-16T06:18:49.000Z</updated>
-        <summary type="html"><![CDATA[Re Step 3: Select a "destination" wallet.
-This is the wallet which you actually use, with your assets and transaction data but which you don't want to dox.
-Switch wallet and then sign a new message with it to prove you own that wallet as well.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Step 2: Go to Sign a message to prove you have ownership over this wallet containing the proof-of-humanity profile.]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1570658443832459264</id>
-        <link href="https://twitter.com/defi_airdrops/status/1570658443832459264"/>
-        <updated>2022-09-16T06:18:49.000Z</updated>
-        <summary type="html"><![CDATA[Re Step 2: Go to 
-Sign a message to prove you have ownership over this wallet containing the proof-of-humanity profile. https://alpha.sismo.io/proof-of-humanity]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
