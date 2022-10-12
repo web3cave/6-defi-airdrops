@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-12T01:56:34.004Z</id>
+    <id>urn:2022-10-12T04:06:50.018Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-12T01:56:34.004Z</updated>
+    <updated>2022-10-12T04:06:50.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[💙🧡 + ? = 🪂 $ARBI launching will be the end of this bear market]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1580030724740362240</id>
+        <link href="https://twitter.com/defi_airdrops/status/1580030724740362240"/>
+        <updated>2022-10-12T03:00:54.000Z</updated>
+        <summary type="html"><![CDATA[💙🧡 + ? = 🪂
+$ARBI launching will be the end of this bear market
+Arbitrum: 💙🧡 + ? = 🔜]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Steps: 1) Choose how much $USDC or $USDT you want to lend 2) Choose interest rate at which you're willing to lend 3) Stake your lending position NF...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1579853668006105095</id>
@@ -239,20 +251,6 @@ Safe | Gnosis Safe: 🚀 SafeDAO and Safe Token are here! ⬇️]]></summary>
 >> type "help"
 >> type "connect"
 >> type "airdrop" https://conic.finance/]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Conic is supposed to go live in 2-3 weeks. LP's in their Omnipool will be able to stake on Convex and receive $CVX, $CRV and $CNC. The idea is that...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1574687829481132037</id>
-        <link href="https://twitter.com/defi_airdrops/status/1574687829481132037"/>
-        <updated>2022-09-27T09:10:09.000Z</updated>
-        <summary type="html"><![CDATA[Re Conic is supposed to go live in 2-3 weeks.
-LP's in their Omnipool will be able to stake on Convex and receive $CVX, $CRV and $CNC.
-The idea is that by LP'ing in multiple pools you get exposure to higher yield pools while diversifying risk.
-napgener 0x: $CNC will get a gauge
- https://vote.convexfinance.com/#/proposal/bafkreicc7kpauob25e7xepaoc7zhtxp7ymth2ovnjctjoprw6xngzqr4by]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
