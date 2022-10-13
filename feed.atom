@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-13T05:58:32.928Z</id>
+    <id>urn:2022-10-13T06:52:12.081Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-13T05:58:32.928Z</updated>
+    <updated>2022-10-13T06:52:12.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Join our telegram for airdrop alpha]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1580447465706164224</id>
+        <link href="https://twitter.com/defi_airdrops/status/1580447465706164224"/>
+        <updated>2022-10-13T06:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Re Join our telegram for airdrop alpha https://t.me/+Stjobn_4QE1h2xCm]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Link:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1580446729471565824</id>
+        <link href="https://twitter.com/defi_airdrops/status/1580446729471565824"/>
+        <updated>2022-10-13T06:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Re Link: https://app.rabbithole.gg/skills/intro-to-l2]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🪂 Airdrop rumour $RABBIT 📣 @rabbithole_gg is a platform to gamify user on-boarding into Web3. They just launched a L2 skill track which is quite...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1580446597229355008</id>
+        <link href="https://twitter.com/defi_airdrops/status/1580446597229355008"/>
+        <updated>2022-10-13T06:33:26.000Z</updated>
+        <summary type="html"><![CDATA[🪂 Airdrop rumour $RABBIT 📣 
+@rabbithole_gg is a platform to gamify user on-boarding into Web3.
+They just launched a L2 skill track which is quite easy to get because of low L2 tx fees.
+Make sure to also connect a @BrightIDProject ID to your profile to prove your uniqueness.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💙🧡 + ? = 🪂 $ARBI launching will be the end of this bear market]]></title>
         <id>https://twitter.com/defi_airdrops/status/1580030724740362240</id>
@@ -217,41 +250,6 @@ Start the claim process by going into your Gnosis Safe and opening the $SAFE cla
 The rest is easy 🫡
 
 Safe | Gnosis Safe: 🚀 SafeDAO and Safe Token are here! ⬇️]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Join our private telegram channel for more airdrop alpha:]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1574687841711722496</id>
-        <link href="https://twitter.com/defi_airdrops/status/1574687841711722496"/>
-        <updated>2022-09-27T09:10:12.000Z</updated>
-        <summary type="html"><![CDATA[Re Join our private telegram channel for more airdrop alpha: https://t.me/+Stjobn_4QE1h2xCm]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re You needed at least 3 $vlCVX to be eligible for the airdrop.]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1574687839778140161</id>
-        <link href="https://twitter.com/defi_airdrops/status/1574687839778140161"/>
-        <updated>2022-09-27T09:10:11.000Z</updated>
-        <summary type="html"><![CDATA[Re You needed at least 3 $vlCVX to be eligible for the airdrop. https://github.com/ConicFinance/token-distribution]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re To claim the airdrop go to: >> go to "terminal" >> type "help" >> type "connect" >> type "airdrop"]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1574687834480738306</id>
-        <link href="https://twitter.com/defi_airdrops/status/1574687834480738306"/>
-        <updated>2022-09-27T09:10:10.000Z</updated>
-        <summary type="html"><![CDATA[Re To claim the airdrop go to:
-
->> go to "terminal"
->> type "help"
->> type "connect"
->> type "airdrop" https://conic.finance/]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
