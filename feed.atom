@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-19T17:41:13.998Z</id>
+    <id>urn:2022-10-19T18:32:04.858Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-19T17:41:13.998Z</updated>
+    <updated>2022-10-19T18:32:04.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Here's how to grind for the November airdrop 👇]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1582794488031739904</id>
+        <link href="https://twitter.com/defi_airdrops/status/1582794488031739904"/>
+        <updated>2022-10-19T18:03:07.000Z</updated>
+        <summary type="html"><![CDATA[Re Here's how to grind for the November airdrop 👇]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re We'll drop some info on how to increase your chances for the November drop in the Telegram 😜]]></title>
         <id>https://twitter.com/defi_airdrops/status/1582787095113789440</id>
@@ -238,18 +248,8 @@ Moreover, 50% of the airdrop is vesting over 4yrs, the other half is claimable i
 Will be interesting to see whether this will align the community more long-term with @safe.
 DeFi Airdrops 🦇🔊: $SAFE token is here!!!
 Start the claim process by going into your Gnosis Safe and opening the $SAFE claim app.
-The rest is easy 🫡]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Important info, the $SAFE token is initially NON-TRANSFERABLE meaning it can not be traded! This functionality can be unlocked by the DAO in the fu...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1575053846715371520</id>
-        <link href="https://twitter.com/defi_airdrops/status/1575053846715371520"/>
-        <updated>2022-09-28T09:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Re Important info, the $SAFE token is initially NON-TRANSFERABLE meaning it can not be traded!
-This functionality can be unlocked by the DAO in the future though.]]></summary>
+The rest is easy 🫡
+ https://twitter.com/safe/status/1575047966183653376]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
