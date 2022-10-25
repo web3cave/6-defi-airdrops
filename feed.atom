@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-25T22:18:44.657Z</id>
+    <id>urn:2022-10-25T23:18:24.600Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-25T22:18:44.657Z</updated>
+    <updated>2022-10-25T23:18:24.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @OlimpioCrypto @WagameEth @2shabby @CryptoSnooper_ @dydymoon1 ❤️ airdrop gang]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1585001855914225664</id>
+        <link href="https://twitter.com/defi_airdrops/status/1585001855914225664"/>
+        <updated>2022-10-25T20:14:25.000Z</updated>
+        <summary type="html"><![CDATA[Re @OlimpioCrypto @WagameEth @2shabby @CryptoSnooper_ @dydymoon1 ❤️ airdrop gang]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Professor_Koa @DeBankDeFi yet]]></title>
         <id>https://twitter.com/defi_airdrops/status/1584795119156592641</id>
@@ -223,16 +233,6 @@ Juno is a web3 compatible bank account bridging the gap between TradFi & DeFi wi
         <link href="https://twitter.com/defi_airdrops/status/1582794488031739904"/>
         <updated>2022-10-19T18:03:07.000Z</updated>
         <summary type="html"><![CDATA[Re Here's how to grind for the November airdrop 👇]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re We'll drop some info on how to increase your chances for the November drop in the Telegram 😜]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1582787095113789440</id>
-        <link href="https://twitter.com/defi_airdrops/status/1582787095113789440"/>
-        <updated>2022-10-19T17:33:44.000Z</updated>
-        <summary type="html"><![CDATA[Re We'll drop some info on how to increase your chances for the November drop in the Telegram 😜]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
