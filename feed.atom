@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-26T20:17:17.960Z</id>
+    <id>urn:2022-10-26T21:14:56.875Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-26T20:17:17.960Z</updated>
+    <updated>2022-10-26T21:14:56.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[projects that advertise their own airdrop 🚩🚩🚩]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1585378968597061632</id>
+        <link href="https://twitter.com/defi_airdrops/status/1585378968597061632"/>
+        <updated>2022-10-26T21:12:55.000Z</updated>
+        <summary type="html"><![CDATA[projects that advertise their own airdrop 🚩🚩🚩]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Sismo 🎭 is hiring 💜: Anon, give star to]]></title>
+        <id>https://twitter.com/Sismo_eth/status/1585215914978705408</id>
+        <link href="https://twitter.com/Sismo_eth/status/1585215914978705408"/>
+        <updated>2022-10-26T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Sismo 🎭 is hiring 💜
+Anon, give star to https://github.com/sismo-core/sismo-protocol]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Wasim75325591 @paraswap]]></title>
         <id>https://twitter.com/defi_airdrops/status/1585156075917303812</id>
@@ -205,35 +226,6 @@ Shop here:
         <link href="https://twitter.com/defi_airdrops/status/1584471221319540736"/>
         <updated>2022-10-24T09:05:51.000Z</updated>
         <summary type="html"><![CDATA[Re The 1 year $GNO lock program started a couple of months ago but is not available anymore.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re The 9m $SAFE will be split equally between: - $GNO lockers - $GNO home validators - $GNO/$sGNO LP's on Curve Last option is probably the easiest. 1...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1584471212138188800</id>
-        <link href="https://twitter.com/defi_airdrops/status/1584471212138188800"/>
-        <updated>2022-10-24T09:05:49.000Z</updated>
-        <summary type="html"><![CDATA[Re The 9m $SAFE will be split equally between:
-- $GNO lockers
-- $GNO home validators 
-- $GNO/$sGNO LP's on Curve
-Last option is probably the easiest.
-1. Stake $GNO on @stakewise_io 
-2. LP $sGNO on @CurveFinance 
-👉 https://xdai.curve.fi/factory/0/deposit]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For those who have missed the $SAFE airdrop there's a second chance. @GnosisDAO as being the incubator of @safe owns 15% of the token supply. They pas...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1584471207172186114</id>
-        <link href="https://twitter.com/defi_airdrops/status/1584471207172186114"/>
-        <updated>2022-10-24T09:05:48.000Z</updated>
-        <summary type="html"><![CDATA[For those who have missed the $SAFE airdrop there's a second chance.
-@GnosisDAO as being the incubator of @safe owns 15% of the token supply.
-They passed a proposal to distribute 9m $SAFE (≈$9m at last val.) to $GNO holders starting soon.]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>

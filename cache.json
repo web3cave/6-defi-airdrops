@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defi_airdrops",
       "articles": [
         {
+          "id": "https://twitter.com/defi_airdrops/status/1585378968597061632",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "projects that advertise their own airdrop 🚩🚩🚩",
+          "link": "https://twitter.com/defi_airdrops/status/1585378968597061632",
+          "publishedOn": "2022-10-26T21:12:55.000Z",
+          "wordCount": 399,
+          "title": "projects that advertise their own airdrop 🚩🚩🚩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Sismo_eth/status/1585215914978705408",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "RT Sismo 🎭 is hiring 💜\nAnon, give star to https://github.com/sismo-core/sismo-protocol",
+          "link": "https://twitter.com/Sismo_eth/status/1585215914978705408",
+          "publishedOn": "2022-10-26T10:25:00.000Z",
+          "wordCount": 399,
+          "title": "RT Sismo 🎭 is hiring 💜: Anon, give star to",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defi_airdrops/status/1585156075917303812",
           "author": "DeFi Airdrops 🦇🔊",
           "description": "Re @Wasim75325591 @paraswap",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-10-24T09:05:51.000Z",
           "wordCount": 399,
           "title": "Re The 1 year $GNO lock program started a couple of months ago but is not available anymore.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1584471212138188800",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "Re The 9m $SAFE will be split equally between:\n- $GNO lockers\n- $GNO home validators \n- $GNO/$sGNO LP's on Curve\nLast option is probably the easiest.\n1. Stake $GNO on @stakewise_io \n2. LP $sGNO on @CurveFinance \n👉 https://xdai.curve.fi/factory/0/deposit",
-          "link": "https://twitter.com/defi_airdrops/status/1584471212138188800",
-          "publishedOn": "2022-10-24T09:05:49.000Z",
-          "wordCount": 399,
-          "title": "Re The 9m $SAFE will be split equally between: - $GNO lockers - $GNO home validators - $GNO/$sGNO LP's on Curve Last option is probably the easiest. 1...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1584471207172186114",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "For those who have missed the $SAFE airdrop there's a second chance.\n@GnosisDAO as being the incubator of @safe owns 15% of the token supply.\nThey passed a proposal to distribute 9m $SAFE (≈$9m at last val.) to $GNO holders starting soon.",
-          "link": "https://twitter.com/defi_airdrops/status/1584471207172186114",
-          "publishedOn": "2022-10-24T09:05:48.000Z",
-          "wordCount": 399,
-          "title": "For those who have missed the $SAFE airdrop there's a second chance. @GnosisDAO as being the incubator of @safe owns 15% of the token supply. They pas...",
           "imageUrl": null
         }
       ]
