@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-28T08:24:18.095Z</id>
+    <id>urn:2022-10-28T09:17:32.747Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-28T08:24:18.095Z</updated>
+    <updated>2022-10-28T09:17:32.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @whalalaToken @zkBob_ @0xPolygon @xdaichain @zksync is another Layer-2 solution and has nothing to do with @zkBob_ which is an app on Polygon which...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1585903911528906752</id>
+        <link href="https://twitter.com/defi_airdrops/status/1585903911528906752"/>
+        <updated>2022-10-28T07:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @whalalaToken @zkBob_ @0xPolygon @xdaichain @zksync is another Layer-2 solution and has nothing to do with @zkBob_ which is an app on Polygon which uses zk-SNARKs
+the "zk" in the name is all these two have in common]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re If you liked this thread consider joining our tg group:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1585903125004570625</id>
+        <link href="https://twitter.com/defi_airdrops/status/1585903125004570625"/>
+        <updated>2022-10-28T07:55:44.000Z</updated>
+        <summary type="html"><![CDATA[Re If you liked this thread consider joining our tg group: https://t.me/+Stjobn_4QE1h2xCm]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re zkBOB is focusing on retail use cases for its privacy focused stablecoin. They are currently on-boarding several DAOs for payroll and also looking ...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1585903123305877505</id>
+        <link href="https://twitter.com/defi_airdrops/status/1585903123305877505"/>
+        <updated>2022-10-28T07:55:43.000Z</updated>
+        <summary type="html"><![CDATA[Re zkBOB is focusing on retail use cases for its privacy focused stablecoin.
+They are currently on-boarding several DAOs for payroll  and also looking at private on-chain donations.
+Privacy is super important, projects that build in that sector are very promising.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re The cool thing is you only need Metamask (or other web3 wallet) to deposit into the pool and withdraw. Once in the pool you can transfer without we...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1585903121582026754</id>
+        <link href="https://twitter.com/defi_airdrops/status/1585903121582026754"/>
+        <updated>2022-10-28T07:55:43.000Z</updated>
+        <summary type="html"><![CDATA[Re The cool thing is you only need Metamask (or other web3 wallet) to deposit into the pool and withdraw.
+Once in the pool you can transfer without web3 wallet because the keys to your zkAccount are in your browser.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re They have plans to create decentralized governance to govern $BOB 👀 So how to use it? Step 1: Bridge $USDC or other asset to @0xPolygon e.g via ...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1585903118532812800</id>
+        <link href="https://twitter.com/defi_airdrops/status/1585903118532812800"/>
+        <updated>2022-10-28T07:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Re They have plans to create decentralized governance to govern $BOB 👀
+So how to use it?
+Step 1: Bridge $USDC or other asset to @0xPolygon e.g via @HopProtocol 
+Step 2: Buy $BOB on Uniswap: 
+Step 3: Go to https://app.uniswap.org/#/swap?inputCurrency=0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b&outputCurrency=0x2791bca1f2de4661ed88a30c99a7a9449aa84174 http://zkBOB.com]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨 Early play but @zkBob_ is VERY interesting! $BOB is a stablecoin with a built-in privacy layer on @0xPolygon. You can deposit...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1585903112572715009</id>
+        <link href="https://twitter.com/defi_airdrops/status/1585903112572715009"/>
+        <updated>2022-10-28T07:55:41.000Z</updated>
+        <summary type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨
+Early play but @zkBob_ is VERY interesting!
+$BOB is a stablecoin with a built-in privacy layer on @0xPolygon.
+You can deposit $BOB into a pool & transfer it to anyone within that pool 100% privately. 
+Built with zk-SNARKS by the former @xdaichain team.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[projects that advertise their own airdrop 🚩🚩🚩]]></title>
         <id>https://twitter.com/defi_airdrops/status/1585378968597061632</id>
@@ -156,76 +228,6 @@ We suspect this is to reduce deposit costs and batch deposits but waiting for cl
         <summary type="html"><![CDATA[Re Attention is represented as NFTs and priced on an AMM curve 🔥
 @Twitter you could learn from this 😜
 Being an early adopter of a platforms new feature could pay off if $DBNK launches a token and it's fun to try out new stuff!]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨AIRDROP STRATEGY 🚨 @DeBankDeFi one of the most popular DeFi portfolio management dashboards just launched Debank Hi, a Web3 messaging platform ...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1584786454278197249</id>
-        <link href="https://twitter.com/defi_airdrops/status/1584786454278197249"/>
-        <updated>2022-10-25T05:58:29.000Z</updated>
-        <summary type="html"><![CDATA[🚨AIRDROP STRATEGY 🚨
-@DeBankDeFi one of the most popular DeFi portfolio management dashboards just launched Debank Hi, a Web3 messaging platform to price attention.
-You can now message anyone in crypto and pay for their attention or be paid.
-It's built on an Ethereum L2 🔥]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ProFiTFinance07 @stakewise_io @CurveFinance it's on @gnosischain go to you can use @HopProtocol e.g to bridge stables or $ETH into @gnosischain af...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1584473407227187201</id>
-        <link href="https://twitter.com/defi_airdrops/status/1584473407227187201"/>
-        <updated>2022-10-24T09:14:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @ProFiTFinance07 @stakewise_io @CurveFinance it's on @gnosischain go to 
-you can use @HopProtocol e.g to bridge stables or $ETH into @gnosischain 
-after you staked your $GNO you receive $sGNO and you can LP on Curve http://stakewise.io]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re If you enjoyed this thread consider joining the Telegram:]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1584472740689346562</id>
-        <link href="https://twitter.com/defi_airdrops/status/1584472740689346562"/>
-        <updated>2022-10-24T09:11:54.000Z</updated>
-        <summary type="html"><![CDATA[Re If you enjoyed this thread consider joining the Telegram: https://t.me/+Stjobn_4QE1h2xCm]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re The 9m $SAFE are just the beginning. After February they will start a much bigger reward program to incentivize validator diversity on gnosis chain...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1584471225719353344</id>
-        <link href="https://twitter.com/defi_airdrops/status/1584471225719353344"/>
-        <updated>2022-10-24T09:05:52.000Z</updated>
-        <summary type="html"><![CDATA[Re The 9m $SAFE are just the beginning.
-After February they will start a much bigger reward program to incentivize validator diversity on gnosis chain.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re If you decide to run a home validator check out @DAppNode they sometimes run promotions with @GnosisDAO where you get up to 4 $GNO (4 validators) f...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1584471223525703680</id>
-        <link href="https://twitter.com/defi_airdrops/status/1584471223525703680"/>
-        <updated>2022-10-24T09:05:52.000Z</updated>
-        <summary type="html"><![CDATA[Re If you decide to run a home validator check out @DAppNode they sometimes run promotions with @GnosisDAO where you get up to 4 $GNO (4 validators) for buying one of their node hardware devices.
-Dappnode: Our most exclusive drop is back in stock with the best incentives of your life! 4 GNOs, 900 HOPT and 500 Node Tokens. 
-Super limited edition, in partnership with @hoprnet 
-Shop here:
- https://l.linklyhq.com/l/1VddA]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re The 1 year $GNO lock program started a couple of months ago but is not available anymore.]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1584471221319540736</id>
-        <link href="https://twitter.com/defi_airdrops/status/1584471221319540736"/>
-        <updated>2022-10-24T09:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Re The 1 year $GNO lock program started a couple of months ago but is not available anymore.]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
