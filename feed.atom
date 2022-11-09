@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-09T15:16:46.846Z</id>
+    <id>urn:2022-11-09T16:21:57.025Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-09T15:16:46.846Z</updated>
+    <updated>2022-11-09T16:21:57.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re We dont encourage sybiling and it's probably better to do transfers > $100 as if Metamask does an airdrop, they will probably filter low transfer a...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1590354735936450560</id>
+        <link href="https://twitter.com/defi_airdrops/status/1590354735936450560"/>
+        <updated>2022-11-09T14:44:51.000Z</updated>
+        <summary type="html"><![CDATA[Re We dont encourage sybiling and it's probably better to do transfers > $100 as if Metamask does an airdrop, they will probably filter low transfer amounts out.
+Try 👉 https://portfolio.metamask.io/bridge]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨 @MetaMask just launched a Bridge feature in its Portfolio dashboard. Integrated: @HopProtocol @ConnextNetwork @CelerNetwork M...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1590354733193363456</id>
+        <link href="https://twitter.com/defi_airdrops/status/1590354733193363456"/>
+        <updated>2022-11-09T14:44:50.000Z</updated>
+        <summary type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨
+@MetaMask just launched a Bridge feature in its Portfolio dashboard.
+Integrated:
+@HopProtocol 
+@ConnextNetwork 
+@CelerNetwork 
+Might want to do a few bridges to show you're a loyal Metamask user!]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Check eligibility for the quests here:]]></title>
         <id>https://twitter.com/defi_airdrops/status/1589757807540469762</id>
@@ -215,27 +242,6 @@ Users will receive $vPSP which will be linearly vesting over 1 year.]]></summary
         <updated>2022-10-25T06:14:00.000Z</updated>
         <summary type="html"><![CDATA[Re earned $3 already
 h8rs in disbelief]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re One thing to note is that when you deposit in what Debank advertises as an L2 it's actually depositing into a @gnosisSafe We suspect this is to red...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1584787322796929026</id>
-        <link href="https://twitter.com/defi_airdrops/status/1584787322796929026"/>
-        <updated>2022-10-25T06:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Re One thing to note is that when you deposit in what Debank advertises as an L2 it's actually depositing into a @gnosisSafe 
-We suspect this is to reduce deposit costs and batch deposits but waiting for clarification from @DeBankDeFi 🙏]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Or if you prefer web2 message platforms you can always join our Telegram channel:]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1584786631177162752</id>
-        <link href="https://twitter.com/defi_airdrops/status/1584786631177162752"/>
-        <updated>2022-10-25T05:59:11.000Z</updated>
-        <summary type="html"><![CDATA[Re Or if you prefer web2 message platforms you can always join our Telegram channel: https://t.me/+Stjobn_4QE1h2xCm]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
