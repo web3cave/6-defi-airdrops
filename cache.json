@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/defi_airdrops",
       "articles": [
         {
+          "id": "https://twitter.com/defi_airdrops/status/1591301284522786817",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Re It’s not quite clear yet what exactly the hack does but there’s an ongoing hack at FTX and it’s better to be safe than sorry!",
+          "link": "https://twitter.com/defi_airdrops/status/1591301284522786817",
+          "publishedOn": "2022-11-12T05:26:05.000Z",
+          "wordCount": 399,
+          "title": "Re It’s not quite clear yet what exactly the hack does but there’s an ongoing hack at FTX and it’s better to be safe than sorry!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1591300847631499264",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "🚨🚨DELETE FTX APP ASAP🚨🚨\nApp is pushing a malicious update which likely tries to gain root access to private keys in your mobile phone.",
+          "link": "https://twitter.com/defi_airdrops/status/1591300847631499264",
+          "publishedOn": "2022-11-12T05:24:21.000Z",
+          "wordCount": 399,
+          "title": "🚨🚨DELETE FTX APP ASAP🚨🚨 App is pushing a malicious update which likely tries to gain root access to private keys in your mobile phone.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/defi_airdrops/status/1590354735936450560",
           "author": "DeFi Airdrops 🦇🔊",
           "description": "Re We dont encourage sybiling and it's probably better to do transfers > $100 as if Metamask does an airdrop, they will probably filter low transfer amounts out.\nTry 👉 https://portfolio.metamask.io/bridge",
@@ -183,26 +203,6 @@
           "publishedOn": "2022-10-25T06:32:55.000Z",
           "wordCount": 399,
           "title": "Re @Professor_Koa @DeBankDeFi yet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1584791024475381760",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "Re ps: if you do decide to DM you might want to  give a \"follow\" as well as we can then reply for free.",
-          "link": "https://twitter.com/defi_airdrops/status/1584791024475381760",
-          "publishedOn": "2022-10-25T06:16:38.000Z",
-          "wordCount": 399,
-          "title": "Re ps: if you do decide to DM you might want to give a \"follow\" as well as we can then reply for free.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1584790361561440257",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "Re earned $3 already\nh8rs in disbelief",
-          "link": "https://twitter.com/defi_airdrops/status/1584790361561440257",
-          "publishedOn": "2022-10-25T06:14:00.000Z",
-          "wordCount": 399,
-          "title": "Re earned $3 already h8rs in disbelief",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-12T07:14:14.356Z</id>
+    <id>urn:2022-11-12T08:19:08.255Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-12T07:14:14.356Z</updated>
+    <updated>2022-11-12T08:19:08.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re It’s not quite clear yet what exactly the hack does but there’s an ongoing hack at FTX and it’s better to be safe than sorry!]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1591301284522786817</id>
+        <link href="https://twitter.com/defi_airdrops/status/1591301284522786817"/>
+        <updated>2022-11-12T05:26:05.000Z</updated>
+        <summary type="html"><![CDATA[Re It’s not quite clear yet what exactly the hack does but there’s an ongoing hack at FTX and it’s better to be safe than sorry!]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨🚨DELETE FTX APP ASAP🚨🚨 App is pushing a malicious update which likely tries to gain root access to private keys in your mobile phone.]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1591300847631499264</id>
+        <link href="https://twitter.com/defi_airdrops/status/1591300847631499264"/>
+        <updated>2022-11-12T05:24:21.000Z</updated>
+        <summary type="html"><![CDATA[🚨🚨DELETE FTX APP ASAP🚨🚨
+App is pushing a malicious update which likely tries to gain root access to private keys in your mobile phone.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re We dont encourage sybiling and it's probably better to do transfers > $100 as if Metamask does an airdrop, they will probably filter low transfer a...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1590354735936450560</id>
@@ -221,27 +242,6 @@ Users will receive $vPSP which will be linearly vesting over 1 year.]]></summary
         <link href="https://twitter.com/defi_airdrops/status/1584795119156592641"/>
         <updated>2022-10-25T06:32:55.000Z</updated>
         <summary type="html"><![CDATA[Re @Professor_Koa @DeBankDeFi yet]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re ps: if you do decide to DM you might want to give a "follow" as well as we can then reply for free.]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1584791024475381760</id>
-        <link href="https://twitter.com/defi_airdrops/status/1584791024475381760"/>
-        <updated>2022-10-25T06:16:38.000Z</updated>
-        <summary type="html"><![CDATA[Re ps: if you do decide to DM you might want to  give a "follow" as well as we can then reply for free.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re earned $3 already h8rs in disbelief]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1584790361561440257</id>
-        <link href="https://twitter.com/defi_airdrops/status/1584790361561440257"/>
-        <updated>2022-10-25T06:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Re earned $3 already
-h8rs in disbelief]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
