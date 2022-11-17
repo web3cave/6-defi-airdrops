@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-17T07:13:15.276Z</id>
+    <id>urn:2022-11-17T08:20:43.818Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-17T07:13:15.276Z</updated>
+    <updated>2022-11-17T08:20:43.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Some of the yield from the borrowers collateral is directed towards the lender, effectively paying for the borrowing cost. Interesting concept. Lin...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1593153322865025024</id>
+        <link href="https://twitter.com/defi_airdrops/status/1593153322865025024"/>
+        <updated>2022-11-17T08:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Re Some of the yield from the borrowers collateral is directed towards the lender, effectively paying for the borrowing cost.
+Interesting concept.
+Link: https://app.sturdy.finance/markets]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨 @SturdyFinance is a lending platform with a focus on interest-bearing collateral. E.g you can deposit Curve sUSD LP tokens ea...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1593153320147124224</id>
+        <link href="https://twitter.com/defi_airdrops/status/1593153320147124224"/>
+        <updated>2022-11-17T08:05:25.000Z</updated>
+        <summary type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨
+@SturdyFinance is a lending platform with a focus on interest-bearing collateral.
+E.g you can deposit Curve sUSD LP tokens earning 10% APY and then borrow $USDC or $DAI against that same collateral at 0% borrow cost.
+Why 0%? 👇]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re It’s not quite clear yet what exactly the hack does but there’s an ongoing hack at FTX and it’s better to be safe than sorry!]]></title>
         <id>https://twitter.com/defi_airdrops/status/1591301284522786817</id>
@@ -222,26 +247,6 @@ It's a neat way to align these users with Paraswaps success.]]></summary>
         <summary type="html"><![CDATA[🚨 @paraswap FAIRDROP 🚨
 Paraswap is proposing a big revamp of its tokenomics along with an airdrop to people who missed out on the initial one.
 Users will receive $vPSP which will be linearly vesting over 1 year.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @OlimpioCrypto @WagameEth @2shabby @CryptoSnooper_ @dydymoon1 ❤️ airdrop gang]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1585001855914225664</id>
-        <link href="https://twitter.com/defi_airdrops/status/1585001855914225664"/>
-        <updated>2022-10-25T20:14:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @OlimpioCrypto @WagameEth @2shabby @CryptoSnooper_ @dydymoon1 ❤️ airdrop gang]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Professor_Koa @DeBankDeFi yet]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1584795119156592641</id>
-        <link href="https://twitter.com/defi_airdrops/status/1584795119156592641"/>
-        <updated>2022-10-25T06:32:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @Professor_Koa @DeBankDeFi yet]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
