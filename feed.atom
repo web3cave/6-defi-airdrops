@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-17T21:13:08.909Z</id>
+    <id>urn:2022-11-17T22:15:04.111Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-17T21:13:08.909Z</updated>
+    <updated>2022-11-17T22:15:04.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @JimboDegen the biggest opportunities arise when everybody else is scared]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1593352809441021952</id>
+        <link href="https://twitter.com/defi_airdrops/status/1593352809441021952"/>
+        <updated>2022-11-17T21:18:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @JimboDegen the biggest opportunities arise when everybody else is scared]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Some of the yield from the borrowers collateral is directed towards the lender, effectively paying for the borrowing cost. Interesting concept. Lin...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1593153322865025024</id>
@@ -235,18 +245,6 @@ And you can boost your share:
 - by referring other users 
 - submitting limit orders 
 It's a neat way to align these users with Paraswaps success.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 @paraswap FAIRDROP 🚨 Paraswap is proposing a big revamp of its tokenomics along with an airdrop to people who missed out on the initial one. U...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1585154659710558208</id>
-        <link href="https://twitter.com/defi_airdrops/status/1585154659710558208"/>
-        <updated>2022-10-26T06:21:36.000Z</updated>
-        <summary type="html"><![CDATA[🚨 @paraswap FAIRDROP 🚨
-Paraswap is proposing a big revamp of its tokenomics along with an airdrop to people who missed out on the initial one.
-Users will receive $vPSP which will be linearly vesting over 1 year.]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
