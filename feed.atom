@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-21T08:19:43.128Z</id>
+    <id>urn:2022-11-21T09:15:05.272Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-21T08:19:43.128Z</updated>
+    <updated>2022-11-21T09:15:05.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Stone_ColdGLHF Provide liquidity like the tweet says.]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1594591407142244354</id>
+        <link href="https://twitter.com/defi_airdrops/status/1594591407142244354"/>
+        <updated>2022-11-21T07:19:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @Stone_ColdGLHF Provide liquidity like the tweet says.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cb_nft_sol @SwaapFinance @0xPolygon yes.]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1594591057832202240</id>
+        <link href="https://twitter.com/defi_airdrops/status/1594591057832202240"/>
+        <updated>2022-11-21T07:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @cb_nft_sol @SwaapFinance @0xPolygon yes.
+DeFi Airdrops 🦇🔊: The token is not live yet but the docs state that once it goes live LP's will receive a retroactive airdrop of $SWAAP.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re The token is not live yet but the docs state that once it goes live LP's will receive a retroactive airdrop of $SWAAP.]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1594590394222010372</id>
+        <link href="https://twitter.com/defi_airdrops/status/1594590394222010372"/>
+        <updated>2022-11-21T07:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Re The token is not live yet but the docs state that once it goes live LP's will receive a retroactive airdrop of $SWAAP.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re The only pool that is live atm is a multi-asset pool meaning that akthough you can deposit only one token (e.g $WBTC, $USDC or $ETH) you will be ex...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1594590180899696640</id>
+        <link href="https://twitter.com/defi_airdrops/status/1594590180899696640"/>
+        <updated>2022-11-21T07:14:59.000Z</updated>
+        <summary type="html"><![CDATA[Re The only pool that is live atm is a multi-asset pool meaning that akthough you can deposit only one token (e.g $WBTC, $USDC or $ETH) you will be exposed to all three.
+However, you will get the same amounts out as you put in.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re How it works 👇]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1594590175266770945</id>
+        <link href="https://twitter.com/defi_airdrops/status/1594590175266770945"/>
+        <updated>2022-11-21T07:14:58.000Z</updated>
+        <summary type="html"><![CDATA[Re How it works 👇]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 CONFIRMED AIRDROP 🚨 @SwaapFinance is a DEX on @0xPolygon pioneering a new AMM model using oracles and dynamic fees. It eliminates impermanent ...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1594590170191663105</id>
+        <link href="https://twitter.com/defi_airdrops/status/1594590170191663105"/>
+        <updated>2022-11-21T07:14:57.000Z</updated>
+        <summary type="html"><![CDATA[🚨 CONFIRMED AIRDROP 🚨
+@SwaapFinance is a DEX on @0xPolygon pioneering a new AMM model using oracles and dynamic fees.
+It eliminates impermanent loss for LP's of high-volume assets like $ETH, $WBTC etc. by quoting the spot prices on centralized exchanges.
+Market neutral yield]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @JimboDegen the biggest opportunities arise when everybody else is scared]]></title>
         <id>https://twitter.com/defi_airdrops/status/1593352809441021952</id>
@@ -173,78 +238,6 @@ So how to use it?
 Step 1: Bridge $USDC or other asset to @0xPolygon e.g via @HopProtocol 
 Step 2: Buy $BOB on Uniswap: 
 Step 3: Go to https://app.uniswap.org/#/swap?inputCurrency=0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b&outputCurrency=0x2791bca1f2de4661ed88a30c99a7a9449aa84174 http://zkBOB.com]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨 Early play but @zkBob_ is VERY interesting! $BOB is a stablecoin with a built-in privacy layer on @0xPolygon. You can deposit...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1585903112572715009</id>
-        <link href="https://twitter.com/defi_airdrops/status/1585903112572715009"/>
-        <updated>2022-10-28T07:55:41.000Z</updated>
-        <summary type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨
-Early play but @zkBob_ is VERY interesting!
-$BOB is a stablecoin with a built-in privacy layer on @0xPolygon.
-You can deposit $BOB into a pool & transfer it to anyone within that pool 100% privately. 
-Built with zk-SNARKS by the former @xdaichain team.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[projects that advertise their own airdrop 🚩🚩🚩]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1585378968597061632</id>
-        <link href="https://twitter.com/defi_airdrops/status/1585378968597061632"/>
-        <updated>2022-10-26T21:12:55.000Z</updated>
-        <summary type="html"><![CDATA[projects that advertise their own airdrop 🚩🚩🚩]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Sismo 🎭 is hiring 💜: Anon, give star to]]></title>
-        <id>https://twitter.com/Sismo_eth/status/1585215914978705408</id>
-        <link href="https://twitter.com/Sismo_eth/status/1585215914978705408"/>
-        <updated>2022-10-26T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Sismo 🎭 is hiring 💜
-Anon, give star to https://github.com/sismo-core/sismo-protocol]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Wasim75325591 @paraswap]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1585156075917303812</id>
-        <link href="https://twitter.com/defi_airdrops/status/1585156075917303812"/>
-        <updated>2022-10-26T06:27:13.000Z</updated>
-        <summary type="html"><![CDATA[Re @Wasim75325591 @paraswap]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Important to note this is currently in proposal stage and will be fine tuned a little more before it's implemented. Full proposal: Join our telegra...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1585154667130257408</id>
-        <link href="https://twitter.com/defi_airdrops/status/1585154667130257408"/>
-        <updated>2022-10-26T06:21:38.000Z</updated>
-        <summary type="html"><![CDATA[Re Important to note this is currently in proposal stage and will be fine tuned a little more before it's implemented.
-Full proposal: 
-Join our telegram: https://gov.paraswap.network/t/psp-2-0-renaissance-social-escrow-fee-redistribution-and-fairdrop/1032 https://t.me/+Stjobn_4QE1h2xCm]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re The cool thing is even while it's vesting $vPSP holders will be earning a share of Paraswaps protocol revenue in $ETH And you can boost your share:...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1585154664773058563</id>
-        <link href="https://twitter.com/defi_airdrops/status/1585154664773058563"/>
-        <updated>2022-10-26T06:21:37.000Z</updated>
-        <summary type="html"><![CDATA[Re The cool thing is even while it's vesting $vPSP holders will be earning a share of Paraswaps protocol revenue in $ETH
-And you can boost your share:
-- by swapping
-- by referring other users 
-- submitting limit orders 
-It's a neat way to align these users with Paraswaps success.]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
