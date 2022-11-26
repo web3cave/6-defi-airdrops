@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-26T19:10:16.388Z</id>
+    <id>urn:2022-11-26T20:13:26.617Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-26T19:10:16.388Z</updated>
+    <updated>2022-11-26T20:13:26.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -226,17 +226,6 @@ Who is eligible?
 - NFT traders on @opensea 
 - ENS domain holders
 Juno is a web3 compatible bank account bridging the gap between TradFi & DeFi with a $USDC enabled debit card]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @whalalaToken @zkBob_ @0xPolygon @xdaichain @zksync is another Layer-2 solution and has nothing to do with @zkBob_ which is an app on Polygon which...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1585903911528906752</id>
-        <link href="https://twitter.com/defi_airdrops/status/1585903911528906752"/>
-        <updated>2022-10-28T07:58:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @whalalaToken @zkBob_ @0xPolygon @xdaichain @zksync is another Layer-2 solution and has nothing to do with @zkBob_ which is an app on Polygon which uses zk-SNARKs
-the "zk" in the name is all these two have in common]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
