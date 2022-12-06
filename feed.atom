@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-06T02:39:55.861Z</id>
+    <id>urn:2022-12-06T03:14:10.573Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-06T02:39:55.861Z</updated>
+    <updated>2022-12-06T03:14:10.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re The final airdrop phase (Airdrop 3) is starting now so there's still time to participate:]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1599942782843781120</id>
+        <link href="https://twitter.com/defi_airdrops/status/1599942782843781120"/>
+        <updated>2022-12-06T01:44:19.000Z</updated>
+        <summary type="html"><![CDATA[Re The final airdrop phase (Airdrop 3) is starting now so there's still time to participate: https://blur.io/airdrop]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you did some trades on @blur_io or swept some floors you are eligible to claim some care packages now. In order to claim your care packages you jus...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1599942780968914944</id>
+        <link href="https://twitter.com/defi_airdrops/status/1599942780968914944"/>
+        <updated>2022-12-06T01:44:19.000Z</updated>
+        <summary type="html"><![CDATA[If you did some trades on @blur_io or swept some floors you are eligible to claim some care packages now.
+In order to claim your care packages you just need to submit one bid on any collection listed on Blur.
+In January you will be able to claim $BLUR from your care packages.
+Blur: Blur Airdrop 2 is officially LIVE!
+Our second airdrop is 10x larger than the first.
+You have 14 days to claim by placing a bid on Blur ⏰]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re rugged by $NYAN (first arbitrum yield farm) would indeed be a funny one to reward early adopters 😝]]></title>
         <id>https://twitter.com/defi_airdrops/status/1597203588832718849</id>
@@ -206,31 +231,6 @@ Market neutral yield]]></summary>
         <link href="https://twitter.com/defi_airdrops/status/1593352809441021952"/>
         <updated>2022-11-17T21:18:07.000Z</updated>
         <summary type="html"><![CDATA[Re @JimboDegen the biggest opportunities arise when everybody else is scared]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Some of the yield from the borrowers collateral is directed towards the lender, effectively paying for the borrowing cost. Interesting concept. Lin...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1593153322865025024</id>
-        <link href="https://twitter.com/defi_airdrops/status/1593153322865025024"/>
-        <updated>2022-11-17T08:05:26.000Z</updated>
-        <summary type="html"><![CDATA[Re Some of the yield from the borrowers collateral is directed towards the lender, effectively paying for the borrowing cost.
-Interesting concept.
-Link: https://app.sturdy.finance/markets]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨 @SturdyFinance is a lending platform with a focus on interest-bearing collateral. E.g you can deposit Curve sUSD LP tokens ea...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1593153320147124224</id>
-        <link href="https://twitter.com/defi_airdrops/status/1593153320147124224"/>
-        <updated>2022-11-17T08:05:25.000Z</updated>
-        <summary type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨
-@SturdyFinance is a lending platform with a focus on interest-bearing collateral.
-E.g you can deposit Curve sUSD LP tokens earning 10% APY and then borrow $USDC or $DAI against that same collateral at 0% borrow cost.
-Why 0%? 👇]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
