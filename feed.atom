@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-09T06:16:36.214Z</id>
+    <id>urn:2023-01-09T07:12:14.147Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-09T06:16:36.214Z</updated>
+    <updated>2023-01-09T07:12:14.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Free “Friendship bracelet” mint worth 1.2 ETH for anyone who has held min. 1 @artblocks_io piece before October 26 📸 To claim go to If you qualif...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1612340840948699143</id>
+        <link href="https://twitter.com/defi_airdrops/status/1612340840948699143"/>
+        <updated>2023-01-09T06:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Free “Friendship bracelet” mint worth 1.2 ETH for anyone who has held min. 1 @artblocks_io piece before October 26 📸
+To claim go to 
+If you qualify you will see an option to mint 2 friendship bracelets.
+24hrs left! http://artblocks.io]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨 Could be a good play to stake some $MATIC in @omnidotapp. Reasons 👇 1. You get a chance to win from a prize pool of $10,00...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1605247833271140353</id>
