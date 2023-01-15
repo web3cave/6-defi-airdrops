@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-14T23:12:08.981Z</id>
+    <id>urn:2023-01-15T01:08:30.319Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-14T23:12:08.981Z</updated>
+    <updated>2023-01-15T01:08:30.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -67,92 +67,6 @@ DeFi Airdrops 🦇🔊: 🚨 AIRDROP RUMOUR 🚨
 @SturdyFinance is a lending platform with a focus on interest-bearing collateral.
 E.g you can deposit Curve sUSD LP tokens earning 10% APY and then borrow $USDC or $DAI against that same collateral at 0% borrow cost.
 Why 0%? 👇]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Antid0tEVM @novaxbt @arborfinance @ShapeShift is there a token we could profit from? are we not disclosing the risks involved in using the product...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1603730180639543298</id>
-        <link href="https://twitter.com/defi_airdrops/status/1603730180639543298"/>
-        <updated>2022-12-16T12:34:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @Antid0tEVM @novaxbt @arborfinance @ShapeShift is there a token we could profit from?
-are we not disclosing the risks involved in using the product?
-it's like you can't say nice things about a project that is objectively bringing something new to the table without getting these replies..]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Antid0tEVM @novaxbt @arborfinance @ShapeShift thank you 🙏 ngl its frustrating we've had these kind of replies numerous times each time im invol...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1603729715294003200</id>
-        <link href="https://twitter.com/defi_airdrops/status/1603729715294003200"/>
-        <updated>2022-12-16T12:32:14.000Z</updated>
-        <summary type="html"><![CDATA[Re @Antid0tEVM @novaxbt @arborfinance @ShapeShift thank you 🙏 ngl its frustrating
-we've had these kind of replies numerous times each time im involving the team in question to confirm we didn't get paid
-still you have an annoying reply guy like this
-does this look like a paid shill project to anyone?]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @novaxbt @arborfinance @ShapeShift stfu dont accuse people of promoting if you don't know we promote cool projects that bring this space forward si...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1603726814471688192</id>
-        <link href="https://twitter.com/defi_airdrops/status/1603726814471688192"/>
-        <updated>2022-12-16T12:20:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @novaxbt @arborfinance @ShapeShift stfu dont accuse people of promoting if you don't know
-we promote cool projects that bring this space forward
-sick of dumb fucks like you]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Ultimately, it boils down to reputation. If the DAO is in the capacity to pay back the loan 1 year from now, it is incentivized to so, else it woul...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1603725659959951360</id>
-        <link href="https://twitter.com/defi_airdrops/status/1603725659959951360"/>
-        <updated>2022-12-16T12:16:07.000Z</updated>
-        <summary type="html"><![CDATA[Re Ultimately, it boils down to reputation. 
-If the DAO is in the capacity to pay back the loan 1 year from now, it is incentivized to so, else it would face significant backlash.
-This is for degens who like to be at the frontier of DeFi and want to support debt markets for DAO's.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re In addition, Arbor publishes the income statements of the DAO so that lenders can form their own opinion about a DAO's creditworthiness 👇 TLDR; ...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1603725657359384576</id>
-        <link href="https://twitter.com/defi_airdrops/status/1603725657359384576"/>
-        <updated>2022-12-16T12:16:07.000Z</updated>
-        <summary type="html"><![CDATA[Re In addition, Arbor publishes the income statements of the DAO so that lenders can form their own opinion about a DAO's creditworthiness 👇
-TLDR; Shapeshift generates yield on assets it holds on its balance sheet and is approaching profitability.. https://app.arbor.finance/pdf/ShapeShift%20Prospectus.pdf]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re These kind of loans obviously come with significant risks. Revenues of DAO's are highly volatile & can dry up completely. To mitigate risks somewha...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1603725654767403008</id>
-        <link href="https://twitter.com/defi_airdrops/status/1603725654767403008"/>
-        <updated>2022-12-16T12:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Re These kind of loans obviously come with significant risks.
-Revenues of DAO's are highly volatile & can dry up completely.
-To mitigate risks somewhat, the bonds are over-collateralized in governance tokens (in this case 250% LTV in $FOX).]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨 @arborfinance is allowing DAO's to raise fixed rate debt by issuing bonds. They did a first bond offering with Ribbon which h...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1603725651671916549</id>
-        <link href="https://twitter.com/defi_airdrops/status/1603725651671916549"/>
-        <updated>2022-12-16T12:16:05.000Z</updated>
-        <summary type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨
-@arborfinance is allowing DAO's to raise fixed rate debt by issuing bonds.
-They did a first bond offering with Ribbon which has been paid back recently.
-This bond offering with @ShapeShift can yield up to 20.8%.
-Read on👇]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
