@@ -1,36 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-05T20:12:46.837Z</id>
+    <id>urn:2023-02-05T21:10:51.363Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-05T20:12:46.837Z</updated>
+    <updated>2023-02-05T21:10:51.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[SWEET VALENTINE $BLUR AIRDROP CONFIRMED 🪂🌹 February 14th. You can continue to earn $BLUR care packages by posting bids on collections until then...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1616175797307572224</id>
-        <link href="https://twitter.com/defi_airdrops/status/1616175797307572224"/>
-        <updated>2023-01-19T20:48:31.000Z</updated>
-        <summary type="html"><![CDATA[SWEET VALENTINE $BLUR AIRDROP CONFIRMED 🪂🌹
-February 14th.
-You can continue to earn $BLUR care packages by posting bids on collections until then.
-
-Blur: $BLUR is launching February 14
-We know this is past our initial estimate of January and we’re sorry for the delay. We’re trying new things and the extra two weeks will allow us to deliver a launch that hasn’t been done before. Airdrop 3 will continue until then.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free “Friendship bracelet” mint worth 1.2 ETH for anyone who has held min. 1 @artblocks_io piece before October 26 📸 To claim go to If you qualif...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1612340840948699143</id>
-        <link href="https://twitter.com/defi_airdrops/status/1612340840948699143"/>
-        <updated>2023-01-09T06:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Free “Friendship bracelet” mint worth 1.2 ETH for anyone who has held min. 1 @artblocks_io piece before October 26 📸
-To claim go to 
-If you qualify you will see an option to mint 2 friendship bracelets.
-24hrs left! http://artblocks.io]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
 </feed>
