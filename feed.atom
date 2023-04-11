@@ -1,10 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-11T05:11:11.892Z</id>
+    <id>urn:2023-04-11T06:15:16.446Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-11T05:11:11.892Z</updated>
+    <updated>2023-04-11T06:15:16.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Whether LayerZero's valuation is deserved or not as many security researchers like @l2beat have called out the projects for its centralization fact...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1645651618510278656</id>
+        <link href="https://twitter.com/defi_airdrops/status/1645651618510278656"/>
+        <updated>2023-04-11T04:54:55.000Z</updated>
+        <summary type="html"><![CDATA[Re Whether LayerZero's valuation is deserved or not as many security researchers like @l2beat have called out the projects for its centralization factors, it is certainly worth trying to get a share of the airdrop.
+Hopefully these tips will help you 🤝
+https://medium.com/l2beat/circumventing-layer-zero-5e9f652a5d3e]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Other collections like the @pudgypenguins have also adopted this standard and can be bridged across chains. https://twitter.com/pudgypenguins/statu...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1645651616354439168</id>
+        <link href="https://twitter.com/defi_airdrops/status/1645651616354439168"/>
+        <updated>2023-04-11T04:54:54.000Z</updated>
+        <summary type="html"><![CDATA[Re Other collections like the @pudgypenguins have also adopted this standard and can be bridged across chains.
+https://twitter.com/pudgypenguins/status/1618288231552004100?s=20
+
+Pudgy Penguins: There’s been a leak from the lab:
+A portal allowing Lil Pudgys to travel between chains has opened…
+The Lil Pudgys are officially cross-chain 🧵 https://t.co/16xVApFduo]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re A category that is overlooked are the NFT collections powered by LayerZero's omnichain NFT standard. The Gh0stly Gh0st collection was launched by t...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1645651614223724546</id>
+        <link href="https://twitter.com/defi_airdrops/status/1645651614223724546"/>
+        <updated>2023-04-11T04:54:54.000Z</updated>
+        <summary type="html"><![CDATA[Re A category that is overlooked are the NFT collections powered by LayerZero's omnichain NFT standard.
+The Gh0stly Gh0st collection was launched by the LayerZero founder and can be bridged across chains ( only via Etherscan atm)
+https://opensea.io/collection/gh0stlygh0sts]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Furthermore, the L0 team built a bridge for its wrapped Bitcoin token "bitcoin.d" from Avalanche to other chains. Try here: https://bitcoinbridge.n...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1645651611879088128</id>
+        <link href="https://twitter.com/defi_airdrops/status/1645651611879088128"/>
+        <updated>2023-04-11T04:54:53.000Z</updated>
+        <summary type="html"><![CDATA[Re Furthermore, the L0 team built a bridge for its wrapped Bitcoin token "bitcoin.d" from Avalanche to other chains.
+Try here: https://bitcoinbridge.network/bridge
+There's a bunch of other projects that use LayerZero or Stargate like @RDNTCapital or @ragetrade. https://t.co/s0YTbTGREV]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re But there are other projects that used LayerZero to build a custom asset bridge for their token. For example, @AngleProtocol has built a LayerZero ...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1645651609287004162</id>
+        <link href="https://twitter.com/defi_airdrops/status/1645651609287004162"/>
+        <updated>2023-04-11T04:54:53.000Z</updated>
+        <summary type="html"><![CDATA[Re But there are other projects that used LayerZero to build a custom asset bridge for their token.
+For example, @AngleProtocol has built a LayerZero powered bridge for its $agEUR stablecoin.
+You can use it: http://app.angle.money https://t.co/S0nMHAH5ye]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re The first and most closely associated asset bridge built on LayerZero is @StargateFinance Here it is recommended to provide liquidity in a pool on ...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1645651606413938689</id>
+        <link href="https://twitter.com/defi_airdrops/status/1645651606413938689"/>
+        <updated>2023-04-11T04:54:52.000Z</updated>
+        <summary type="html"><![CDATA[Re The first and most closely associated asset bridge built on LayerZero is @StargateFinance
+Here it is recommended to provide liquidity in a pool on any of the supported chains.
+Some people think holding a small amount of its native $STG token and locking it -> $veSTG could help. https://t.co/ABGk0PJs4K]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re LP'ing on a bridge is more likely a rewarded action as there is a real cost associated to locking up capital for an extensive period of time and he...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1645651604782333952</id>
+        <link href="https://twitter.com/defi_airdrops/status/1645651604782333952"/>
+        <updated>2023-04-11T04:54:51.000Z</updated>
+        <summary type="html"><![CDATA[Re LP'ing on a bridge is more likely a rewarded action as there is a real cost associated to locking up capital for an extensive period of time and hence harder to sybil.
+So is holding a projects native token or NFT.
+With that being said, let's look at the projects 👇]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Why? Projects increasingly weed out actions that are easy to game and sybil across many wallets. So for example, sending a bridge transfer across a...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1645651602630664197</id>
+        <link href="https://twitter.com/defi_airdrops/status/1645651602630664197"/>
+        <updated>2023-04-11T04:54:51.000Z</updated>
+        <summary type="html"><![CDATA[Re Why?
+Projects increasingly weed out actions that are easy to game and sybil across many wallets.
+So for example, sending a bridge transfer across a chain via LayerZero is relatively inexpensive and could be not enough to get the airdrop.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re LayerZero is a messaging protocol to communicate across Blockchains. It is used for asset bridging, NFT bridging and many other custom use cases. U...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1645651601057792000</id>
+        <link href="https://twitter.com/defi_airdrops/status/1645651601057792000"/>
+        <updated>2023-04-11T04:54:51.000Z</updated>
+        <summary type="html"><![CDATA[Re LayerZero is a messaging protocol to communicate across Blockchains.
+It is used for asset bridging, NFT bridging and many other custom use cases.
+Using these projects built on top of Layer Zero is the best way to get the airdrop.
+And the more costly the action the better.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 AIRDROP RUMOUR @LayerZero_Labs 🚨 Last week news of a $120m funding round at $3b valuation by LayerZero made the round. That valuation is quite...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1645651597001900034</id>
+        <link href="https://twitter.com/defi_airdrops/status/1645651597001900034"/>
+        <updated>2023-04-11T04:54:50.000Z</updated>
+        <summary type="html"><![CDATA[🚨 AIRDROP RUMOUR @LayerZero_Labs  🚨
+Last week news of a $120m funding round at $3b valuation by LayerZero made the round.
+That valuation is quite impressive and could result in a juicy $ZRO airdrop in the event of a token launch.
+So how to play that potential airdrop? 👇 https://t.co/o7Dh4oVwwo]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re up to 25x leverage, limit orders, multi-sig security and many other features await. More info 👇 https://twitter.com/PolynomialFi/status/16403477...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1640468778680209409</id>
