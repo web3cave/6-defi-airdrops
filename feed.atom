@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T08:15:49.554Z</id>
+    <id>urn:2023-04-24T09:12:28.207Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-24T08:15:49.554Z</updated>
+    <updated>2023-04-24T09:12:28.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[you are buying & selling NFTs on @openseapro r-right? seemed far fetched a few months ago but blur pressure is real and opensea pro is a good option t...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1650425817028259848</id>
+        <link href="https://twitter.com/defi_airdrops/status/1650425817028259848"/>
+        <updated>2023-04-24T09:05:52.000Z</updated>
+        <summary type="html"><![CDATA[you are buying & selling NFTs on @openseapro r-right?
+seemed far fetched a few months ago but blur pressure is real and opensea pro is a good option to introduce a token through the backdoor🪂🪂 https://t.co/eiXBMHJR2k]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Whether LayerZero's valuation is deserved or not as many security researchers like @l2beat have called out the projects for its centralization fact...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1645651618510278656</id>
