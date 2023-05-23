@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-22T23:11:46.965Z</id>
+    <id>urn:2023-05-23T01:01:51.197Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-22T23:11:46.965Z</updated>
+    <updated>2023-05-23T01:01:51.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Full list of addresses: https://raw.githubusercontent.com/PikaProtocol/PikaTGEWhitelist/master/TGEWhitelist?token=GHSAT0AAAAAABS33UNNEJLQDCSJRANVOW...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1660797079936172033</id>
+        <link href="https://twitter.com/defi_airdrops/status/1660797079936172033"/>
+        <updated>2023-05-22T23:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Re Full list of addresses: https://raw.githubusercontent.com/PikaProtocol/PikaTGEWhitelist/master/TGEWhitelist?token=GHSAT0AAAAAABS33UNNEJLQDCSJRANVOW22ZDDQGUA]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $PIKA TGE is happening today at 14:00 UTC If you used Pika before you can invest in Phase I of the TGE @ 37m market cap. Your allocation will be 1...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1660797076517818368</id>
+        <link href="https://twitter.com/defi_airdrops/status/1660797076517818368"/>
+        <updated>2023-05-22T23:57:33.000Z</updated>
+        <summary type="html"><![CDATA[The $PIKA TGE is happening today at 14:00 UTC
+If you used Pika before you can invest in Phase I of the TGE @ 37m market cap.
+Your allocation will be 1-5 ETH based on your usage (addresses below 👇)
+These addresses will also receive an airdrop later but locked tokens $esPIKA 🪂 https://t.co/eRsksZy5Gm
+
+
+DeFi Airdrops 🦇🔊: 🚨 $PIKA AIRDROP CONFIRMED 🚨
+Good news for everyone who followed our call and traded or LP'd on @PikaProtocol
+Whitelisted users who interacted with the protocol will be able to particpate in their public sale @ 37m mkt cap
++ mention retroactive airdrop
+https://twitter.com/PikaProtocol/status/1655895942602838018?s=20 https://t.co/X6iNvIWW1h]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re join our telegram to stay up to date about airdrop alpha https://t.me/+Stjobn_4QE1h2xCm]]></title>
         <id>https://twitter.com/defi_airdrops/status/1655926516721815554</id>
@@ -223,35 +253,6 @@ But it seems to be confirmed that there will be a token eventually.]]></summary>
         <updated>2023-04-28T06:22:36.000Z</updated>
         <summary type="html"><![CDATA[Re For more alpha like this join our telegram: 
 https://t.me/+Stjobn_4QE1h2xCm]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re For hackers and security experts: your time is probably better spent finding bugs and trying to break Socket DL https://twitter.com/SocketDotTech/s...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1651834276495908865</id>
-        <link href="https://twitter.com/defi_airdrops/status/1651834276495908865"/>
-        <updated>2023-04-28T06:22:35.000Z</updated>
-        <summary type="html"><![CDATA[Re For hackers and security experts: your time is probably better spent finding bugs and trying to break Socket DL
-https://twitter.com/SocketDotTech/status/1651604479786258433?s=20 https://t.co/wji4UeRf0G
-
-
-Socket (⚡️Surging): HATE UNINVITED BRIDGE HACKS❔
-We are inviting you to break SocketDL and be a part of the collective that secures Socket & the ecosystem - once and for all
-u up?
-https://mirror.xyz/0x6FD2bd90D50eDEe139103454116F252f6F5eC928/pHzwTNVxDgcr782MHI8wnQ2n5sdYw6yP8s--46GcJFU]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 TOKEN CONFIRMED 🚨 @SocketDotTech kicked off a bug bounty contest for its new messaging protocol Socket DL yesterday in which it confirmed a to...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1651834272997838849</id>
-        <link href="https://twitter.com/defi_airdrops/status/1651834272997838849"/>
-        <updated>2023-04-28T06:22:34.000Z</updated>
-        <summary type="html"><![CDATA[🚨 TOKEN CONFIRMED 🚨
-@SocketDotTech kicked off a bug bounty contest for its new messaging protocol Socket DL yesterday in which it confirmed a token.
-For non developers it's probably a good idea to start using @BungeeExchange its bridge aggregator going forward. https://t.co/OfBo7ApLNX]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
