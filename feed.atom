@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-18T21:09:57.486Z</id>
+    <id>urn:2023-06-18T22:10:32.877Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-18T21:09:57.486Z</updated>
+    <updated>2023-06-18T22:10:32.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -270,16 +270,6 @@ Borrow up to 5 ETH for 30 days @ 1% APR
 -Best rates on Degods anywhere (+ only pay for the time accrued)
 Hedge risk for 1% APR
 https://astaria.xyz/borrow/loans/new https://t.co/RvD4WJZZtA]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Full list of addresses: https://raw.githubusercontent.com/PikaProtocol/PikaTGEWhitelist/master/TGEWhitelist?token=GHSAT0AAAAAABS33UNNEJLQDCSJRANVOW...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1660797079936172033</id>
-        <link href="https://twitter.com/defi_airdrops/status/1660797079936172033"/>
-        <updated>2023-05-22T23:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Re Full list of addresses: https://raw.githubusercontent.com/PikaProtocol/PikaTGEWhitelist/master/TGEWhitelist?token=GHSAT0AAAAAABS33UNNEJLQDCSJRANVOW22ZDDQGUA]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
