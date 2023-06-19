@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-19T15:12:16.741Z</id>
+    <id>urn:2023-06-19T16:14:51.550Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-19T15:12:16.741Z</updated>
+    <updated>2023-06-19T16:14:51.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re PS: Pika V4 launching soon.]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1670823340552978434</id>
+        <link href="https://twitter.com/defi_airdrops/status/1670823340552978434"/>
+        <updated>2023-06-19T15:58:21.000Z</updated>
+        <summary type="html"><![CDATA[Re PS: Pika V4 launching soon.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 $PIKA AIRDROP 🚨 Pika just announced the final details of the previously announced airdrop. 6.2% of supply ($2.3m usd) claimable on 22nd of Jun...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1670823337478561794</id>
+        <link href="https://twitter.com/defi_airdrops/status/1670823337478561794"/>
+        <updated>2023-06-19T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[🚨 $PIKA AIRDROP 🚨
+Pika just announced the final details of the previously announced airdrop.
+6.2% of supply ($2.3m usd) claimable on 22nd of June as $esPIKA (unlocking over 1 year).
+Eligible:
+- Early traders
+- Liquidity providers
+Check your amount:
+ https://www.pikaprotocol.com/#/airdrop https://t.co/GqoCOURCRs
+
+
+Pika Protocol⚡️: Today, we're thrilled to announce Pika’s retroactive airdrop! 🎉 
+https://link.medium.com/BUmowzy8KAb
+1/🧵 As we reflect on the last two years of Pika's journey, we're incredibly grateful to our users and community contributors who've helped shape Pika into what it is today.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Token is rumoured to launch in 3-6 months. They had a lockdrop 2-3 months ago where people could lock up $USDC for future tokens at TGE which attra...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1669368374655172609</id>
@@ -249,37 +281,6 @@ Chromie Squiggle
 @DeGodsNFT 
 $LSD is burnable for physical paper
 https://astaria.xyz/borrow/loans/new https://t.co/V1p6kmLJ9i]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 NEW HIGH-POTENTIAL PROTOCOL🚨 @AstariaXYZ is a new NFT lending platform by ex-Sushi CTO @josephdelong It allows loan underwriters like @UpshotH...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1664093921335726080</id>
-        <link href="https://twitter.com/defi_airdrops/status/1664093921335726080"/>
-        <updated>2023-06-01T02:18:02.000Z</updated>
-        <summary type="html"><![CDATA[🚨 NEW HIGH-POTENTIAL PROTOCOL🚨
-@AstariaXYZ is a new NFT lending platform by ex-Sushi CTO @josephdelong 
-It allows loan underwriters like @UpshotHQ @deepnftvaluebot (or anyone else) to create loan offer pools.
-You can then accept these offers and lend your NFTs for $ETH.
-
-Astaria: We are celebrating the launch of @DeGodsNFT loans on Astaria today 🎉
-Borrow up to 5 ETH for 30 days @ 1% APR
--Instant liquidity
--Fixed terms + no liquidations 
--Best rates on Degods anywhere (+ only pay for the time accrued)
-Hedge risk for 1% APR
-https://astaria.xyz/borrow/loans/new https://t.co/RvD4WJZZtA]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Full list of addresses: https://raw.githubusercontent.com/PikaProtocol/PikaTGEWhitelist/master/TGEWhitelist?token=GHSAT0AAAAAABS33UNNEJLQDCSJRANVOW...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1660797079936172033</id>
-        <link href="https://twitter.com/defi_airdrops/status/1660797079936172033"/>
-        <updated>2023-05-22T23:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Re Full list of addresses: https://raw.githubusercontent.com/PikaProtocol/PikaTGEWhitelist/master/TGEWhitelist?token=GHSAT0AAAAAABS33UNNEJLQDCSJRANVOW22ZDDQGUA]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
