@@ -1,46 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-24T15:12:12.928Z</id>
+    <id>urn:2023-07-24T16:15:25.667Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-24T15:12:12.928Z</updated>
+    <updated>2023-07-24T16:15:25.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[$MAV airdrop is now live and ready to be claimed 🚀 GG to those who listened to our call 😜 https://governance.mav.xyz/claim]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1673975052096905216</id>
-        <link href="https://twitter.com/defi_airdrops/status/1673975052096905216"/>
-        <updated>2023-06-28T08:42:08.000Z</updated>
-        <summary type="html"><![CDATA[$MAV airdrop is now live and ready to be claimed 🚀
-GG to those who listened to our call 😜
-https://governance.mav.xyz/claim
-
-
-DeFi Airdrops 🦇🔊: 🚨 $MAV AIRDROP CONFIRMED 🚨
-@mavprotocol a concentrated liquidity dex that has been gaining a LOT of traction in recent weeks has confirmed a token & airdrop.
-They are starting to compete Uniswap on LST volume with a fraction of the TVL.
-Time to provide liquidity 👇]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📸 $MAV SNAPSHOT HAS BEEN TAKEN 📸 Liquidity providers, traders and contributor as per 22nd of June have been recorded in a Snapshot and will be e...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1673064302289334273</id>
-        <link href="https://twitter.com/defi_airdrops/status/1673064302289334273"/>
-        <updated>2023-06-25T20:23:08.000Z</updated>
-        <summary type="html"><![CDATA[📸 $MAV SNAPSHOT HAS BEEN TAKEN 📸
-Liquidity providers, traders and contributor as per 22nd of June have been recorded in a Snapshot and will be eligible for a $MAV airdrop.
-Amounts are not announced yet.
-Token launch soon.
-https://medium.com/maverick-protocol/maverick-ecosystem-incentive-program-95cf76dbfa5e
-
-
-DeFi Airdrops 🦇🔊: 🚨 $MAV AIRDROP CONFIRMED 🚨
-@mavprotocol a concentrated liquidity dex that has been gaining a LOT of traction in recent weeks has confirmed a token & airdrop.
-They are starting to compete Uniswap on LST volume with a fraction of the TVL.
-Time to provide liquidity 👇]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
 </feed>
