@@ -1,22 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Twitter @DeFi Airdrops 🦇🔊",
-      "feedUrl": "https://rsshub.app/twitter/user/defi_airdrops",
-      "siteUrl": "https://twitter.com/defi_airdrops",
-      "articles": [
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1673975052096905216",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "$MAV airdrop is now live and ready to be claimed 🚀\nGG to those who listened to our call 😜\nhttps://governance.mav.xyz/claim\n\n\nDeFi Airdrops 🦇🔊: 🚨 $MAV AIRDROP CONFIRMED 🚨\n@mavprotocol a concentrated liquidity dex that has been gaining a LOT of traction in recent weeks has confirmed a token & airdrop.\nThey are starting to compete Uniswap on LST volume with a fraction of the TVL.\nTime to provide liquidity 👇",
-          "link": "https://twitter.com/defi_airdrops/status/1673975052096905216",
-          "publishedOn": "2023-06-28T08:42:08.000Z",
-          "wordCount": null,
-          "title": "$MAV airdrop is now live and ready to be claimed 🚀 GG to those who listened to our call 😜 https://governance.mav.xyz/claim",
-          "imageUrl": null
-        }
-      ]
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
