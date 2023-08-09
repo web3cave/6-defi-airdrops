@@ -4,38 +4,7 @@
       "title": "Twitter @DeFi Airdrops 🦇🔊",
       "feedUrl": "https://rsshub.app/twitter/user/defi_airdrops",
       "siteUrl": "https://twitter.com/defi_airdrops",
-      "articles": [
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1678604294516514816",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "Re Join our telegram for more airdrop alpha:\nhttps://t.me/+Stjobn_4QE1h2xCm",
-          "link": "https://twitter.com/defi_airdrops/status/1678604294516514816",
-          "publishedOn": "2023-07-11T03:17:05.000Z",
-          "wordCount": null,
-          "title": "Re Join our telegram for more airdrop alpha: https://t.me/+Stjobn_4QE1h2xCm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1678604290431258624",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "🚨 AIRDROP RUMOUR 🚨\n@raft_fi the project behind the $R stablecoin might be launching a governance token soon.\nBorrow $R by depositing a liquid staking token like $rETH or $stETH (you only pay a one time borrow cost)",
-          "link": "https://twitter.com/defi_airdrops/status/1678604290431258624",
-          "publishedOn": "2023-07-11T03:17:04.000Z",
-          "wordCount": null,
-          "title": "🚨 AIRDROP RUMOUR 🚨 @raft_fi the project behind the $R stablecoin might be launching a governance token soon. Borrow $R by depositing a liquid st...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/defi_airdrops/status/1678604292679409664",
-          "author": "DeFi Airdrops 🦇🔊",
-          "description": "Re The longer you hold a borrow position the larger the airdrop usually.\nYou can also further increase your chances by LP'ing $R on @mavprotocol or @Balancer.\nLink: https://app.raft.fi/",
-          "link": "https://twitter.com/defi_airdrops/status/1678604292679409664",
-          "publishedOn": "2023-07-11T03:17:04.000Z",
-          "wordCount": null,
-          "title": "Re The longer you hold a borrow position the larger the airdrop usually. You can also further increase your chances by LP'ing $R on @mavprotocol or @B...",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
