@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-09T10:12:50.404Z</id>
+    <id>urn:2023-08-09T11:09:55.528Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-09T10:12:50.404Z</updated>
+    <updated>2023-08-09T11:09:55.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Join our telegram for more airdrop alpha: https://t.me/+Stjobn_4QE1h2xCm]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1678604294516514816</id>
+        <link href="https://twitter.com/defi_airdrops/status/1678604294516514816"/>
+        <updated>2023-07-11T03:17:05.000Z</updated>
+        <summary type="html"><![CDATA[Re Join our telegram for more airdrop alpha:
+https://t.me/+Stjobn_4QE1h2xCm]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨 @raft_fi the project behind the $R stablecoin might be launching a governance token soon. Borrow $R by depositing a liquid st...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1678604290431258624</id>
+        <link href="https://twitter.com/defi_airdrops/status/1678604290431258624"/>
+        <updated>2023-07-11T03:17:04.000Z</updated>
+        <summary type="html"><![CDATA[🚨 AIRDROP RUMOUR 🚨
+@raft_fi the project behind the $R stablecoin might be launching a governance token soon.
+Borrow $R by depositing a liquid staking token like $rETH or $stETH (you only pay a one time borrow cost)]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re The longer you hold a borrow position the larger the airdrop usually. You can also further increase your chances by LP'ing $R on @mavprotocol or @B...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1678604292679409664</id>
+        <link href="https://twitter.com/defi_airdrops/status/1678604292679409664"/>
+        <updated>2023-07-11T03:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Re The longer you hold a borrow position the larger the airdrop usually.
+You can also further increase your chances by LP'ing $R on @mavprotocol or @Balancer.
+Link: https://app.raft.fi/]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
 </feed>
