@@ -1,11 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Twitter @DeFi Airdrops 🦇🔊",
-      "feedUrl": "https://rsshub.app/twitter/user/defi_airdrops",
-      "siteUrl": "https://twitter.com/defi_airdrops",
-      "articles": []
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
