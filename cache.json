@@ -1,4 +1,72 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Twitter @DeFi Airdrops 🦇🔊",
+      "feedUrl": "https://rsshub.app/twitter/user/defi_airdrops",
+      "siteUrl": "https://twitter.com/defi_airdrops",
+      "articles": [
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1729395427206988232",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Re If you want to take the easier and more mindless approach of depositing $ETH feel free to use our invite link:\nhttp://blast.io/LDKKX",
+          "link": "https://twitter.com/defi_airdrops/status/1729395427206988232",
+          "publishedOn": "2023-11-28T07:02:55.000Z",
+          "wordCount": 1536,
+          "title": "Re If you want to take the easier and more mindless approach of depositing $ETH feel free to use our invite link: http://blast.io/LDKKX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1729395425575305448",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Re Of course funding rates could flip especially as the airdrop comes closer and $BLUR stakers decide they want to hedge their exposure.\nBut this can nevertheless be an interesting second option to farm the airdrop that we wanted to present.",
+          "link": "https://twitter.com/defi_airdrops/status/1729395425575305448",
+          "publishedOn": "2023-11-28T07:02:54.000Z",
+          "wordCount": 1721,
+          "title": "Re Of course funding rates could flip especially as the airdrop comes closer and $BLUR stakers decide they want to hedge their exposure. But this can ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1729395415295115317",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Blast TVL is now at close to $600m TVL.\nThat's a lot of $ competing for the airdrop allocation.\nCould there be better ways to farm the $BLAST airdrop?\nLet's dive in 🧵",
+          "link": "https://twitter.com/defi_airdrops/status/1729395415295115317",
+          "publishedOn": "2023-11-28T07:02:52.000Z",
+          "wordCount": 1721,
+          "title": "Blast TVL is now at close to $600m TVL. That's a lot of $ competing for the airdrop allocation. Could there be better ways to farm the $BLAST airdrop?...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1727544002671747572",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Re more codes:\nhttp://blast.io/MJ0T3\nhttp://blast.io/58OI9\nhttp://blast.io/C4AX4\nhttp://blast.io/QP5OE\nhttp://blast.io/V6AYJ\nhttp://blast.io/BY1CZ\nhttp://blast.io/QFJZR\nhttp://blast.io/YEY58\nhttp://blast.io/B6FM1\nhttp://blast.io/UKB6M",
+          "link": "https://twitter.com/defi_airdrops/status/1727544002671747572",
+          "publishedOn": "2023-11-23T04:26:01.000Z",
+          "wordCount": 1721,
+          "title": "Re more codes: http://blast.io/MJ0T3 http://blast.io/58OI9 http://blast.io/C4AX4 http://blast.io/QP5OE http://blast.io/V6AYJ http://blast.io/BY1CZ htt...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1727280560152928607",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Re more codes:\nhttp://blast.io/2Y7NK\nhttp://blast.io/TJ15A\nhttp://blast.io/A13S0\nhttp://blast.io/CP5KO\nhttp://blast.io/F0K1Y\nhttp://blast.io/G9RLV\nhttp://blast.io/QUEUR\nhttp://blast.io/2MHEH\nhttp://blast.io/GPSHF\nhttp://blast.io/58OI9",
+          "link": "https://twitter.com/defi_airdrops/status/1727280560152928607",
+          "publishedOn": "2023-11-22T10:59:11.000Z",
+          "wordCount": 1536,
+          "title": "Re more codes: http://blast.io/2Y7NK http://blast.io/TJ15A http://blast.io/A13S0 http://blast.io/CP5KO http://blast.io/F0K1Y http://blast.io/G9RLV htt...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1726809178885517442",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Not only did we get $BLUR but a new airdrop target appeared.\nWhat is @Blast_L2 ?\nIt's a new Ethereum L2 by Blur founder @PacmanBlur \nIt complements Blur and will help Blur achieve its vision to offer seamless NFT perps and trading.\nBut there's more👇\nhttps://x.com/Blast_L2/status/1726747087906464024?s=20\n\n\nBlast: Introducing Blast: The only Ethereum L2 with native yield for ETH and stablecoins.\nWe’ve raised $20m from @Paradigm and @StandardCrypto to build the L2 that helps you earn more.\nDetails on how to get early access at the end of the thread👇",
+          "link": "https://twitter.com/defi_airdrops/status/1726809178885517442",
+          "publishedOn": "2023-11-21T03:46:05.000Z",
+          "wordCount": 1721,
+          "title": "Not only did we get $BLUR but a new airdrop target appeared. What is @Blast_L2 ? It's a new Ethereum L2 by Blur founder @PacmanBlur It complements Blu...",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
