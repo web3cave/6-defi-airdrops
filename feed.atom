@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-01T10:13:07.521Z</id>
+    <id>urn:2023-12-01T11:10:03.770Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-01T10:13:07.521Z</updated>
+    <updated>2023-12-01T11:10:03.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[$STRK Snapshot been taken 📸 "The cut-off for any criteria used to determine who may receive tokens or how many tokens is in the past and no actions...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1730534481336078596</id>
+        <link href="https://twitter.com/defi_airdrops/status/1730534481336078596"/>
+        <updated>2023-12-01T10:29:06.000Z</updated>
+        <summary type="html"><![CDATA[$STRK Snapshot been taken 📸
+"The cut-off for any criteria used to determine who may receive tokens or how many tokens is in the past and no actions or activity now can impact eligibility in any way."
+GL
+
+Starknet Foundation: We have seen that a preview of an iteration of a possible provisions portal has been shared on social media.  As noted a year ago in the original announcement of the STRK token, the Starknet Foundation is developing plans to distribute the token to certain users/contributors for… https://twitter.com/i/web/status/1730532927405003219]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚨 AIRDROP RUMOUR $TENSOR 🚨 @tensor_hq one of the leading NFT marketplaces on Solana has introduced a Blur-like points system for trading and pro...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1730208509067682260</id>
@@ -279,18 +293,6 @@ http://blast.io/U8AIE]]></summary>
         <summary type="html"><![CDATA[Re more codes: 
 http://blast.io/AXAFW
 http://blast.io/03EGG]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re You'll likely have some Blast Points waiting for you when you sign-up. We're not sure how this score is calculated but likely based on DeFi activit...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1726809178885517442</id>
-        <link href="https://twitter.com/defi_airdrops/status/1726809178885517442"/>
-        <updated>2023-11-21T03:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Re You'll likely have some Blast Points waiting for you when you sign-up.
-We're not sure how this score is calculated but likely based on DeFi activity.
-BTW the $BLAST airdrop in May will be split between Developers building on @Blast_L2 and Early users.]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
