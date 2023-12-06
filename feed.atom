@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T05:11:37.217Z</id>
+    <id>urn:2023-12-06T06:16:01.488Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-06T05:11:37.217Z</updated>
+    <updated>2023-12-06T06:16:01.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @cryptomoksh1 @eigenlayer FDV is relevant for airdrops bc they can theoretically dump at that value so high FDV target = better]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1732251780807827599</id>
+        <link href="https://twitter.com/defi_airdrops/status/1732251780807827599"/>
+        <updated>2023-12-06T05:29:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @cryptomoksh1 @eigenlayer FDV is relevant for airdrops bc they can theoretically dump at that value
+so high FDV target = better]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Join our telegram to stay on top of airdrop alpha: https://t.me/+Stjobn_4QE1h2xCm]]></title>
         <id>https://twitter.com/defi_airdrops/status/1732251780807827599</id>
@@ -269,17 +280,6 @@ http://blast.io/FSA0B
 http://blast.io/A13S0
 http://blast.io/7UPZV
 http://blast.io/F0K1Y]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re why yall grabbing links and deposit 0? 😭 DM us for links if you're serious about depositing]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1726809178885517442</id>
-        <link href="https://twitter.com/defi_airdrops/status/1726809178885517442"/>
-        <updated>2023-11-22T03:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Re why yall grabbing links and deposit 0? 😭
-DM us for links if you're serious about depositing]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
