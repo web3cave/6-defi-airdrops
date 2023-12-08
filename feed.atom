@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-08T04:14:40.884Z</id>
+    <id>urn:2023-12-08T05:11:45.160Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-08T04:14:40.884Z</updated>
+    <updated>2023-12-08T05:11:45.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @cryptomoksh1 eth airdrops will continue to shine]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1732959247108034723</id>
+        <link href="https://twitter.com/defi_airdrops/status/1732959247108034723"/>
+        <updated>2023-12-08T03:26:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @cryptomoksh1 eth airdrops will continue to shine]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @therealeduardox at the top of my head Eigenlayer Starknet Ethena Shuffle]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1732959247108034723</id>
+        <link href="https://twitter.com/defi_airdrops/status/1732959247108034723"/>
+        <updated>2023-12-08T03:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @therealeduardox at the top of my head
+Eigenlayer
+Starknet
+Ethena
+Shuffle]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @think_ox no way 😅 Fr? we’re being farmed?]]></title>
         <id>https://twitter.com/defi_airdrops/status/1732959247108034723</id>
@@ -241,36 +265,6 @@ Right now and for the last few days since we've monitored funding rates have bee
         <updated>2023-11-28T07:02:53.000Z</updated>
         <summary type="html"><![CDATA[Re Currently there's $173m $BLUR staked which would result in a yield of ≈ 30% over 6 months or an APY of ≈ 60%
 Not bad for holding a token of the leading NFT marketplace but some people might still not be comfortable with the price risk]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Now the other method to farm the $BLAST airdrop is staking $BLUR. Let's assume 5% of the supply gets airdropped to $BLUR point farmers. Half of tha...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1729395415295115317</id>
-        <link href="https://twitter.com/defi_airdrops/status/1729395415295115317"/>
-        <updated>2023-11-28T07:02:53.000Z</updated>
-        <summary type="html"><![CDATA[Re Now the other method to farm the $BLAST airdrop is staking $BLUR.
-Let's assume 5% of the supply gets airdropped to $BLUR point farmers.
-Half of that - so $50m - goes to $BLUR stakers and the other half to NFT market makers.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re It seems the supply of Blast points will be somewhere between 10 and 11b by the airdrop date in May. Assuming a $2b FDV and 10% airdropped to depos...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1729395415295115317</id>
-        <link href="https://twitter.com/defi_airdrops/status/1729395415295115317"/>
-        <updated>2023-11-28T07:02:52.000Z</updated>
-        <summary type="html"><![CDATA[Re It seems the supply of Blast points will be somewhere between 10 and 11b by the airdrop date in May.
-Assuming a $2b FDV and 10% airdropped to depositors each point would be worth around $0.02
-Full logic 👇
-https://x.com/Dereek70/status/1727815319119393171?s=20
-
-Dereek69: Did some napkin math on @Blast_L2 
-First step was to estimate the outstanding point by extrapolating the leaderboard with a few other wallets i know across the 46000 users.
-I calculated a rough estimation of 55 million points outstanding
-1/]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
