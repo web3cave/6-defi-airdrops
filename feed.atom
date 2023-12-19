@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-19T22:09:46.174Z</id>
+    <id>urn:2023-12-19T23:09:47.051Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-19T22:09:46.174Z</updated>
+    <updated>2023-12-19T23:09:47.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🚨 $FRAME airdrop alert 🚨 If you’ve traded NFTs on Ethereum in the past 2 years you’ll be eligible for a $FRAME airdrop. Frame is an L2 develop...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1737227583945859572</id>
+        <link href="https://twitter.com/defi_airdrops/status/1737227583945859572"/>
+        <updated>2023-12-19T21:45:06.000Z</updated>
+        <summary type="html"><![CDATA[🚨 $FRAME airdrop alert 🚨 
+If you’ve traded NFTs on Ethereum in the past 2 years you’ll be eligible for a $FRAME airdrop.
+Frame is an L2 developed by some top-notch devs focusing on NFTs and gaming applications.
+The tokens are non-transferable for now.
+
+Frame: It's time to enter the next chapter of NFTs, together.
+Today, we're announcing:
+1. Our initial fundraise led by @electriccapital and community members.
+2. The initial airdrop of $FRAME, available to anyone whose traded an NFT on ETH the last two years.
+Happy Holidays! 🎄🖼️]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[$FRENS soon? 👀]]></title>
         <id>https://twitter.com/defi_airdrops/status/1736912005230100812</id>
@@ -256,24 +275,6 @@ https://www.tensor.trade/accept?ref=VWS510]]></summary>
         <link href="https://twitter.com/defi_airdrops/status/1730059394619236731"/>
         <updated>2023-11-30T03:01:18.000Z</updated>
         <summary type="html"><![CDATA[Re 💡tip: deposit into Aevo from Optimism/Arbitrum to save gas.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With $RBN surging in price in the last few weeks the airdrop could be worth up to $48m at current valuation. How to get it: trade futures or options o...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1730059394619236731</id>
-        <link href="https://twitter.com/defi_airdrops/status/1730059394619236731"/>
-        <updated>2023-11-30T03:01:17.000Z</updated>
-        <summary type="html"><![CDATA[With $RBN surging in price in the last few weeks the airdrop could be worth up to $48m at current valuation.
-How to get it: trade futures or options on @aevoxyz 
-The token migration from $RBN to $AEVO is set to happen early Q1 2024 so likely snapshot will be taken then.
-
-
-DeFi Airdrops 🦇🔊: 🚨 AIRDROP RUMOUR @aevoxyz 🚨
-Airdrop enjoyoors will remember Ribbon's juicy $RBN airdrop in DeFi summer.
-They now re-branded to Aevo and simultaneously launched an orderbook options & perp DEX on it's own OP-stack chain.
-They still own 45% of the entire $AEVO token supply 👀]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
