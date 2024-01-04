@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-04T17:10:52.212Z</id>
+    <id>urn:2024-01-04T18:15:09.034Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-04T17:10:52.212Z</updated>
+    <updated>2024-01-04T18:15:09.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -233,17 +233,6 @@ DeFi Airdrops 🦇🔊: 🚨 AIRDROP RUMOUR 🚨
 They raised over $10m in funding and are distributing points to users staking $SOL for $jitoSOL 🪂
 For a limited time they are now giving 10x points 👇
 https://jito.network/staking/?ref=defi_airdrops]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cryptomoksh1 @eigenlayer FDV is relevant for airdrops bc they can theoretically dump at that value so high FDV target = better]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1732251780807827599</id>
-        <link href="https://twitter.com/defi_airdrops/status/1732251780807827599"/>
-        <updated>2023-12-06T05:29:07.000Z</updated>
-        <summary type="html"><![CDATA[Re @cryptomoksh1 @eigenlayer FDV is relevant for airdrops bc they can theoretically dump at that value
-so high FDV target = better]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
