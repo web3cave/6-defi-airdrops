@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-11T05:11:52.631Z</id>
+    <id>urn:2024-01-11T06:16:14.432Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-11T05:11:52.631Z</updated>
+    <updated>2024-01-11T06:16:14.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[oh you like $ETH beta? how about some $STRK soon?]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1745269410657407172</id>
+        <link href="https://twitter.com/defi_airdrops/status/1745269410657407172"/>
+        <updated>2024-01-11T02:20:27.000Z</updated>
+        <summary type="html"><![CDATA[oh you like $ETH beta?
+how about some $STRK soon?]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @9dot999 yeah you cant really tell from the UI it's badly done - mb ask in their discord?]]></title>
         <id>https://twitter.com/defi_airdrops/status/1737636126448664932</id>
