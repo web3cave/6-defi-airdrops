@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-17T12:23:30.840Z</id>
+    <id>urn:2024-01-17T13:15:10.515Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-17T12:23:30.840Z</updated>
+    <updated>2024-01-17T13:15:10.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -183,18 +183,6 @@ Today, we're announcing:
 1. Our initial fundraise led by @electriccapital and community members.
 2. The initial airdrop of $FRAME, available to anyone whose traded an NFT on ETH the last two years.
 Happy Holidays! 🎄🖼️]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$FRENS soon? 👀]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1736912005230100812</id>
-        <link href="https://twitter.com/defi_airdrops/status/1736912005230100812"/>
-        <updated>2023-12-19T00:51:06.000Z</updated>
-        <summary type="html"><![CDATA[$FRENS soon? 👀
-
-friend.tech: 🫰✌️]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
