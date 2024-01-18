@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-18T00:56:42.586Z</id>
+    <id>urn:2024-01-18T01:56:39.395Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-18T00:56:42.587Z</updated>
+    <updated>2024-01-18T01:56:39.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Bookmaker is the most popular fontend but there are many others: https://bookmaker.xyz/]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1747784796003262907</id>
+        <link href="https://twitter.com/defi_airdrops/status/1747784796003262907"/>
+        <updated>2024-01-18T00:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Re Bookmaker is the most popular fontend but there are many others:
+https://bookmaker.xyz/]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We posted about Azuro the first time around 6 months ago when they were tiny. Grown a lot since. Decentralized prediction markets are very real use ca...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1747784796003262907</id>
+        <link href="https://twitter.com/defi_airdrops/status/1747784796003262907"/>
+        <updated>2024-01-18T00:55:42.000Z</updated>
+        <summary type="html"><![CDATA[We posted about Azuro the first time around 6 months ago when they were tiny.
+Grown a lot since.
+Decentralized prediction markets are very real use case.
+Anyone can permisionlessly build a frontend and tap into Azuro's betting liquidity.
+Early Q2 🪂
+https://x.com/azuroprotocol/status/1747667687315026416?s=20
+
+azuro (bet/acc): It's hard being no. 1. Azuro taking the no.1 spot in terms of fees within the last 2 week on @0xPolygon beating out the likes of Uniswap, AAVE, and Quickswap 🤯🤯
+Further cementing Azuro as not only the leading on-chain betting protocol, but a leading protocol in Web3 it's own… https://twitter.com/i/web/status/1747667687315026416]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @aevoxyz @MantaNetwork @dymension $EIGEN]]></title>
         <id>https://twitter.com/defi_airdrops/status/1747545122944999926</id>
