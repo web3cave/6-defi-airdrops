@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-18T04:14:43.239Z</id>
+    <id>urn:2024-01-18T05:12:00.674Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-18T04:14:43.239Z</updated>
+    <updated>2024-01-18T05:12:00.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @0xKingDouble > Cost basis for LayerZero and Wormhole is infinitely lower than Blast you're proving my point]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1747829124042027454</id>
+        <link href="https://twitter.com/defi_airdrops/status/1747829124042027454"/>
+        <updated>2024-01-18T04:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xKingDouble > Cost basis for LayerZero and Wormhole is infinitely lower than Blast
+you're proving my point]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Point and TVL based projects like Blast or Eigenlayer are infinitely better than projects like LayerZero or Wormhole which have a very low sybil co...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1747829124042027454</id>
+        <link href="https://twitter.com/defi_airdrops/status/1747829124042027454"/>
+        <updated>2024-01-18T03:54:21.000Z</updated>
+        <summary type="html"><![CDATA[Re Point and TVL based projects like Blast or Eigenlayer are infinitely better than projects like LayerZero or Wormhole which have a very low sybil cost (close to $0 cost to bridge).
+And then there are the smaller ones that are flying under the radar.
+Like Mavericks when we posted… https://twitter.com/i/web/status/1747829755293134856]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best airdrops are the ones no one is expecting, that are underfarmed and turn into massive growth stories post token launch. The worst ones are th...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1747829124042027454</id>
+        <link href="https://twitter.com/defi_airdrops/status/1747829124042027454"/>
+        <updated>2024-01-18T03:51:50.000Z</updated>
+        <summary type="html"><![CDATA[The best airdrops are the ones no one is expecting, that are underfarmed and turn into massive growth stories post token launch.
+The worst ones are the projects everyone on ct and their dog are sybiling.
+Those are very often disappointing.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Bookmaker is the most popular fontend but there are many others: https://bookmaker.xyz/]]></title>
         <id>https://twitter.com/defi_airdrops/status/1747784796003262907</id>
@@ -228,51 +263,6 @@ DeFi Airdrops 🦇🔊: With Celstia at $11billion FDV the obvious question is
 One where the Data Availability Layer (DA) is secured by Ethereum validators?
 And which enables a ton more use cases outside of DA?
 But @eigenlayer is full you say?🧵]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re btw there's still a tiny bit of capacity left for some LST's like $osETH, $swETH etc. at 450k $ETH right now once it reaches 500k deposits will be ...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1737636126448664932</id>
-        <link href="https://twitter.com/defi_airdrops/status/1737636126448664932"/>
-        <updated>2023-12-21T00:50:24.000Z</updated>
-        <summary type="html"><![CDATA[Re btw there's still a tiny bit of capacity left for some LST's like $osETH, $swETH etc.
-at 450k $ETH right now
-once it reaches 500k deposits will be closed again]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The most important launch since Ethereum itself. The first airdrop we won't be selling. $EIGEN]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1737636126448664932</id>
-        <link href="https://twitter.com/defi_airdrops/status/1737636126448664932"/>
-        <updated>2023-12-21T00:48:30.000Z</updated>
-        <summary type="html"><![CDATA[The most important launch since Ethereum itself.
-The first airdrop we won't be selling.
-$EIGEN
-
-Leighton 🛡: My mental model for @eigenlayer]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 $FRAME airdrop alert 🚨 If you’ve traded NFTs on Ethereum in the past 2 years you’ll be eligible for a $FRAME airdrop. Frame is an L2 develop...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1737227583945859572</id>
-        <link href="https://twitter.com/defi_airdrops/status/1737227583945859572"/>
-        <updated>2023-12-19T21:45:06.000Z</updated>
-        <summary type="html"><![CDATA[🚨 $FRAME airdrop alert 🚨 
-If you’ve traded NFTs on Ethereum in the past 2 years you’ll be eligible for a $FRAME airdrop.
-Frame is an L2 developed by some top-notch devs focusing on NFTs and gaming applications.
-The tokens are non-transferable for now.
-
-Frame: It's time to enter the next chapter of NFTs, together.
-Today, we're announcing:
-1. Our initial fundraise led by @electriccapital and community members.
-2. The initial airdrop of $FRAME, available to anyone whose traded an NFT on ETH the last two years.
-Happy Holidays! 🎄🖼️]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
