@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-19T12:23:05.319Z</id>
+    <id>urn:2024-01-19T13:15:01.089Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-19T12:23:05.319Z</updated>
+    <updated>2024-01-19T13:15:01.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -240,27 +240,6 @@ Until then, here are 5 ways to max your Pearl count:
         <updated>2024-01-11T02:20:27.000Z</updated>
         <summary type="html"><![CDATA[oh you like $ETH beta?
 how about some $STRK soon?]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @9dot999 yeah you cant really tell from the UI it's badly done - mb ask in their discord?]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1737636126448664932</id>
-        <link href="https://twitter.com/defi_airdrops/status/1737636126448664932"/>
-        <updated>2023-12-21T01:14:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @9dot999 yeah you cant really tell from the UI 
-it's badly done - mb ask in their discord?]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @farisShake no check second tweet]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1737636126448664932</id>
-        <link href="https://twitter.com/defi_airdrops/status/1737636126448664932"/>
-        <updated>2023-12-21T01:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @farisShake no check second tweet]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
