@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-22T13:16:20.427Z</id>
+    <id>urn:2024-01-22T14:12:26.649Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-22T13:16:20.427Z</updated>
+    <updated>2024-01-22T14:12:26.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[gm what are we e-begging this week?]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1749406695598804994</id>
+        <link href="https://twitter.com/defi_airdrops/status/1749406695598804994"/>
+        <updated>2024-01-22T12:20:33.000Z</updated>
+        <summary type="html"><![CDATA[gm 
+what are we e-begging this week?]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Can also hedge on perps if you dont like the $BLUR price exposure. Staking site: https://hold.blur.foundation/]]></title>
         <id>https://twitter.com/defi_airdrops/status/1748176598652842385</id>
