@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-29T22:11:56.056Z</id>
+    <id>urn:2024-01-29T23:12:25.477Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-29T22:11:56.056Z</updated>
+    <updated>2024-01-29T23:12:25.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Vaibhav.Hiring ⚡️: want to make sure you know this we value user loyalty highly at socket]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1752066390373306711</id>
+        <link href="https://twitter.com/defi_airdrops/status/1752066390373306711"/>
+        <updated>2024-01-29T14:26:37.000Z</updated>
+        <summary type="html"><![CDATA[RT Vaibhav.Hiring ⚡️
+want to make sure you know this
+we value user loyalty highly at socket]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Us when we count our Eigenlayer points]]></title>
         <id>https://twitter.com/defi_airdrops/status/1750738212799283661</id>
@@ -243,21 +255,6 @@ https://x.com/defi_airdrops/status/1722114102817104061?s=20
 DeFi Airdrops 🦇🔊: To deposit into Aevo you can bridge from Ethereum or - if you want to save fees - from Optimism & Arbitrum.
 If you do decide to trade there and want a 25% REBATE ON TRADING FEES consider to use our referral link (UI will say 10% but it's 25%):
 https://app.aevo.xyz/r/DEFI_AIRDROPS]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://x.com/defi_airdrops/status/1722114098345963991?s=20]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1746846837062131968</id>
-        <link href="https://twitter.com/defi_airdrops/status/1746846837062131968"/>
-        <updated>2024-01-15T10:48:35.000Z</updated>
-        <summary type="html"><![CDATA[Re https://x.com/defi_airdrops/status/1722114098345963991?s=20
-
-DeFi Airdrops 🦇🔊: 🚨 AIRDROP RUMOUR @aevoxyz 🚨
-Airdrop enjoyoors will remember Ribbon's juicy $RBN airdrop in DeFi summer.
-They now re-branded to Aevo and simultaneously launched an orderbook options & perp DEX on it's own OP-stack chain.
-They still own 45% of the entire $AEVO token supply 👀]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
