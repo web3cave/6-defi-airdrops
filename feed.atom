@@ -1,70 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-19T17:13:43.064Z</id>
+    <id>urn:2024-06-19T18:16:33.639Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-19T17:13:43.064Z</updated>
+    <updated>2024-06-19T18:16:33.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re @PerunDeFi https://x.com/defi_airdrops/status/1803304789167759404]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1803304872755994696</id>
-        <link href="https://x.com/defi_airdrops/status/1803304872755994696"/>
-        <updated>2024-06-19T05:52:40.000Z</updated>
-        <summary type="html"><![CDATA[Re @PerunDeFi https://x.com/defi_airdrops/status/1803304789167759404
-
-DeFi Airdrops 🦇🔊: For example, non-consensus at the moment @lyrafinance 
-was $5m TVL when we posted now over >$50m and doing over $30m in option volume daily 
-https://x.com/defi_airdrops/status/1792768183453257950]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re For example, non-consensus at the moment @lyrafinance was $5m TVL when we posted now over >$50m and doing over $30m in option volume daily https://...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1803304789167759404</id>
-        <link href="https://x.com/defi_airdrops/status/1803304789167759404"/>
-        <updated>2024-06-19T05:52:20.000Z</updated>
-        <summary type="html"><![CDATA[Re For example, non-consensus at the moment @lyrafinance 
-was $5m TVL when we posted now over >$50m and doing over $30m in option volume daily 
-https://x.com/defi_airdrops/status/1792768183453257950
-
-DeFi Airdrops 🦇🔊: New Airdrop Yield Stack just dropped 💥
-Deposit $rswETH or $weETH into the Lyra strategies and earn:
-- $LDX points
-- $SWELL / $ETHFI multipliers
-- Eigenlayer points
-- $ETH staking yield
-- 🔜 option yield 
-https://lyra.finance/yield]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re This is why we didn't mention LayerZero btw. Everyone got peanuts diluted by Sybils. The only way you can get juicy surprises is if you swim agains...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1803302668124991939</id>
-        <link href="https://x.com/defi_airdrops/status/1803302668124991939"/>
-        <updated>2024-06-19T05:43:54.000Z</updated>
-        <summary type="html"><![CDATA[Re This is why we didn't mention LayerZero btw. 
-Everyone got peanuts diluted by Sybils.
-The only way you can get juicy surprises is if you swim against the stream and farm projects that are non-consensus.
-We try to highlight those. Pay attention 🫡]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$ZRO checker is live 🪂]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1803297173947523378</id>
-        <link href="https://x.com/defi_airdrops/status/1803297173947523378"/>
-        <updated>2024-06-19T05:22:04.000Z</updated>
-        <summary type="html"><![CDATA[$ZRO checker is live 🪂
-
-LayerZero Foundation: 🔗https://www.layerzero.foundation/eligibility]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[10 minutes until $ZK claims go live. Let's see if the network can handle the stress-test 🫡]]></title>
         <id>https://twitter.com/defi_airdrops/status/1802594459127103593</id>
