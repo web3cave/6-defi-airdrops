@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-21T19:10:04.778Z</id>
+    <id>urn:2024-06-21T20:14:31.059Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-21T19:10:04.778Z</updated>
+    <updated>2024-06-21T20:14:31.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Again, if we don't mention an airdrop it's for a reason 🫡]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1804027733456105510</id>
+        <link href="https://x.com/defi_airdrops/status/1804027733456105510"/>
+        <updated>2024-06-21T05:45:03.000Z</updated>
+        <summary type="html"><![CDATA[Re Again, if we don't mention an airdrop it's for a reason 🫡]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Funny how LayerZero relayer gas fees drop immediately post TGE. For years they were charging multiples of break-even cost via this hidden fee. Farmers...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1804027123142922333</id>
+        <link href="https://x.com/defi_airdrops/status/1804027123142922333"/>
+        <updated>2024-06-21T05:42:38.000Z</updated>
+        <summary type="html"><![CDATA[Funny how LayerZero relayer gas fees drop immediately post TGE.
+For years they were charging multiples of break-even cost via this hidden fee.
+Farmers got farmed 🤝
+https://x.com/YouAreMyYield/status/1803710143474827323
+
+USD Denominated: One underappreciated fact about the $ZRO saga is that after the ZRO snapshot Stargate lowered its fees and they are now dirt cheap]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Link: https://claim.ether.fi/season-2]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1803997368087409012</id>
+        <link href="https://x.com/defi_airdrops/status/1803997368087409012"/>
+        <updated>2024-06-21T03:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Re Link: https://claim.ether.fi/season-2]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA: If you've farmed $ETHFI Season 2 you can decide where you want to claim the tokens on June 30th. Default is Ethereum but you can set it to Arbitr...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1803997364442587541</id>
+        <link href="https://x.com/defi_airdrops/status/1803997364442587541"/>
+        <updated>2024-06-21T03:44:22.000Z</updated>
+        <summary type="html"><![CDATA[PSA: If you've farmed $ETHFI Season 2 you can decide where you want to claim the tokens on June 30th.
+Default is Ethereum but you can set it to Arbitrum if you want cheaper gas.
+Deadline to change the network is June 26th.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Join our Telegram to stay ahead of the best airdrops. We don't miss 🔫 https://t.me/+Stjobn_4QE1h2xCm]]></title>
         <id>https://twitter.com/defi_airdrops/status/1803660393765806411</id>
@@ -217,62 +264,6 @@ LayerZero Foundation: 🔗https://www.layerzero.foundation/eligibility]]></sum
         <updated>2024-06-17T06:49:44.000Z</updated>
         <summary type="html"><![CDATA[10 minutes until $ZK claims go live.
 Let's see if the network can handle the stress-test 🫡]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Hope you got this one, we wrote several times about it 🫡 Join our telegram to stay up to date: https://t.me/+Stjobn_4QE1h2xCm]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1801497994870800511</id>
-        <link href="https://x.com/defi_airdrops/status/1801497994870800511"/>
-        <updated>2024-06-14T06:12:46.000Z</updated>
-        <summary type="html"><![CDATA[Re Hope you got this one, we wrote several times about it 🫡
-Join our telegram to stay up to date:
-https://t.me/+Stjobn_4QE1h2xCm]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Reminder, Azuro is a sports betting protocol with a shared liquidity layer. There are numerous frontends built on Azuro for you to choose from to p...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1801497992496877584</id>
-        <link href="https://x.com/defi_airdrops/status/1801497992496877584"/>
-        <updated>2024-06-14T06:12:46.000Z</updated>
-        <summary type="html"><![CDATA[Re Reminder, Azuro is a sports betting protocol with a shared liquidity layer.
-There are numerous frontends built on Azuro for you to choose from to participate in the protocol and bet on sport events.
-We personally use @bookmakerxyz]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re It's still possible to participate as they announced a second snapshot in about 2 weeks time. This is likely to incentivize activity during the Eur...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1801497989913133341</id>
-        <link href="https://x.com/defi_airdrops/status/1801497989913133341"/>
-        <updated>2024-06-14T06:12:45.000Z</updated>
-        <summary type="html"><![CDATA[Re It's still possible to participate as they announced a second snapshot in about 2 weeks time.
-This is likely to incentivize activity during the Euro2024.
-Check your airdrop allocation here: https://azuro.org/app/airdrop]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sports betting platform @azuroprotocol which raised $11m from @Delphi_Digital @alliancedao @Arrington_Cap etc. announced their airdrop yesterday! They...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1801497986540642553</id>
-        <link href="https://x.com/defi_airdrops/status/1801497986540642553"/>
-        <updated>2024-06-14T06:12:44.000Z</updated>
-        <summary type="html"><![CDATA[Sports betting platform @azuroprotocol which raised $11m from @Delphi_Digital @alliancedao @Arrington_Cap etc. announced their airdrop yesterday!
-They are airdropping 56m $AZUR or 5.6% of the total supply to past users.
-TGE is expected at some point next week!
-
-
-azuro: 🌊AZURO $AZUR AIRDROP  🪂
-Just WEN you thought SEWN would never end and it was safe to go back in the water 🌊
-📷$AZUR Snapshot 1 has been taken
-🌊 Check your tokens in the Azuro App 
-🌊 Stake now to get benefits (time-limited until TGE) 
-⏰ There's still just a bit of time to…]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
