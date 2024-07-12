@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-12T08:17:39.968Z</id>
+    <id>urn:2024-07-12T09:14:56.587Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-12T08:17:39.968Z</updated>
+    <updated>2024-07-12T09:14:56.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[ICYMI: Debank launched a points (XP) program. Claim your initial XP now and get a boost by using this link 👇 https://debank.com/claim?r=380129]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1810986824904413521</id>
-        <link href="https://x.com/defi_airdrops/status/1810986824904413521"/>
-        <updated>2024-07-10T10:38:00.000Z</updated>
-        <summary type="html"><![CDATA[ICYMI: 
-Debank launched a points (XP) program. 
-Claim your initial XP now and get a boost by using this link 👇
-https://debank.com/claim?r=380129
-
-DeBank: 1/6
-Ready to finally meet with your long-awaited DeBank XP? Let it witness your on-chain journey, and boost with DeBank!
-Snapshot was taken at 0:00, July 4th (UTC+0). All active addresses have the chance to claim an initial XP airdrop. Check it now!
-👉 https://debank.com/xp]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re We spoke about Lyra repeatedly and early. Now they are closing down on 70m TVL, announce fat partnerships and their option volumes rising week by w...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1810566485967777933</id>
@@ -292,6 +274,17 @@ Deadline to change the network is June 26th.]]></summary>
         <summary type="html"><![CDATA[Re Join our Telegram to stay ahead of the best airdrops.
 We don't miss 🔫
 https://t.me/+Stjobn_4QE1h2xCm]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re $BLAST currently trading at $3.5b FDV on @aevoxyz. Should be a good cook 🧑‍🍳]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1803660391261827341</id>
+        <link href="https://x.com/defi_airdrops/status/1803660391261827341"/>
+        <updated>2024-06-20T05:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Re $BLAST currently trading at $3.5b FDV on @aevoxyz.
+Should be a good cook 🧑‍🍳]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
