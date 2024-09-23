@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-23T14:14:53.844Z</id>
+    <id>urn:2024-09-23T15:16:34.172Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-23T14:14:53.844Z</updated>
+    <updated>2024-09-23T15:16:34.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[$MORPHO will become transferable soon. Did you farm? https://x.com/morpholabs/status/1828070963314929714?s=46]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1828076723361206355</id>
+        <link href="https://x.com/defi_airdrops/status/1828076723361206355"/>
+        <updated>2024-08-26T14:27:09.000Z</updated>
+        <summary type="html"><![CDATA[$MORPHO will become transferable soon.
+Did you farm?
+https://x.com/morpholabs/status/1828070963314929714?s=46
+
+DeFi Airdrops 🦇🔊: 🚨 $MORPHO AIRDROP ALERT 🚨
+@MorphoLabs could be one of the most overlooked airdrop plays
+The lending protocol raised $16m by a16z and Variant in 2022.
+Morpho Optimizer is one of the most used lending primitives in DeFi and their new protocol Morpho Blue is growing rapidly.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
 </feed>
