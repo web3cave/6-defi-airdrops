@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-26T09:15:18.679Z</id>
+    <id>urn:2024-12-26T10:15:29.175Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-26T09:15:18.679Z</updated>
+    <updated>2024-12-26T10:15:29.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -180,30 +180,6 @@ They also published a BIG partnership with Ethena with bilateral multimillion do
 Here's how you farm👇
 
 Derive (formerly Lyra): $DRV 15.01.25]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Token is non-transferable for now Also, some people are seeing 0 token reward - team is fixing it.]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1861533273060413672</id>
-        <link href="https://x.com/defi_airdrops/status/1861533273060413672"/>
-        <updated>2024-11-26T22:11:32.000Z</updated>
-        <summary type="html"><![CDATA[Re Token is non-transferable for now
-Also, some people are seeing 0 token reward - team is fixing it.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eligibility checker for $WCT and claims are live🪂]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1861531969953374430</id>
-        <link href="https://x.com/defi_airdrops/status/1861531969953374430"/>
-        <updated>2024-11-26T22:06:21.000Z</updated>
-        <summary type="html"><![CDATA[Eligibility checker for $WCT and claims are live🪂
-
-WalletConnect: Eligibility is now live! Check if you qualify, claim your WCT, and start staking your tokens.
-http://airdrop.walletconnect.network]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
