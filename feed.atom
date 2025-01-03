@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-03T22:13:32.258Z</id>
+    <id>urn:2025-01-03T23:14:11.396Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-03T22:13:32.258Z</updated>
+    <updated>2025-01-03T23:14:11.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -68,17 +68,6 @@ Launching in 2024. Learn more below.]]></summary>
         <summary type="html"><![CDATA[An Opensea Foundation has been registered in Cayman Islands 👀
 Could an $OS token be close? 
 They are also about to release their @opensea 2.0 Platform (currently in beta) - so maybe they’ll launch both at the same time?]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Seigneurhol yes that also works although i think you can earn more points by trading]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1864627317806424375</id>
-        <link href="https://x.com/defi_airdrops/status/1864627317806424375"/>
-        <updated>2024-12-05T11:06:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @Seigneurhol yes that also works 
-although i think you can earn more points by trading]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
