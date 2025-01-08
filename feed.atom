@@ -1,75 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-07T23:13:42.494Z</id>
+    <id>urn:2025-01-08T01:12:07.121Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-07T23:13:42.494Z</updated>
+    <updated>2025-01-08T01:12:07.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re Checker: https://app.fuel.network/drop/]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1869031752829939915</id>
-        <link href="https://x.com/defi_airdrops/status/1869031752829939915"/>
-        <updated>2024-12-17T14:47:49.000Z</updated>
-        <summary type="html"><![CDATA[Re Checker: https://app.fuel.network/drop/]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10% $FUEL Genesis AIRDROP 🪂]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1869031322502775083</id>
-        <link href="https://x.com/defi_airdrops/status/1869031322502775083"/>
-        <updated>2024-12-17T14:46:06.000Z</updated>
-        <summary type="html"><![CDATA[10% $FUEL Genesis AIRDROP 🪂
-
-Fuel: Initiating Genesis Drop:
-1 billion FUEL (10% of total supply), 200,000+ unique addresses.
-https://fuel.mirror.xyz/0kuhFNQmhNMW_NEMJbADqRmJTbKWjF0qPaErO52L3FU]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @xxmiddy @AbstractChain stay tuned]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1868537614934085701</id>
-        <link href="https://x.com/defi_airdrops/status/1868537614934085701"/>
-        <updated>2024-12-16T06:04:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @xxmiddy @AbstractChain stay tuned]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will $PENGU be dropped on xmas? 🎄 👀 What we know so far 👇 - 88,888,888,888 total supply - 25.9% for Pugdy holders - 24.2% for other communiti...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1868525842814713939</id>
-        <link href="https://x.com/defi_airdrops/status/1868525842814713939"/>
-        <updated>2024-12-16T05:17:31.000Z</updated>
-        <summary type="html"><![CDATA[Will $PENGU be dropped on xmas? 🎄 👀
-What we know so far 👇
-- 88,888,888,888 total supply
-- 25.9% for Pugdy holders
-- 24.2% for other communities
-- other communities had to fill out a form in @AbstractChain Discord server to get the $PENGU allocation
-- penguin holders will be airdropped regardless of the form
-- trading at $0.055 ($5b FDV) on whales market
-
-
-Pudgy Penguins: Introducing $PENGU, the official coin of Pudgy Penguins.
-Launching in 2024. Learn more below.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Opensea Foundation has been registered in Cayman Islands 👀 Could an $OS token be close? They are also about to release their @opensea 2.0 Platfo...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1867784603668517274</id>
-        <link href="https://x.com/defi_airdrops/status/1867784603668517274"/>
-        <updated>2024-12-14T04:12:05.000Z</updated>
-        <summary type="html"><![CDATA[An Opensea Foundation has been registered in Cayman Islands 👀
-Could an $OS token be close? 
-They are also about to release their @opensea 2.0 Platform (currently in beta) - so maybe they’ll launch both at the same time?]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
 </feed>
