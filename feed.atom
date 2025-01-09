@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-09T12:30:22.250Z</id>
+    <id>urn:2025-01-09T13:22:00.931Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-09T12:30:22.250Z</updated>
+    <updated>2025-01-09T13:22:00.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @0xY10_ @derivexyz 2.5% divided by 1000 people, so each gets 0.0025%]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1877284827973468416</id>
+        <link href="https://x.com/defi_airdrops/status/1877284827973468416"/>
+        <updated>2025-01-09T09:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xY10_ @derivexyz 2.5% divided by 1000 people, so each gets 0.0025%]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re More info on the AI terminal: https://x.com/derivexyz/status/1877128211328291299]]></title>
         <id>https://twitter.com/defi_airdrops/status/1877141249162891521</id>
