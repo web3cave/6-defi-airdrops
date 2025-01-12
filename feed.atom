@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-12T15:13:29.575Z</id>
+    <id>urn:2025-01-12T16:16:13.013Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-12T15:13:29.575Z</updated>
+    <updated>2025-01-12T16:16:13.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -116,18 +116,6 @@ What we know so far 👇
 
 Pudgy Penguins: Introducing $PENGU, the official coin of Pudgy Penguins.
 Launching in 2024. Learn more below.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Opensea Foundation has been registered in Cayman Islands 👀 Could an $OS token be close? They are also about to release their @opensea 2.0 Platfo...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1867784603668517274</id>
-        <link href="https://x.com/defi_airdrops/status/1867784603668517274"/>
-        <updated>2024-12-14T04:12:05.000Z</updated>
-        <summary type="html"><![CDATA[An Opensea Foundation has been registered in Cayman Islands 👀
-Could an $OS token be close? 
-They are also about to release their @opensea 2.0 Platform (currently in beta) - so maybe they’ll launch both at the same time?]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
