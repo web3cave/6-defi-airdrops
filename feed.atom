@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-08T08:17:43.646Z</id>
+    <id>urn:2025-02-08T09:13:34.475Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-08T08:17:43.646Z</updated>
+    <updated>2025-02-08T09:13:34.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -104,16 +104,6 @@ Where do you claim DRV?
 On Derive Chain through the Derive UI, starting January 15, 12:00 AM UTC.
 How does bridging work?
 Seamlessly, with @LayerZero_Core. You can withdraw $DRV to @base or @ethereum as you would any collateral]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Seigneurhol @derivexyz asked team in discord]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1877463398813712545</id>
-        <link href="https://x.com/defi_airdrops/status/1877463398813712545"/>
-        <updated>2025-01-09T21:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @Seigneurhol @derivexyz asked team in discord]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
