@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-10T14:14:39.400Z</id>
+    <id>urn:2025-02-10T15:16:04.031Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-10T14:14:39.400Z</updated>
+    <updated>2025-02-10T15:16:04.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[looks like the @openseafdn website just went live and taken down shortly after what's gonna be the ticker: $SEA, $OPEN or $OS?]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1888963888659550551</id>
+        <link href="https://x.com/defi_airdrops/status/1888963888659550551"/>
+        <updated>2025-02-10T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[looks like the @openseafdn website just went live and taken down shortly after
+what's gonna be the ticker: $SEA, $OPEN or $OS?]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polynomial is kicking into high gear. Issuing 7500 $OP weekly for traders (distributed daily) and 7500 $OP for staking. Great opportunity to earn $OP ...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1887442016700707308</id>
