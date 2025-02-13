@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-13T17:10:56.683Z</id>
+    <id>urn:2025-02-13T18:20:58.490Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-13T17:10:56.683Z</updated>
+    <updated>2025-02-13T18:20:58.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Deposits are on Ethereum and you can withdraw anytime.]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1890094824625434716</id>
+        <link href="https://x.com/defi_airdrops/status/1890094824625434716"/>
+        <updated>2025-02-13T17:44:57.000Z</updated>
+        <summary type="html"><![CDATA[Re Deposits are on Ethereum and you can withdraw anytime.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airdrop farming on @etherealdex has started 🪂 This is Ethena's Hyperliquid. Deposit $USDe now and earn 30x Ethena rewards + Ethereal points: https:...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1890094578956661068</id>
+        <link href="https://x.com/defi_airdrops/status/1890094578956661068"/>
+        <updated>2025-02-13T17:43:58.000Z</updated>
+        <summary type="html"><![CDATA[Airdrop farming on @etherealdex has started 🪂
+This is Ethena's Hyperliquid.
+Deposit $USDe now and earn 30x Ethena rewards + Ethereal points:
+https://deposit.ethereal.trade/points?ref=HWMJP1
+
+Ethereal: Announcing Ethereal's Season Zero launch
+Early deposits are now open
+Season Zero marks the beginning of Ethereal's bootstrapping phase and initial onboarding of USDe collateral
+See details below on the Season Zero points campaign]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re No timeline yet but this seems promising! https://x.com/openseafdn/status/1890041091577057522]]></title>
         <id>https://twitter.com/defi_airdrops/status/1890042406042845585</id>
@@ -255,24 +283,6 @@ Since launch in May 2024
 • 50,000 DAU
 • 15,000 inference requests per hour
 Today, we open our API to the public for AI agents, devs, and 3rd party]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you hold a Gemesis NFT you can try the new Opensea. There will likely be a short period of farming and an airdrop pretty soon after.]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1883916867678728359</id>
-        <link href="https://x.com/defi_airdrops/status/1883916867678728359"/>
-        <updated>2025-01-27T16:35:57.000Z</updated>
-        <summary type="html"><![CDATA[If you hold a Gemesis NFT you can try the new Opensea.
-There will likely be a short period of farming and an airdrop pretty soon after.
-
-
-OpenSea: Snapshot complete.
-Block: 21712313
-Eligible wallets: 49,785
-If you were holding a Gemesis NFT on 1/26/25 at 7:38pm ET, you now have access to the OS2 private beta.
-Head to: http://opensea.io/os2]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
