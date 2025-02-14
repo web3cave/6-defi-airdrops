@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-14T13:21:19.439Z</id>
+    <id>urn:2025-02-14T14:13:41.315Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-14T13:21:19.439Z</updated>
+    <updated>2025-02-14T14:13:41.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re @Cryptopioid @etherealdex nope]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1890253578499158288</id>
-        <link href="https://x.com/defi_airdrops/status/1890253578499158288"/>
-        <updated>2025-02-14T04:15:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @Cryptopioid @etherealdex nope]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re Deposits are on Ethereum and you can withdraw anytime.]]></title>
         <id>https://twitter.com/defi_airdrops/status/1890094824625434716</id>
