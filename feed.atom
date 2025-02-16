@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-16T21:12:49.257Z</id>
+    <id>urn:2025-02-16T22:13:00.374Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-16T21:12:49.257Z</updated>
+    <updated>2025-02-16T22:13:00.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Looks like $KAITO got deployed on @base with an initial supply of 1 billion tokens. The deployer then divided the tokens in 3 buckets (10, 33 and 56%)...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1891207009489269223</id>
+        <link href="https://x.com/defi_airdrops/status/1891207009489269223"/>
+        <updated>2025-02-16T19:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Looks like $KAITO got deployed on @base with an initial supply of 1 billion tokens.
+The deployer then divided the tokens in 3 buckets (10, 33 and 56%)
+Airdrop very likely this or next week 🪂
+Don’t do anything without official announcements from the Kaito team ⛔️‼️]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @_0xUnknown @base 1 billion tokens]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1891206865972863213</id>
+        <link href="https://x.com/defi_airdrops/status/1891206865972863213"/>
+        <updated>2025-02-16T19:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @_0xUnknown @base 1 billion tokens]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[interesting info that most people overlooked $KAITO seems to be planning to launch a chain 👀]]></title>
         <id>https://twitter.com/defi_airdrops/status/1890419369315844508</id>
@@ -213,31 +236,6 @@ ps: there'll 100% be a retroactive component]]></summary>
         <link href="https://x.com/defi_airdrops/status/1889392711620256089"/>
         <updated>2025-02-11T19:15:00.000Z</updated>
         <summary type="html"><![CDATA[Re @vlashkimil 🫶]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re the loyalty part is funny packback time to @blur_io 👿 ps: there'll 100% be a retroactive component]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1889392511832952979</id>
-        <link href="https://x.com/defi_airdrops/status/1889392511832952979"/>
-        <updated>2025-02-11T19:14:12.000Z</updated>
-        <summary type="html"><![CDATA[Re the loyalty part is funny
-packback time to @blur_io 👿
-ps: there'll 100% be a retroactive component]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re you can earn xp buy submitting bids on collections or by listing items seems like blur that they want to incentivize liquidity the closer your bids...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1889391875695489270</id>
-        <link href="https://x.com/defi_airdrops/status/1889391875695489270"/>
-        <updated>2025-02-11T19:11:41.000Z</updated>
-        <summary type="html"><![CDATA[Re you can earn xp buy submitting bids on collections
-or by listing items 
-seems like blur that they want to incentivize liquidity
-the closer your bids & listings are to the floor price of a collection the more XP you get ⭐️]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
