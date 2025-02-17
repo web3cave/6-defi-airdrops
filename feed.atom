@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-17T10:17:21.420Z</id>
+    <id>urn:2025-02-17T11:12:56.450Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-17T10:17:21.420Z</updated>
+    <updated>2025-02-17T11:12:56.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[📷 Snapshot of $KAITO Yaps has been taken The Kaito Genesis NFT snapshot will be taken tomorrow. It's currently trading at $32k.. will have utility ...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1891432394315485466</id>
+        <link href="https://x.com/defi_airdrops/status/1891432394315485466"/>
+        <updated>2025-02-17T10:19:58.000Z</updated>
+        <summary type="html"><![CDATA[📷 Snapshot of $KAITO Yaps has been taken 
+The Kaito Genesis NFT snapshot will be taken tomorrow.
+It's currently trading at $32k.. will have utility beyond TGE according to announcement.
+
+Kaito AI 🌊: The $KAITO Yaps snapshot (yapshot) has been taken, as of 4AM UTC!
+We will also be taking a snapshot for Kaito Genesis NFTs at 4AM UTC tomorrow (18th Feb) - giving time & notice for anyone trading them.
+Both Yaps and the NFTs will have lasting roles in the Kaito ecosystem.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Looks like $KAITO got deployed on @base with an initial supply of 1 billion tokens. The deployer then divided the tokens in 3 buckets (10, 33 and 56%)...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1891207009489269223</id>
@@ -231,38 +247,12 @@ ps: there'll 100% be a retroactive component]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @vlashkimil 🫶]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1889392711620256089</id>
-        <link href="https://x.com/defi_airdrops/status/1889392711620256089"/>
-        <updated>2025-02-11T19:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @vlashkimil 🫶]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[the new @opensea seems to now be open for everyone and it introducs XP 🪂]]></title>
         <id>https://twitter.com/defi_airdrops/status/1889391416616329255</id>
         <link href="https://x.com/defi_airdrops/status/1889391416616329255"/>
         <updated>2025-02-11T19:09:51.000Z</updated>
         <summary type="html"><![CDATA[the new @opensea seems to now be open for everyone 
 and it introducs XP 🪂]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of the more interesting things in DeFi since the Ethena airdrop 🪂 Yields are everything in DeFi and they are cleverly leveraging yield tranchin...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1889358679956152694</id>
-        <link href="https://x.com/defi_airdrops/status/1889358679956152694"/>
-        <updated>2025-02-11T16:59:46.000Z</updated>
-        <summary type="html"><![CDATA[One of the more interesting things in DeFi since the Ethena airdrop 🪂
-Yields are everything in DeFi and they are cleverly leveraging yield tranching to amplify yields for everyone.
-You can sign-up to their waitlist to get early access and a points boost with this link: https://infinifi.xyz?ref=DEFIAIRDROPS
-
-InfiniFi: We Raised $3M to Build the First On-Chain Fractional Reserve System.
-infiniFi is bringing the efficiency of fractional reserve banking to DeFi —automated, transparent, & built for higher yields.
-Learn More👇]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
