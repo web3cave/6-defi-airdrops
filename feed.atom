@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-18T17:13:46.283Z</id>
+    <id>urn:2025-02-18T18:21:12.226Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-18T17:13:46.283Z</updated>
+    <updated>2025-02-18T18:21:12.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @hell0men @muchloveETH where?]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1891854039555457232</id>
+        <link href="https://x.com/defi_airdrops/status/1891854039555457232"/>
+        <updated>2025-02-18T14:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @hell0men @muchloveETH where?]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @muchloveETH that would be $325m airdropped and $0.0000124 per sat]]></title>
         <id>https://twitter.com/defi_airdrops/status/1891851389740978561</id>
@@ -228,29 +238,6 @@ dfinzer.eth | opensea: A lot is changing at @opensea:
         <link href="https://x.com/defi_airdrops/status/1889966298664464618"/>
         <updated>2025-02-13T09:14:14.000Z</updated>
         <summary type="html"><![CDATA[Re @SOCKETProtocol @litocoen @vaibhavchellani 👀]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re looks like they allocated 5% to this airdrop the remaining 5% from the 10% "initial incentives" bucket going out via ecosystem & app incentives htt...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1889966067814138265</id>
-        <link href="https://x.com/defi_airdrops/status/1889966067814138265"/>
-        <updated>2025-02-13T09:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Re looks like they allocated 5% to this airdrop 
-the remaining 5% from the 10% "initial incentives" bucket going out via ecosystem & app incentives
-https://www.story.foundation/blog/initial-incentives]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the $IP airdrop for Kaito yappers and Odyssey participants is ready for claim: https://rewards.story.foundation/]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1889964510234231141</id>
-        <link href="https://x.com/defi_airdrops/status/1889964510234231141"/>
-        <updated>2025-02-13T09:07:07.000Z</updated>
-        <summary type="html"><![CDATA[the $IP airdrop for Kaito yappers and Odyssey participants is ready for claim:
-https://rewards.story.foundation/]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
