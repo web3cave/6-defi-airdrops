@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-18T22:14:05.986Z</id>
+    <id>urn:2025-02-18T23:14:09.107Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-18T22:14:05.986Z</updated>
+    <updated>2025-02-18T23:14:09.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @emp_pheelz @Excelleonyi @0xfluid this one is simple collateral and simple debt check for smart collateral there's one for $sUSDE - $USDT and one f...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1891920423324950681</id>
+        <link href="https://x.com/defi_airdrops/status/1891920423324950681"/>
+        <updated>2025-02-18T18:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @emp_pheelz @Excelleonyi @0xfluid this one is simple collateral and simple debt
+check for smart collateral
+there's one for $sUSDE - $USDT and one for $USDe - $USDT]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @hell0men @muchloveETH where?]]></title>
         <id>https://twitter.com/defi_airdrops/status/1891854039555457232</id>
@@ -228,16 +240,6 @@ dfinzer.eth | opensea: A lot is changing at @opensea:
 • We're rolling out OS2 — a brand new OpenSea built from the ground up. NFTs 🤝 tokens.
 • $SEA is coming from @openseafdn
 • We're changing policies that didn’t make sense for web3: re-enabling locked items and delisted collections, and removing]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SOCKETProtocol @litocoen @vaibhavchellani 👀]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1889966298664464618</id>
-        <link href="https://x.com/defi_airdrops/status/1889966298664464618"/>
-        <updated>2025-02-13T09:14:14.000Z</updated>
-        <summary type="html"><![CDATA[Re @SOCKETProtocol @litocoen @vaibhavchellani 👀]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
