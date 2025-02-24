@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-24T17:13:12.872Z</id>
+    <id>urn:2025-02-24T18:21:12.260Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-24T17:13:12.872Z</updated>
+    <updated>2025-02-24T18:21:12.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[News that Ethena raised $100m to build out Ethena Chain got out today and Ethereal DEX pre-deposits have skyrocketed to $400m $USDe. Wouldn't fade �...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1894033111328928196</id>
+        <link href="https://x.com/defi_airdrops/status/1894033111328928196"/>
+        <updated>2025-02-24T14:34:17.000Z</updated>
+        <summary type="html"><![CDATA[News that Ethena raised $100m to build out Ethena Chain got out today and Ethereal DEX pre-deposits have skyrocketed to $400m $USDe.
+Wouldn't fade 👇
+https://deposit.ethereal.trade/points?ref=HWMJP1
+
+DeFi Airdrops 🦇🔊: Airdrop farming on @etherealdex has started 🪂
+This is Ethena's Hyperliquid.
+Deposit $USDe now and earn 30x Ethena rewards + Ethereal points:
+https://deposit.ethereal.trade/points?ref=HWMJP1]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re distribution]]></title>
         <id>https://twitter.com/defi_airdrops/status/1892529028311011763</id>
