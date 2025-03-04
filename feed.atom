@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-04T12:31:48.324Z</id>
+    <id>urn:2025-03-04T13:22:59.848Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-04T12:31:48.324Z</updated>
+    <updated>2025-03-04T13:22:59.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The ticker is $ZORA 🪂 Zora will launch in Spring on @base 10% retroactive airdrop 2 snapshots 📸 Snapshot 1: taken today Snapshot 2: will be take...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1896627880081420533</id>
+        <link href="https://x.com/defi_airdrops/status/1896627880081420533"/>
+        <updated>2025-03-03T18:24:58.000Z</updated>
+        <summary type="html"><![CDATA[The ticker is $ZORA 🪂
+Zora will launch in Spring on @base
+10% retroactive airdrop 
+2 snapshots 📸
+Snapshot 1: taken today
+Snapshot 2: will be taken just before tge
+
+zora: The ticker is $ZORA. Launching in Spring 2025.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[News that Ethena raised $100m to build out Ethena Chain got out today and Ethereal DEX pre-deposits have skyrocketed to $400m $USDe. Wouldn't fade �...]]></title>
         <id>https://twitter.com/defi_airdrops/status/1894033111328928196</id>
