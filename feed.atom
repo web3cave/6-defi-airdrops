@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-15T23:13:33.985Z</id>
+    <id>urn:2025-03-16T01:19:38.710Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-15T23:13:33.985Z</updated>
+    <updated>2025-03-16T01:19:38.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -220,58 +220,6 @@ Don’t do anything without official announcements from the Kaito team ⛔️‼
         <updated>2025-02-14T15:14:34.000Z</updated>
         <summary type="html"><![CDATA[interesting info that most people overlooked
 $KAITO seems to be planning to launch a chain 👀]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$KAITO 👀]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1890385593500127562</id>
-        <link href="https://x.com/defi_airdrops/status/1890385593500127562"/>
-        <updated>2025-02-14T13:00:21.000Z</updated>
-        <summary type="html"><![CDATA[$KAITO 👀
-
-Kaito AI 🌊: Introducing $KAITO & the release of our whitepaper!
-Entering into the new era of attention and InfoFi, $KAITO will be your key to the distribution center of information, attention and capital.
-More details 👇]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re some people asking where in Fluid this pool is: it's in "smart lending" section]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1890375253144010812</id>
-        <link href="https://x.com/defi_airdrops/status/1890375253144010812"/>
-        <updated>2025-02-14T12:19:16.000Z</updated>
-        <summary type="html"><![CDATA[Re some people asking where in Fluid this pool is:
-it's in "smart lending" section]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2) Go to @spectra_finance and provide liquidity on the APR-30 yield market. There's a 60x multiplier on YT tokens + 29% yield through $SPECTRA ince...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1890371633526808645</id>
-        <link href="https://x.com/defi_airdrops/status/1890371633526808645"/>
-        <updated>2025-02-14T12:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Re 2) Go to @spectra_finance and provide liquidity on the APR-30 yield market.
-There's a 60x multiplier on YT tokens + 29% yield through $SPECTRA incentives
-If you're very bullish on Resolv you can also look at just buying YT tokens.
-https://app.spectra.finance/pools/eth:0x4ce726879557a0b78d974a6f5d95ac4e2e5fd4f5]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ResolvLabs is prolly going to airdrop in 1-2 months 🪂 They are a competitor to Ethena - issuing $USR and $stUSR. Two ways to farm points before...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1890371629672215011</id>
-        <link href="https://x.com/defi_airdrops/status/1890371629672215011"/>
-        <updated>2025-02-14T12:04:52.000Z</updated>
-        <summary type="html"><![CDATA[Re @ResolvLabs is prolly going to airdrop in 1-2 months 🪂
-They are a competitor to Ethena - issuing $USR and $stUSR.
-Two ways to farm points before the airdrop:
-1) go to @0xfluid and provide $USDC - $USR liquidity 
-You earn 7% (trading apr + $USDC yield) + 30x points multiplier for every $1 deposited]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
