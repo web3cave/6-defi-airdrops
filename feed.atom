@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-16T02:57:53.393Z</id>
+    <id>urn:2025-03-16T03:32:33.302Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-16T02:57:53.393Z</updated>
+    <updated>2025-03-16T03:32:33.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -209,17 +209,6 @@ Don’t do anything without official announcements from the Kaito team ⛔️‼
         <link href="https://x.com/defi_airdrops/status/1891206865972863213"/>
         <updated>2025-02-16T19:23:48.000Z</updated>
         <summary type="html"><![CDATA[Re @_0xUnknown @base 1 billion tokens]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[interesting info that most people overlooked $KAITO seems to be planning to launch a chain 👀]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1890419369315844508</id>
-        <link href="https://x.com/defi_airdrops/status/1890419369315844508"/>
-        <updated>2025-02-14T15:14:34.000Z</updated>
-        <summary type="html"><![CDATA[interesting info that most people overlooked
-$KAITO seems to be planning to launch a chain 👀]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
