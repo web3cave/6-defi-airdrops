@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-18T07:16:31.418Z</id>
+    <id>urn:2025-03-18T08:20:50.551Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-18T07:16:31.418Z</updated>
+    <updated>2025-03-18T08:20:50.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -186,29 +186,6 @@ It's currently trading at $32k.. will have utility beyond TGE according to annou
 Kaito AI 🌊: The $KAITO Yaps snapshot (yapshot) has been taken, as of 4AM UTC!
 We will also be taking a snapshot for Kaito Genesis NFTs at 4AM UTC tomorrow (18th Feb) - giving time & notice for anyone trading them.
 Both Yaps and the NFTs will have lasting roles in the Kaito ecosystem.]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looks like $KAITO got deployed on @base with an initial supply of 1 billion tokens. The deployer then divided the tokens in 3 buckets (10, 33 and 56%)...]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1891207009489269223</id>
-        <link href="https://x.com/defi_airdrops/status/1891207009489269223"/>
-        <updated>2025-02-16T19:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Looks like $KAITO got deployed on @base with an initial supply of 1 billion tokens.
-The deployer then divided the tokens in 3 buckets (10, 33 and 56%)
-Airdrop very likely this or next week 🪂
-Don’t do anything without official announcements from the Kaito team ⛔️‼️]]></summary>
-        <author>
-            <name>DeFi Airdrops 🦇🔊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @_0xUnknown @base 1 billion tokens]]></title>
-        <id>https://twitter.com/defi_airdrops/status/1891206865972863213</id>
-        <link href="https://x.com/defi_airdrops/status/1891206865972863213"/>
-        <updated>2025-02-16T19:23:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @_0xUnknown @base 1 billion tokens]]></summary>
         <author>
             <name>DeFi Airdrops 🦇🔊</name>
         </author>
