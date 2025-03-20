@@ -4,7 +4,38 @@
       "title": "Twitter @DeFi Airdrops 🦇🔊",
       "feedUrl": "https://rsshub.app/twitter/user/defi_airdrops",
       "siteUrl": "https://x.com/defi_airdrops",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1896627880081420533",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "The ticker is $ZORA 🪂\nZora will launch in Spring on @base\n10% retroactive airdrop \n2 snapshots 📸\nSnapshot 1: taken today\nSnapshot 2: will be taken just before tge\n\nzora: The ticker is $ZORA. Launching in Spring 2025.",
+          "link": "https://x.com/defi_airdrops/status/1896627880081420533",
+          "publishedOn": "2025-03-03T18:24:58.000Z",
+          "wordCount": null,
+          "title": "The ticker is $ZORA 🪂 Zora will launch in Spring on @base 10% retroactive airdrop 2 snapshots 📸 Snapshot 1: taken today Snapshot 2: will be take...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1894033111328928196",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "News that Ethena raised $100m to build out Ethena Chain got out today and Ethereal DEX pre-deposits have skyrocketed to $400m $USDe.\nWouldn't fade 👇\nhttps://deposit.ethereal.trade/points?ref=HWMJP1\n\nDeFi Airdrops 🦇🔊: Airdrop farming on @etherealdex has started 🪂\nThis is Ethena's Hyperliquid.\nDeposit $USDe now and earn 30x Ethena rewards + Ethereal points:\nhttps://deposit.ethereal.trade/points?ref=HWMJP1",
+          "link": "https://x.com/defi_airdrops/status/1894033111328928196",
+          "publishedOn": "2025-02-24T14:34:17.000Z",
+          "wordCount": null,
+          "title": "News that Ethena raised $100m to build out Ethena Chain got out today and Ethereal DEX pre-deposits have skyrocketed to $400m $USDe. Wouldn't fade �...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1892165302512734234",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "per binance the initial circulating supply will be 24%\n2% going to binance launchpool\nmeaning the airdrop looks to be > 20% 🪂\njuicy\n\n\nDeFi Airdrops 🦇🔊: $KAITO tomorrow 🪂",
+          "link": "https://x.com/defi_airdrops/status/1892165302512734234",
+          "publishedOn": "2025-02-19T10:52:17.000Z",
+          "wordCount": null,
+          "title": "per binance the initial circulating supply will be 24% 2% going to binance launchpool meaning the airdrop looks to be > 20% 🪂 juicy",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
