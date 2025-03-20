@@ -1,8 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-20T07:15:26.785Z</id>
+    <id>urn:2025-03-20T08:20:52.774Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-20T07:15:26.785Z</updated>
+    <updated>2025-03-20T08:20:52.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The ticker is $ZORA 🪂 Zora will launch in Spring on @base 10% retroactive airdrop 2 snapshots 📸 Snapshot 1: taken today Snapshot 2: will be take...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1896627880081420533</id>
+        <link href="https://x.com/defi_airdrops/status/1896627880081420533"/>
+        <updated>2025-03-03T18:24:58.000Z</updated>
+        <summary type="html"><![CDATA[The ticker is $ZORA 🪂
+Zora will launch in Spring on @base
+10% retroactive airdrop 
+2 snapshots 📸
+Snapshot 1: taken today
+Snapshot 2: will be taken just before tge
+
+zora: The ticker is $ZORA. Launching in Spring 2025.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[News that Ethena raised $100m to build out Ethena Chain got out today and Ethereal DEX pre-deposits have skyrocketed to $400m $USDe. Wouldn't fade �...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1894033111328928196</id>
+        <link href="https://x.com/defi_airdrops/status/1894033111328928196"/>
+        <updated>2025-02-24T14:34:17.000Z</updated>
+        <summary type="html"><![CDATA[News that Ethena raised $100m to build out Ethena Chain got out today and Ethereal DEX pre-deposits have skyrocketed to $400m $USDe.
+Wouldn't fade 👇
+https://deposit.ethereal.trade/points?ref=HWMJP1
+
+DeFi Airdrops 🦇🔊: Airdrop farming on @etherealdex has started 🪂
+This is Ethena's Hyperliquid.
+Deposit $USDe now and earn 30x Ethena rewards + Ethereal points:
+https://deposit.ethereal.trade/points?ref=HWMJP1]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[per binance the initial circulating supply will be 24% 2% going to binance launchpool meaning the airdrop looks to be > 20% 🪂 juicy]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1892165302512734234</id>
+        <link href="https://x.com/defi_airdrops/status/1892165302512734234"/>
+        <updated>2025-02-19T10:52:17.000Z</updated>
+        <summary type="html"><![CDATA[per binance the initial circulating supply will be 24%
+2% going to binance launchpool
+meaning the airdrop looks to be > 20% 🪂
+juicy
+
+
+DeFi Airdrops 🦇🔊: $KAITO tomorrow 🪂]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$KAITO tomorrow 🪂]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1892154723995689453</id>
+        <link href="https://x.com/defi_airdrops/status/1892154723995689453"/>
+        <updated>2025-02-19T10:10:15.000Z</updated>
+        <summary type="html"><![CDATA[$KAITO tomorrow 🪂
+
+Kaito AI 🌊: The $KAITO claim will be live tomorrow (Thursday 20th Feb) at 12PM UTC.
+Tokenomics will be released right before claim.
+Trading will go live at 1PM UTC, the same day.
+The InfoFi era begins soon 🌊]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
 </feed>
