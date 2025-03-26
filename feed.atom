@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-26T02:56:03.279Z</id>
+    <id>urn:2025-03-26T03:29:35.247Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-26T02:56:03.279Z</updated>
+    <updated>2025-03-26T03:29:35.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Don't miss out. This will be a cook. Click the button: https://infinifi.xyz?ref=YBC29659]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1904234548084584841</id>
+        <link href="https://x.com/defi_airdrops/status/1904234548084584841"/>
+        <updated>2025-03-24T18:11:09.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss out. This will be a cook.
+Click the button:
+https://infinifi.xyz?ref=YBC29659
+
+InfiniFi: Click the Button. Get Rewarded. 
+http://button.infinifi.xyz]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ticker is $ZORA 🪂 Zora will launch in Spring on @base 10% retroactive airdrop 2 snapshots 📸 Snapshot 1: taken today Snapshot 2: will be take...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1896627880081420533</id>
+        <link href="https://x.com/defi_airdrops/status/1896627880081420533"/>
+        <updated>2025-03-03T18:24:58.000Z</updated>
+        <summary type="html"><![CDATA[The ticker is $ZORA 🪂
+Zora will launch in Spring on @base
+10% retroactive airdrop 
+2 snapshots 📸
+Snapshot 1: taken today
+Snapshot 2: will be taken just before tge
+
+zora: The ticker is $ZORA. Launching in Spring 2025.]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
 </feed>
