@@ -1,8 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-08T01:16:38.411Z</id>
+    <id>urn:2025-04-08T02:58:20.596Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-08T01:16:38.411Z</updated>
+    <updated>2025-04-08T02:58:20.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The first mobile defi wallet @massdotmoney which also pioneered tokenized stocks has started its $MASS airdrop farming program There’s quests that re...]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1905269546480460012</id>
+        <link href="https://x.com/defi_airdrops/status/1905269546480460012"/>
+        <updated>2025-03-27T14:43:52.000Z</updated>
+        <summary type="html"><![CDATA[The first mobile defi wallet @massdotmoney which also pioneered tokenized stocks has started its $MASS airdrop farming program
+There’s quests that reward $MASS for in-app actions like swaps, deposits etc.
+You also get 2 free “spin the wheel” for $MASS tokens per week 🪂
+20% of the supply or 30m $MASS tokens will be distributed in this way
+https://download.mass.money/ref/4K8EBCvmxZZmd4QunsioGk2ebOD]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't miss out. This will be a cook. Click the button: https://infinifi.xyz?ref=YBC29659]]></title>
+        <id>https://twitter.com/defi_airdrops/status/1904234548084584841</id>
+        <link href="https://x.com/defi_airdrops/status/1904234548084584841"/>
+        <updated>2025-03-24T18:11:09.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss out. This will be a cook.
+Click the button:
+https://infinifi.xyz?ref=YBC29659
+
+InfiniFi: Click the Button. Get Rewarded. 
+http://button.infinifi.xyz]]></summary>
+        <author>
+            <name>DeFi Airdrops 🦇🔊</name>
+        </author>
+    </entry>
 </feed>
