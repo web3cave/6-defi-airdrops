@@ -1,4 +1,32 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Twitter @DeFi Airdrops 🦇🔊",
+      "feedUrl": "https://rsshub.app/twitter/user/defi_airdrops",
+      "siteUrl": "https://x.com/defi_airdrops",
+      "articles": [
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1905269546480460012",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "The first mobile defi wallet @massdotmoney which also pioneered tokenized stocks has started its $MASS airdrop farming program\nThere’s quests that reward $MASS for in-app actions like swaps, deposits etc.\nYou also get 2 free “spin the wheel” for $MASS tokens per week 🪂\n20% of the supply or 30m $MASS tokens will be distributed in this way\nhttps://download.mass.money/ref/4K8EBCvmxZZmd4QunsioGk2ebOD",
+          "link": "https://x.com/defi_airdrops/status/1905269546480460012",
+          "publishedOn": "2025-03-27T14:43:52.000Z",
+          "wordCount": null,
+          "title": "The first mobile defi wallet @massdotmoney which also pioneered tokenized stocks has started its $MASS airdrop farming program There’s quests that re...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defi_airdrops/status/1904234548084584841",
+          "author": "DeFi Airdrops 🦇🔊",
+          "description": "Don't miss out. This will be a cook.\nClick the button:\nhttps://infinifi.xyz?ref=YBC29659\n\nInfiniFi: Click the Button. Get Rewarded. \nhttp://button.infinifi.xyz",
+          "link": "https://x.com/defi_airdrops/status/1904234548084584841",
+          "publishedOn": "2025-03-24T18:11:09.000Z",
+          "wordCount": null,
+          "title": "Don't miss out. This will be a cook. Click the button: https://infinifi.xyz?ref=YBC29659",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
